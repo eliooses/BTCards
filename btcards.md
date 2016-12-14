@@ -4,7 +4,8 @@
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
 
-|Service|URL|
+| Service | URL |
+| ------------- |:-------------:|
 |	Advanced Cash	|	http://www.advcash.com/en/	|
 |	ANX	|	https://anxpro.com/pages/card	|
 |	Bitnation	|	https://bitnation.co/bitcoin-debit-card/	|
