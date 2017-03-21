@@ -20,6 +20,7 @@ A brief list of bitcoin debit cards
 |	OKPay	|	https://www.okpay.com/es/	|
 |	Payeer	|	https://payeer.com/en/mastercard/	|
 |	Plutus	|	https://plutus.it/	|
+|	MONI	|	https://moni.com/	|
 |	SatoshiTango	|	https://www.satoshitango.com/signupintl	|
 |	Shake	|	https://shakepay.co/#/	|
 |	SHIFT	|	https://www.shiftpayments.com/coinbase	|
