@@ -1,4 +1,4 @@
-# btcards
+# BTCards
 A brief list of bitcoin debit cards
 
 | Service | URL |
