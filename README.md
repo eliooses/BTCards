@@ -16,12 +16,15 @@ A full list of bitcoin debit cards
 |	CoinJar	|	https://www.coinjar.eu/spend	|
 |	Coinomat	|	https://coinomat.com/cards.php	|
 |	CoinsBank	|	https://coinsbank.com/#cards	|
+|	Criptobuyer	|	https://cryptobuyer.io/	|
 |	Criptopay	|	https://cryptopay.me/bitcoin-debit-card	|
+|	DSX	|	https://dsx.uk/	|
+|	MONI	|	https://moni.com/	|
 |	OKPay	|	https://www.okpay.com/es/	|
+|	OneBit	|	http://www.tenx.tech/wallet.html	|
 |	Paycent	|	https://paycent.io/	|
 |	Payeer	|	https://payeer.com/en/mastercard/	|
 |	Plutus	|	https://plutus.it/	|
-|	MONI	|	https://moni.com/	|
 |	SatoshiTango	|	https://www.satoshitango.com/signupintl	|
 |	Shake	|	https://shakepay.co/#/	|
 |	SHIFT	|	https://www.shiftpayments.com/coinbase	|
