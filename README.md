@@ -18,6 +18,7 @@ A brief list of bitcoin debit cards
 |	CoinsBank	|	https://coinsbank.com/#cards	|
 |	Criptopay	|	https://cryptopay.me/bitcoin-debit-card	|
 |	OKPay	|	https://www.okpay.com/es/	|
+|	Paycent	|	https://paycent.io/	|
 |	Payeer	|	https://payeer.com/en/mastercard/	|
 |	Plutus	|	https://plutus.it/	|
 |	MONI	|	https://moni.com/	|
