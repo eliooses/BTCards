@@ -4,6 +4,7 @@ A full list of bitcoin debit cards
 | Service | URL |
 | ------------- |:-------------:|
 |	Advanced Cash	|	http://www.advcash.com/en/	|
+|	ALFAcashier	| https://www.alfacashier.com/debitcard-order	|
 |	ANX	|	https://anxpro.com/pages/card	|
 |	Bitnation	|	https://bitnation.co/bitcoin-debit-card/	|
 |	Bitnovo	|	https://www.bitnovo.com/tarjeta-monedero-bitcoins	|
@@ -19,7 +20,10 @@ A full list of bitcoin debit cards
 |	Criptobuyer	|	https://cryptobuyer.io/	|
 |	Criptopay	|	https://cryptopay.me/bitcoin-debit-card	|
 |	DSX	|	https://dsx.uk/	|
+|	GCX	|	https://gcx.io/	|
+|	Mobi	|	https://www.mobi.me/	|
 |	MONI	|	https://moni.com/	|
+|	MoneyPolo	|	https://moneypolo.com/int-en/products/prepaid-cards/	|
 |	OKPay	|	https://www.okpay.com/es/	|
 |	OneBit	|	http://www.tenx.tech/wallet.html	|
 |	Paycent	|	https://paycent.io/	|
@@ -33,5 +37,7 @@ A full list of bitcoin debit cards
 |	Uphold	|	https://uphold.com/	|
 |	Uquid	|	https://uquid.com/uquid-card	|
 |	WageCan	|	https://wagecan.com/	|
+|	WB21	|	https://www.wb21.com/fees/	|
 |	Wirex (e-coin)	|	https://wirexapp.com/es/	|
+|	Worldcore	|	https://worldcore.eu/Prepaid-debit-card	|
 |	Xapo	|	https://xapo.com	|
