@@ -1,5 +1,5 @@
 # BTCards
-A full list of bitcoin debit cards
+A full list of bitcoin virtual and physical debit cards
 
 | Service | URL |
 | ------------- |:-------------:|
