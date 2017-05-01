@@ -33,6 +33,7 @@ A full list of bitcoin virtual and physical debit cards
 |	Shake	|	https://shakepay.co/#/	|
 |	SHIFT	|	https://www.shiftpayments.com/coinbase	|
 |	SpectroCoin	|	https://spectrocoin.com/en/bitcoin-debit-card.html	|
+| TokenCard	|	http://tokencard.io/ |
 |	Unichange	|	https://unichange.me/debit_cards	|
 |	Uphold	|	https://uphold.com/	|
 |	Uquid	|	https://uquid.com/uquid-card	|
