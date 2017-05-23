@@ -8,7 +8,7 @@ A full list of bitcoin virtual and physical debit cards
 |	ANX	|	https://anxpro.com/pages/card	|
 |	Bitnation	|	https://bitnation.co/bitcoin-debit-card/	|
 |	Bitnovo	|	https://www.bitnovo.com/tarjeta-monedero-bitcoins	|
-|	Bitpay	|	https://bitpay.com/visa/	|
+|	Bitpay	|	https://bitpay.com/card/get-started	|
 |	Bitplastic	|	https://bitplastic.com/	|
 |	Bitstamp	|	https://www.bitstamp.net/account/debit_card/	|
 |	Bitwala	|	https://www.bitwala.io/get-the-bitwala-bitcoin-prepaid-card/	|
