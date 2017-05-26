@@ -43,3 +43,5 @@ A full list of bitcoin virtual and physical debit cards
 |	Wirex (e-coin)	|	https://wirexapp.com/es/	|
 |	Worldcore	|	https://worldcore.eu/Prepaid-debit-card	|
 |	Xapo	|	https://xapo.com	|
+
+**Donate**: 1FaWYrdgr74H81zUdUU2JGGdYNRKFWheM1
