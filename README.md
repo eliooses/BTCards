@@ -20,11 +20,13 @@ A full list of bitcoin virtual and physical debit cards
 |	Criptobuyer	|	https://cryptobuyer.io/	|
 |	Criptopay	|	https://cryptopay.me/bitcoin-debit-card	|
 |	DSX	|	https://dsx.uk/	|
+|	ePayments	|	https://www.epayments.com	|
 |	GCX	|	https://gcx.io/	|
 |	Mobi	|	https://www.mobi.me/	|
 |	MONACO	|	https://mona.co/	|
 |	MONI	|	https://moni.com/	|
 |	MoneyPolo	|	https://moneypolo.com/int-en/products/prepaid-cards/	|
+|	MyChoice	|	https://mychoicecorporate.com/mychoice-solutions/	|
 |	OKPay	|	https://www.okpay.com/es/	|
 |	OneBit	|	http://www.tenx.tech/wallet.html	|
 |	Paycent	|	https://paycent.io/	|
