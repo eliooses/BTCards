@@ -13,6 +13,7 @@ A full list of bitcoin virtual and physical debit cards
 |	Bitstamp	|	https://www.bitstamp.net/account/debit_card/	|
 |	Bitwala	|	https://www.bitwala.io/get-the-bitwala-bitcoin-prepaid-card/	|
 |	Capitalist	|	https://capitalist.net/	|
+|	Centra	|	http://www.centra.tech/	|
 |	Coinizy	|	https://www.coinizy.com/	|
 |	CoinJar	|	https://www.coinjar.eu/spend	|
 |	Coinomat	|	https://coinomat.com/cards.php	|
