@@ -12,6 +12,7 @@ A full list of cryptocurrencies virtual and physical debit cards.
 |	Bitplastic	|	https://bitplastic.com/	|
 |	Bitstamp	|	https://www.bitstamp.net/account/debit_card/	|
 |	Bitwala	|	https://www.bitwala.io/get-the-bitwala-bitcoin-prepaid-card/	|
+|	Bonpay	|	https://bonpay.com/card/	|
 |	Capitalist	|	https://capitalist.net/	|
 |	Centra	|	http://www.centra.tech/	|
 |	Coinizy	|	https://www.coinizy.com/	|
