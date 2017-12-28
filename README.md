@@ -1,12 +1,17 @@
 # decentradexchange
 A full list of decentralized exchanges of cryptocurrencies and tokens
 
-| Exchange | URL | Status |
-| ------------- |:-------------:|:-------------:|
-|	Oasis DEX	|	https://oasisdex.com | (alpha testing)
-|	EtherDelta	|	https://etherdelta.com | (operating)
-|	DECENTREX	|	https://decentrex.com/ | (will be shutdown on 30 December 2017)
-|	AIRSWAP	|	https://www.airswap.io/ | (Token Launch)
+| Exchange | URL | Status | Protocol |
+| ------------- |:-------------:|:-------------:|:-------------:|
+|	Oasis DEX	|	https://oasisdex.com | (alpha testing) | on-chain |
+|	EtherDelta	|	https://etherdelta.com | (operating) | on-chain |
+|	DECENTREX	|	https://decentrex.com/ | (will be shutdown on 30 December 2017) | on-chain |
+|	AIRSWAP	|	https://www.airswap.io/ | (Token Launch) | Swap protocol |
+|	Bancor	|	https://app.bancor.network/discover | (operating) | Bancor Protocol |
+|	0x	|	https://0xproject.com/portal | (operating) | 0x |
+|	Radar Relay	|	https://app.radarrelay.com/ | (operating) | 0x |
+|	KyberNetwork	|	https://kyber.network | (operating) | on-chain |
+
 
 **LAST UPDATE**: 12/28/2017
 
