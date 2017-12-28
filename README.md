@@ -22,6 +22,10 @@ A full list of decentralized exchanges of cryptocurrencies and tokens
 |	Atlant	|	https://trade.atlant.io | (Token Launch) | atlant protocol |
 |	B&C Exchange	|	https://bcexchange.org | (operating) | bcexchange protocol |
 |	0xchange	|	https://0xchange.me/ | (operating) | 0x protocol |
+|	NVO	|	https://nvo.io/ | (developing, launch Q1 2018) | nvo protocol |
+|	Loopring	|	https://loopring.org | (developing, launch Q2 2018) | loopring protocol |
+
+
 
 *: To be confirmed
 
