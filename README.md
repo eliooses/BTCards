@@ -1,5 +1,5 @@
 # decentradexchange
-A full list of decentralized exchanges of cryptocurrencies and tokens
+A full list of decentralized exchanges of cryptocurrencies and tokens.
 
 | Exchange | URL | Status | Protocol |
 | ------------- |:-------------:|:-------------:|:-------------:|
@@ -11,11 +11,11 @@ A full list of decentralized exchanges of cryptocurrencies and tokens
 |	0x	|	https://0xproject.com/portal | (operating) | 0x protocol |
 |	Radar Relay	|	https://app.radarrelay.com/ | (operating) | 0x protocol |
 |	KyberNetwork	|	https://kyber.network | (operating) | on-chain protocol |
-|	Omega One	|	https://omega.one/ | (ICO) | TBC* |
+|	Omega One	|	https://omega.one/ | (ICO) | TBC * |
 |	Inbest Network	|	https://www.inbest.network/ | (ICO) | inbest protocol |
 |	Bisq	|	https://bisq.network/ | (operating) | bisq protocol |
 |	BarterDEX	|	https://github.com/buildog/BarterDEX | (operating) | barterdex protocol |
-|	EtherEx	|	http://etherex.github.io/etherex | (operating) | TBC* |
+|	EtherEx	|	http://etherex.github.io/etherex | (operating) | TBC * |
 |	OpenLedger DEX	|	https://openledger.io/ | (operating) | bitshares protocol |
 |	Coinffeine	|	http://www.coinffeine.com/ | (developing) | coinffeine protocol |
 |	Waves	|	https://waveswallet.io/ | (operating) | waves protocol (Matcher) |
@@ -26,15 +26,11 @@ A full list of decentralized exchanges of cryptocurrencies and tokens
 |	Loopring	|	https://loopring.org | (developing, launch Q2 2018) | loopring protocol |
 |	COMIT	|	http://www.comit.network/ | (whitepaper) | cross-chain routing protocol (CRP) |
 |	openANX	|	https://www.openanx.org/en/ | (developing) | openanx protocol |
-|	CryptoDerivatives	|	https://cryptoderivatives.market | (operating) | TBC* |
-
-
-
-
-
-
+|	CryptoDerivatives	|	https://cryptoderivatives.market | (operating) | TBC * |
+|	Raiden * *	|	https://raiden.network/ | (released) | raiden protocol |
 
 *: To be confirmed
+* *: Is not a exchange, just a protocol.
 
 **LAST UPDATE**: 12/28/2017
 
