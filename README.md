@@ -1,5 +1,5 @@
-# BTCards
-A full list of cryptocurrencies virtual and physical debit cards.
+# decentradexchange
+A full list of decentralized exchanges of cryptocurrencies and tokens
 
 | Exchange | URL | Status |
 | ------------- |:-------------:|:-------------:|
