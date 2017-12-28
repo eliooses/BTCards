@@ -3,16 +3,24 @@ A full list of decentralized exchanges of cryptocurrencies and tokens
 
 | Exchange | URL | Status | Protocol |
 | ------------- |:-------------:|:-------------:|:-------------:|
-|	Oasis DEX	|	https://oasisdex.com | (alpha testing) | on-chain |
-|	EtherDelta	|	https://etherdelta.com | (operating) | on-chain |
-|	DECENTREX	|	https://decentrex.com/ | (will be shutdown on 30 December 2017) | on-chain |
-|	AIRSWAP	|	https://www.airswap.io/ | (Token Launch) | Swap protocol |
-|	Bancor	|	https://app.bancor.network/discover | (operating) | Bancor Protocol |
+|	Oasis DEX	|	https://oasisdex.com | (alpha testing) | on-chain protocol |
+|	EtherDelta	|	https://etherdelta.com | (operating) | on-chain protocol |
+|	DECENTREX	|	https://decentrex.com/ | (will be shutdown on 30 December 2017) | on-chain protocol |
+|	AIRSWAP	|	https://www.airswap.io/ | (Token Launch) | swap protocol |
+|	Bancor	|	https://app.bancor.network/discover | (operating) | bancor protocol |
 |	0x	|	https://0xproject.com/portal | (operating) | 0x |
-|	Radar Relay	|	https://app.radarrelay.com/ | (operating) | 0x |
-|	KyberNetwork	|	https://kyber.network | (operating) | on-chain |
+|	Radar Relay	|	https://app.radarrelay.com/ | (operating) | 0x protocol |
+|	KyberNetwork	|	https://kyber.network | (operating) | on-chain protocol |
 |	Omega One	|	https://omega.one/ | (ICO) | TBC* |
-|	Inbest Network	|	https://www.inbest.network/ | (ICO) | inbest |
+|	Inbest Network	|	https://www.inbest.network/ | (ICO) | inbest protocol |
+|	Bisq	|	https://bisq.network/ | (operating) | bisq protocol |
+|	BarterDEX	|	https://github.com/buildog/BarterDEX | (operating) | barterdex protocol |
+|	EtherEx	|	http://etherex.github.io/etherex | (operating) | TBC* |
+|	OpenLedger DEX	|	https://openledger.io/ | (operating) | bitshares protocol |
+|	Coinffeine	|	http://www.coinffeine.com/ | (developing) | coinffeine protocol |
+
+
+
 
 *: To be confirmed
 
