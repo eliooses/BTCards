@@ -19,9 +19,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens
 |	OpenLedger DEX	|	https://openledger.io/ | (operating) | bitshares protocol |
 |	Coinffeine	|	http://www.coinffeine.com/ | (developing) | coinffeine protocol |
 |	Waves	|	https://waveswallet.io/ | (operating) | waves protocol (Matcher) |
-
-
-
+|	Atlant	|	https://trade.atlant.io | (operating) | atlant protocol |
 
 *: To be confirmed
 
