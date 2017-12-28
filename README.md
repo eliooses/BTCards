@@ -3,7 +3,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 
 | Exchange | URL | Status | Protocol |
 | ------------- |:-------------:|:-------------:|:-------------:|
-|	Oasis DEX	|	https://oasisdex.com | (alpha testing) | on-chain protocol |
+|	Oasis DEX	|	https://oasisdex.com | (operating - alpha) | on-chain protocol |
 |	EtherDelta	|	https://etherdelta.com | (operating) | on-chain protocol |
 |	DECENTREX	|	https://decentrex.com/ | (will be shutdown on 30 December 2017) | on-chain protocol |
 |	AIRSWAP	|	https://www.airswap.io/ | (Token Launch) | swap protocol |
@@ -27,6 +27,9 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	COMIT	|	http://www.comit.network/ | (whitepaper) | cross-chain routing protocol (CRP) |
 |	openANX	|	https://www.openanx.org/en/ | (developing) | openanx protocol |
 |	CryptoDerivatives	|	https://cryptoderivatives.market | (operating) | TBC * |
+|	Radex	|	https://exchange.rados.io | (operating - alpha) | saturn * |
+|	Raidex	|	https://www.raidex.io/ | (developing) | raiden protocol |
+|	IDEX	|	https://idex.market/ | (operating) | snowglobe protocol |
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
 
 *: To be confirmed
