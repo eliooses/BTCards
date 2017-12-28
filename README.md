@@ -18,6 +18,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens
 |	EtherEx	|	http://etherex.github.io/etherex | (operating) | TBC* |
 |	OpenLedger DEX	|	https://openledger.io/ | (operating) | bitshares protocol |
 |	Coinffeine	|	http://www.coinffeine.com/ | (developing) | coinffeine protocol |
+|	Waves	|	https://waveswallet.io/ | (operating) | waves protocol (Matcher) |
 
 
 
