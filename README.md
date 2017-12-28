@@ -30,6 +30,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
 
 *: To be confirmed
+
 **: Is not a exchange, just a protocol.
 
 **LAST UPDATE**: 12/28/2017
