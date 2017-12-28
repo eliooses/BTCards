@@ -30,6 +30,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Radex	|	https://exchange.rados.io | (operating - alpha) | saturn * |
 |	Raidex	|	https://www.raidex.io/ | (developing) | raiden protocol |
 |	IDEX	|	https://idex.market/ | (operating) | snowglobe protocol |
+|	EthRoox	|	https://etheroox.com/ | (operating with issues) | TBC * |
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
 
 *: To be confirmed
