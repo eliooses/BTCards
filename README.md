@@ -8,7 +8,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens
 |	DECENTREX	|	https://decentrex.com/ | (will be shutdown on 30 December 2017) | on-chain protocol |
 |	AIRSWAP	|	https://www.airswap.io/ | (Token Launch) | swap protocol |
 |	Bancor	|	https://app.bancor.network/discover | (operating) | bancor protocol |
-|	0x	|	https://0xproject.com/portal | (operating) | 0x |
+|	0x	|	https://0xproject.com/portal | (operating) | 0x protocol |
 |	Radar Relay	|	https://app.radarrelay.com/ | (operating) | 0x protocol |
 |	KyberNetwork	|	https://kyber.network | (operating) | on-chain protocol |
 |	Omega One	|	https://omega.one/ | (ICO) | TBC* |
@@ -21,6 +21,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens
 |	Waves	|	https://waveswallet.io/ | (operating) | waves protocol (Matcher) |
 |	Atlant	|	https://trade.atlant.io | (Token Launch) | atlant protocol |
 |	B&C Exchange	|	https://bcexchange.org | (operating) | bcexchange protocol |
+|	0xchange	|	https://0xchange.me/ | (operating) | 0x protocol |
 
 *: To be confirmed
 
