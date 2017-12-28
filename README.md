@@ -27,10 +27,10 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	COMIT	|	http://www.comit.network/ | (whitepaper) | cross-chain routing protocol (CRP) |
 |	openANX	|	https://www.openanx.org/en/ | (developing) | openanx protocol |
 |	CryptoDerivatives	|	https://cryptoderivatives.market | (operating) | TBC * |
-|	Raiden * *	|	https://raiden.network/ | (released) | raiden protocol |
+|	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
 
 *: To be confirmed
-* *: Is not a exchange, just a protocol.
+**: Is not a exchange, just a protocol.
 
 **LAST UPDATE**: 12/28/2017
 
