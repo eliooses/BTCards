@@ -35,6 +35,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Paradex	|	https://paradex.io/ | (private beta) | 0x protocol |
 |	The 0cean	|	https://the0cean.com/ | (private beta) | 0x protocol |
 |	ERC dEX	|	https://ercdex.com/ | (private beta) | 0x protocol |
+|	CryptoBridge	|	https://wallet.crypto-bridge.org/ | (operating) | bitshares protocol |
 |	Amadeus Relay	|	http://amadeusrelay.org/ | (developing) | 0x protocol |
 |	{Set} **	|	https://setprotocol.com/ | (released) | {Set} protocol |
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
