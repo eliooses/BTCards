@@ -16,8 +16,8 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Bisq	|	https://bisq.network/ | (operating) | bisq protocol |
 |	BarterDEX	|	https://github.com/buildog/BarterDEX | (operating) | barterdex protocol |
 |	EtherEx	|	http://etherex.github.io/etherex | (operating) | TBC * |
-|	BitShares	|	https://wallet.bitshares.org/ | (operating) | bitshares protocol |
-|	OpenLedger DEX	|	https://openledger.io/ | (operating) | bitshares protocol |
+|	BitShares	|	https://wallet.bitshares.org/ | (operating) | bitshares protocol (DPOS) |
+|	OpenLedger DEX	|	https://openledger.io/ | (operating) | bitshares protocol (DPOS) |
 |	Coinffeine	|	http://www.coinffeine.com/ | (developing) | coinffeine protocol |
 |	Waves	|	https://waveswallet.io/ | (operating) | waves protocol (Matcher) |
 |	Atlant	|	https://trade.atlant.io | (Token Launch) | atlant protocol |
@@ -36,7 +36,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Paradex	|	https://paradex.io/ | (private beta) | 0x protocol |
 |	The 0cean	|	https://the0cean.com/ | (private beta) | 0x protocol |
 |	ERC dEX	|	https://ercdex.com/ | (private beta) | 0x protocol |
-|	CryptoBridge	|	https://wallet.crypto-bridge.org/ | (operating) | bitshares protocol |
+|	CryptoBridge	|	https://wallet.crypto-bridge.org/ | (operating) | bitshares protocol (DPOS) |
 |	Amadeus Relay	|	http://amadeusrelay.org/ | (developing) | 0x protocol |
 |	{Set} **	|	https://setprotocol.com/ | (released) | {Set} protocol |
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
