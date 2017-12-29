@@ -36,6 +36,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	EthRoox	|	https://etheroox.com/ | (operating with issues) | TBC * |
 |	Arbidex	|	http://arbidex.ch | (developing, launch Q4 2018) | TBC * |
 |	Paradex	|	https://paradex.io/ | (private beta) | 0x protocol |
+|	Aphelion	|	https://aphelion.org/ | (developing, launch Q1 2018) | deal protocol |
 |	VariabL	|	https://variabl.io | (open alpha) | VariabL protocol  |
 |	The 0cean	|	https://the0cean.com/ | (private beta) | 0x protocol |
 |	ERC dEX	|	https://ercdex.com/ | (private beta) | 0x protocol |
@@ -46,10 +47,6 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	{Set} **	|	https://setprotocol.com/ | (released) | {Set} protocol |
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
 |	Ethfinex***	|	https://www.ethfinex.com/ | (private beta) | multi protocol |
-
-
-
-
 
 *: To be confirmed
 
