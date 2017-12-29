@@ -29,6 +29,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	openANX	|	https://www.openanx.org/en/ | (developing) | openanx protocol |
 |	CryptoDerivatives	|	https://cryptoderivatives.market | (operating) | TBC * |
 |	Radex	|	https://exchange.rados.io | (operating - alpha) | saturn * |
+|	Blocknet DEX	|	https://blocknetprotocol.com/#dex | (developing) | blocknet protocol + 0x protocol |
 |	Raidex	|	https://www.raidex.io/ | (developing) | raiden protocol |
 |	Altcoin Exchange	|	https://www.altcoin.io/ | (developing) | raiden protocol |
 |	Cybex	|	https://medium.com/@cybexexchange/ | (developing) | cross-chain protocol |
