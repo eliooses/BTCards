@@ -33,6 +33,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	EthRoox	|	https://etheroox.com/ | (operating with issues) | TBC * |
 |	Arbidex	|	http://arbidex.ch | (developing, launch Q4 2018) | TBC * |
 |	Paradex	|	https://paradex.io/ | (private beta) | 0x protocol |
+|	The 0cean	|	https://the0cean.com/ | (private beta) | 0x protocol |
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
 
 *: To be confirmed
