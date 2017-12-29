@@ -30,6 +30,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	CryptoDerivatives	|	https://cryptoderivatives.market | (operating) | TBC * |
 |	Radex	|	https://exchange.rados.io | (operating - alpha) | saturn * |
 |	Raidex	|	https://www.raidex.io/ | (developing) | raiden protocol |
+|	Cybex	|	https://medium.com/@cybexexchange/ | (developing) | cross-chain protocol |
 |	IDEX	|	https://idex.market/ | (operating) | snowglobe protocol |
 |	EthRoox	|	https://etheroox.com/ | (operating with issues) | TBC * |
 |	Arbidex	|	http://arbidex.ch | (developing, launch Q4 2018) | TBC * |
