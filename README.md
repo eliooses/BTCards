@@ -31,6 +31,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Raidex	|	https://www.raidex.io/ | (developing) | raiden protocol |
 |	IDEX	|	https://idex.market/ | (operating) | snowglobe protocol |
 |	EthRoox	|	https://etheroox.com/ | (operating with issues) | TBC * |
+|	Arbidex	|	http://arbidex.ch | (developing, launch Q4 2018) | TBC * |
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
 
 *: To be confirmed
