@@ -16,6 +16,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Bisq	|	https://bisq.network/ | (operating) | bisq protocol |
 |	BarterDEX	|	https://github.com/buildog/BarterDEX | (operating) | barterdex protocol |
 |	EtherEx	|	http://etherex.github.io/etherex | (operating) | TBC * |
+|	BitShares	|	https://wallet.bitshares.org/ | (operating) | bitshares protocol |
 |	OpenLedger DEX	|	https://openledger.io/ | (operating) | bitshares protocol |
 |	Coinffeine	|	http://www.coinffeine.com/ | (developing) | coinffeine protocol |
 |	Waves	|	https://waveswallet.io/ | (operating) | waves protocol (Matcher) |
