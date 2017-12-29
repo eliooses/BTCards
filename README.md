@@ -41,9 +41,14 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	CryptoBridge	|	https://wallet.crypto-bridge.org/ | (operating) | bitshares protocol (DPOS) |
 |	Freedom Ledger	|	https://www.freedomledger.com/ | (developing) | bitshares protocol (DPOS) |
 |	Amadeus Relay	|	http://amadeusrelay.org/ | (developing) | 0x protocol |
+|	NextExchange	|	https://next.exchange/ | (developing) | TBC * |
 |	{Set} **	|	https://setprotocol.com/ | (released) | {Set} protocol |
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
 |	Ethfinex***	|	https://www.ethfinex.com/ | (private beta) | multi protocol |
+
+
+
+
 
 *: To be confirmed
 
