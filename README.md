@@ -36,6 +36,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Cybex	|	https://medium.com/@cybexexchange/ | (developing) | cross-chain protocol |
 |	IDEX	|	https://idex.market/ | (operating) | snowglobe protocol |
 |	EthRoox	|	https://etheroox.com/ | (operating with issues) | TBC * |
+|	NEX	|	https://neonexchange.org/ | (developing, launch Q3 2018) | off-chain protocol |
 |	Arbidex	|	http://arbidex.ch | (developing, launch Q4 2018) | TBC * |
 |	Paradex	|	https://paradex.io/ | (private beta) | 0x protocol |
 |	Aphelion	|	https://aphelion.org/ | (developing, launch Q1 2018) | deal protocol |
@@ -56,6 +57,6 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 
 ***: Hybrid Exchange Model, full decentralisation in the roadmap.
 
-**LAST UPDATE**: 12/28/2017
+**LAST UPDATE**: 12/30/2017
 
 **Donate**: 1HUwxzaNoo1Qdw9Sh5esHhAf5FXFZ7tk8N
