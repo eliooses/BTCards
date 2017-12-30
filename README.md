@@ -28,6 +28,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	COMIT	|	http://www.comit.network/ | (whitepaper) | cross-chain routing protocol (CRP) |
 |	openANX	|	https://www.openanx.org/en/ | (developing) | openanx protocol |
 |	CryptoDerivatives	|	https://cryptoderivatives.market | (operating) | TBC * |
+|	OmiseGO	|	https://omisego.network/ | (developing) | omisego protocol |
 |	Radex	|	https://exchange.rados.io | (operating - alpha) | saturn * |
 |	Blocknet DEX	|	https://blocknetprotocol.com/#dex | (developing) | blocknet protocol + 0x protocol |
 |	Raidex	|	https://www.raidex.io/ | (developing) | raiden protocol |
