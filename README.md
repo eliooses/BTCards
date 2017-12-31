@@ -33,6 +33,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Blocknet DEX	|	https://blocknetprotocol.com/#dex | (developing) | blocknet protocol + 0x protocol |
 |	Raidex	|	https://www.raidex.io/ | (developing) | raiden protocol |
 |	Altcoin Exchange	|	https://www.altcoin.io/ | (developing) | raiden protocol |
+|	Hodl Hodl	|	https://hodlhodl.com/ | (developing) | TBC * |
 |	Cybex	|	https://medium.com/@cybexexchange/ | (developing) | cross-chain protocol |
 |	IDEX	|	https://idex.market/ | (operating) | snowglobe protocol |
 |	EthRoox	|	https://etheroox.com/ | (operating with issues) | TBC * |
