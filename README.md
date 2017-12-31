@@ -38,6 +38,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	EthRoox	|	https://etheroox.com/ | (operating with issues) | TBC * |
 |	NEX	|	https://neonexchange.org/ | (developing, launch Q3 2018) | off-chain protocol |
 |	Arbidex	|	http://arbidex.ch | (developing, launch Q4 2018) | TBC * |
+|	The World Exchange	|	https://www.theworldexchange.net/ | (operating) | ripple protocol |
 |	Paradex	|	https://paradex.io/ | (private beta) | 0x protocol |
 |	Aphelion	|	https://aphelion.org/ | (developing, launch Q1 2018) | deal protocol |
 |	VariabL	|	https://variabl.io | (open alpha) | VariabL protocol  |
