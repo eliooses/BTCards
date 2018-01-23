@@ -61,4 +61,4 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 
 **LAST UPDATE**: 12/30/2017
 
-**Donate**: 1HUwxzaNoo1Qdw9Sh5esHhAf5FXFZ7tk8N
+**Donate**: 0xcf28eC228eE5Cf04580e36CfacDA75b610c858fe
