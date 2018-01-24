@@ -14,7 +14,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Omega One	|	https://omega.one/ | (ICO) | TBC * |
 |	Inbest Network	|	https://www.inbest.network/ | (ICO) | inbest protocol |
 |	Bisq	|	https://bisq.network/ | (operating) | bisq protocol |
-|	BarterDEX	|	https://github.com/buildog/BarterDEX | (operating) | barterdex protocol |
+|	BarterDEX	|	https://github.com/KomodoPlatform/BarterDEX | (operating) | barterdex protocol |
 |	EtherEx	|	http://etherex.github.io/etherex | (operating) | TBC * |
 |	BitShares	|	https://wallet.bitshares.org/ | (operating) | bitshares protocol (DPOS) |
 |	OpenLedger DEX	|	https://openledger.io/ | (operating) | bitshares protocol (DPOS) |
