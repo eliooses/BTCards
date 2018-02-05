@@ -56,6 +56,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Radex	| 	https://exchange.rados.io	| 	(operating - alpha)	| 	saturn (1)	| 
 | 	Raiden (2)	| 	https://raiden.network/	| 	(released)	| 	raiden protocol	| 
 | 	Raidex	| 	https://www.raidex.io/	| 	(developing)	| 	raiden protocol	| 
+| SingularX	| 	https://ex.singularx.com/	| 	(operating)	| 	TBC (1)	| 
 | 	The 0cean	| 	https://the0cean.com/	| 	(private beta)	| 	0x protocol	| 
 | 	The World Exchange	| 	https://www.theworldexchange.net/	| 	(operating)	| 	ripple protocol	| 
 | 	VariabL	| 	https://variabl.io	| 	(open alpha)	| 	VariabL protocol	| 
