@@ -6,7 +6,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	{Set} (2)	| 	https://setprotocol.com/	| 	(released)	| 	{Set} protocol	| 
 | 	0x	| 	https://0xproject.com/portal	| 	(operating)	| 	0x protocol	| 
 | 	0xchange	| 	https://0xchange.me/	| 	(operating)	| 	0x protocol	| 
-| 	AIRSWAP	| 	https://www.airswap.io/	| 	(Token Launch)	| 	swap peer protocol	| 
+| 	AIRSWAP	| 	https://www.airswap.io/	| 	(Token Launch)	| 	swap protocol	| 
 | 	Altcoin Exchange	| 	https://www.altcoin.io/	| 	(developing)	| 	raiden protocol	| 
 | 	Amadeus Relay	| 	http://amadeusrelay.org/	| 	(developing)	| 	0x protocol	| 
 | 	Aphelion	| 	https://aphelion.org/	| 	(developing, launch Q1 2018)	| 	deal protocol	| 
@@ -74,6 +74,7 @@ trade networks)	|
 | SingularX	| 	https://ex.singularx.com/	| 	(operating)	| 	TBC (1)	| 
 | Stellar Term	| 	https://stellarterm.com/	| 	(operating)	| 	stellar consensus protocol	| 
 | Streamity (3)	| 	https://streamity.org/	| 	(developing)	| TBC (1)	| 
+| Swap Protocol (2)	| 	https://swap.tech/faq/	| 	(operating)	| swap protocol	| 
 | 	The 0cean	| 	https://the0cean.com/	| 	(private beta)	| 	0x protocol	| 
 | 	The World Exchange	| 	https://www.theworldexchange.net/	| 	(operating)	| 	ripple protocol	| 
 | Token Store | 	https://token.store/	| 	(operating)	| TBC (1)	| 
