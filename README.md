@@ -33,10 +33,12 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	CryptoDerivatives	|	https://cryptoderivatives.market | (operating) | TBC * |
 |	OmiseGO	|	https://omisego.network/ | (developing) | omisego protocol |
 |	Radex	|	https://exchange.rados.io | (operating - alpha) | saturn * |
+|	Heat	|	https://heatwallet.com | (operating) | asset-to-asset protocol |
 |	Blocknet DEX	|	https://blocknetprotocol.com/#dex | (developing) | blocknet protocol + 0x protocol |
 |	Raidex	|	https://www.raidex.io/ | (developing) | raiden protocol |
 |	Altcoin Exchange	|	https://www.altcoin.io/ | (developing) | raiden protocol |
 |	Hodl Hodl	|	https://hodlhodl.com/ | (developing) | TBC * |
+|	Herdius	|	https://herdius.com/ | (developing - ICO expected in Q1 2018) | cross-chain protocol |
 |	Cybex	|	https://medium.com/@cybexexchange/ | (developing) | cross-chain protocol |
 |	IDEX	|	https://idex.market/ | (operating) | snowglobe protocol |
 |	EthRoox	|	https://etheroox.com/ | (operating with issues) | TBC * |
@@ -55,7 +57,6 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	{Set} **	|	https://setprotocol.com/ | (released) | {Set} protocol |
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
 |	Ethfinex***	|	https://www.ethfinex.com/ | (private beta) | multi protocol |
-|	Head****	|	https://heatwallet.com | (operating) | asset-to-asset protocol |
 
 *: To be confirmed
 
