@@ -26,6 +26,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	CryptoBridge	| 	https://wallet.crypto-bridge.org/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
 | 	CryptoDerivatives	| 	https://cryptoderivatives.market	| 	(operating)	| 	TBC (1)	| 
 | 	Cybex	| 	https://dex.cybex.io/	| 	(operating)	| 	bitshares protocol (Graphene)	| 
+| 	DDEX	| 	https://ddex.io/trade/	| 	(operating)	| 	0x protocol	| 
 | 	Deex	| 	https://deex.exchange/	| 	(developing)	| 	bitshares protocol (Graphene)	| 
 | 	DECENTREX	| 	https://decentrex.com/	| 	(will be shutdown on 30 December 2017)	| 	on-chain protocol	| 
 | 	DutchX	| 	https://github.com/gnosis/dutch-exchange	| 	(developing)	| 	dutch auction principle	| 
