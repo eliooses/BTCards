@@ -92,6 +92,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | Token Store | 	https://token.store	| 	(operating)	| TBC (1)	| 
 | Trade.io | 	https://trade.io/	| 	(developing)	| raiden protocol	| 
 | 	VariabL (5)	| 	https://variabl.io	| 	(open alpha)	| 	VariabL protocol	| 
+| 	WandX	| 	https://exchange.wandx.co/	| 	(operating)	| 	wandx protocol	| 
 | 	Waves	| 	https://waveswallet.io	| 	(operating)	| 	waves protocol (Matcher)	| 
 | 	xChainge	| 	https://xchain.io	| 	(operating)	| 	counterparty protocol	| 
 
