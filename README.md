@@ -71,6 +71,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Raidex	| 	https://www.raidex.io/	| 	(developing)	| 	raiden protocol	|
 | 	Relayer Network	| 	https://relayer.network/	| 	(developing)	| 	0x protocol (modular 
 trade networks)	|
+| 	Republic Protocol (2)	| https://republicprotocol.com/	| 	(operating)	| 	republic protocol	|
 | 	RuDEX	| 	https://rudex.org/	| 	(operating - beta)	| 	bitshares protocol (Graphene)	|
 | SingularX	| 	https://ex.singularx.com/	| 	(operating)	| 	TBC (1)	| 
 | Stellar Term	| 	https://stellarterm.com/	| 	(operating)	| 	stellar consensus protocol	| 
