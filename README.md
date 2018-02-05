@@ -1,6 +1,8 @@
 # decentradexchange
 A full list of decentralized exchanges of cryptocurrencies and tokens.
 
+**Please consider donate**: 0xcf28eC228eE5Cf04580e36CfacDA75b610c858fe
+
 | 	Exchange	| 	URL	| 	Status	| 	Protocol	| 
 | ------------- |:-------------:|:-------------:|:-------------:|
 | 	{Set} (2)	| 	https://setprotocol.com/	| 	(released)	| 	{Set} protocol	| 
@@ -108,8 +110,6 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 5: Derivatives decentralized exchange
 
 6: Decentralized cash-crypto Exchange
-
-**Donate**: 0xcf28eC228eE5Cf04580e36CfacDA75b610c858fe
 
 ## **SOURCES**: 
 
