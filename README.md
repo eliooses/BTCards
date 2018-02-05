@@ -60,6 +60,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	NEX	| 	https://neonexchange.org/	| 	(developing, launch Q3 2018)	| 	off-chain protocol	| 
 | 	NextExchange	| 	https://next.exchange/	| 	(developing)	| 	TBC (1)	| 
 | 	NVO	| 	https://nvo.io/	| 	(developing, launch Q1 2018)	| 	nvo protocol	| 
+| 	Nxt (5)	| 	https://nxtplatform.org	| 	(operating)	| 	TBC (1)	|
 | 	Oasis DEX	| 	https://oasisdex.com	| 	(operating - alpha)	| 	on-chain protocol	| 
 | 	Omega One	| 	https://omega.one/	| 	(ICO)	| 	TBC (1)	| 
 | 	OmiseGO (2)	| 	https://omisego.network/	| 	(developing)	| 	omisego protocol	| 
