@@ -60,10 +60,10 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Ethfinex (*4)	|	https://www.ethfinex.com/ | (private beta) | multi protocol |
 |	Lykke (*4) |	https://www.lykke.com/ | (operating) | TBC (*1) |
 
-*1: To be confirmed
-*2: Is not a exchange, just a protocol.
-*3: Hybrid centralized/decentralized exchange.
-*4: Hybrid centralized/decentralized exchange, full decentralisation in the roadmap.
+(*1): To be confirmed.
+(*2): Is not a exchange, just a protocol.
+(*3): Hybrid centralized/decentralized exchange.
+(*4): Hybrid centralized/decentralized exchange, full decentralisation in the roadmap.
 
 **LAST UPDATE**: 12/30/2017
 
