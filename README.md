@@ -43,6 +43,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Forkdelta	| 	https://forkdelta.github.io	| 	(operating)	| 	on-chain protocol	| 
 | 	Freedom Ledger	| 	https://www.freedomledger.com/	| 	(developing)	| 	bitshares protocol (DPOS)	| 
 | 	GDEX	| 	https://www.gdex.io/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
+| 	gnodex	| 	https://github.com/gnosis/gnodex	| 	(developing)	| 	off-chain protocol	| 
 | 	Graphene (2)	| 	http://docs.bitshares.eu//index.html	| 	(operating)	| 	bitshares protocol (Graphene)	| 
 | 	Heat	| 	https://heatwallet.com	| 	(operating)	| 	asset-to-asset protocol	| 
 | 	Herdius	| 	https://herdius.com/	| 	(developing - ICO expected in Q1 2018)	| 	cross-chain protocol	| 
