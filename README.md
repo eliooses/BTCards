@@ -41,6 +41,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Forkdelta	| 	https://forkdelta.github.io	| 	(operating)	| 	on-chain protocol	| 
 | 	Freedom Ledger	| 	https://www.freedomledger.com/	| 	(developing)	| 	bitshares protocol (DPOS)	| 
 | 	GDEX	| 	https://www.gdex.io/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
+| 	Graphene (2)	| 	http://docs.bitshares.eu//index.html	| 	(operating)	| 	bitshares protocol (Graphene)	| 
 | 	Heat	| 	https://heatwallet.com	| 	(operating)	| 	asset-to-asset protocol	| 
 | 	Herdius	| 	https://herdius.com/	| 	(developing - ICO expected in Q1 2018)	| 	cross-chain protocol	| 
 | 	Hodl Hodl	| 	https://hodlhodl.com/	| 	(developing)	| 	TBC (1)	| 
@@ -58,7 +59,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	NVO	| 	https://nvo.io/	| 	(developing, launch Q1 2018)	| 	nvo protocol	| 
 | 	Oasis DEX	| 	https://oasisdex.com	| 	(operating - alpha)	| 	on-chain protocol	| 
 | 	Omega One	| 	https://omega.one/	| 	(ICO)	| 	TBC (1)	| 
-| 	OmiseGO	| 	https://omisego.network/	| 	(developing)	| 	omisego protocol	| 
+| 	OmiseGO (2)	| 	https://omisego.network/	| 	(developing)	| 	omisego protocol	| 
 | 	openANX	| 	https://www.openanx.org/en/	| 	(developing)	| 	openanx protocol	| 
 | 	OpenLedger DEX	| 	https://openledger.io/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
 | 	Open Relay	| 	https://openrelay.xyz/	| 	(developing - private alpha)	| 	0x protocol	| 
