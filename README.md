@@ -85,6 +85,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	The 0cean	| 	https://the0cean.com/	| 	(private beta)	| 	0x protocol	| 
 | 	The World Exchange	| 	https://www.theworldexchange.net/	| 	(operating)	| 	ripple protocol	| 
 | Token Store | 	https://token.store	| 	(operating)	| TBC (1)	| 
+| Trade.io | 	https://trade.io/	| 	(developing)	| raiden protocol	| 
 | 	VariabL (5)	| 	https://variabl.io	| 	(open alpha)	| 	VariabL protocol	| 
 | 	Waves	| 	https://waveswallet.io	| 	(operating)	| 	waves protocol (Matcher)	| 
 | 	xChainge	| 	https://xchain.io	| 	(operating)	| 	counterparty protocol	| 
