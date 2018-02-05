@@ -32,7 +32,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	DECENTREX	| 	https://decentrex.com/	| 	(will be shutdown on 30 December 2017)	| 	on-chain protocol	| 
 | 	Dextroid	| 	https://www.dextroid.io/	| 	(operating - beta)	| 	0x protocol	| 
 | 	DutchX	| 	https://github.com/gnosis/dutch-exchange	| 	(developing)	| 	dutch auction principle	| 
-| 	ERC dEX	| 	https://ercdex.com/	| 	(private beta)	| 	0x protocol	| 
+| 	ERC dEX	| 	https://app.ercdex.com	| 	(operating)	| 	0x protocol	| 
 | 	EtherDelta	| 	https://etherdelta.com	| 	(operating)	| 	on-chain protocol	| 
 | 	EtherEx	| 	http://etherex.github.io/etherex	| 	(operating)	| 	TBC (1)	| 
 | 	Ethfinex (4)	| 	https://www.ethfinex.com/	| 	(private beta)	| 	multi protocol	| 
