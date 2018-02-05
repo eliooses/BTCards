@@ -36,6 +36,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	EthRoox	| 	https://etheroox.com/	| 	(operating with issues)	| 	TBC (1)	| 
 | 	Forkdelta	| 	https://forkdelta.github.io	| 	(operating)	| 	on-chain protocol	| 
 | 	Freedom Ledger	| 	https://www.freedomledger.com/	| 	(developing)	| 	bitshares protocol (DPOS)	| 
+| 	GDEX	| 	https://www.gdex.io/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
 | 	Heat	| 	https://heatwallet.com	| 	(operating)	| 	asset-to-asset protocol	| 
 | 	Herdius	| 	https://herdius.com/	| 	(developing - ICO expected in Q1 2018)	| 	cross-chain protocol	| 
 | 	Hodl Hodl	| 	https://hodlhodl.com/	| 	(developing)	| 	TBC (1)	| 
