@@ -59,6 +59,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	OmiseGO	| 	https://omisego.network/	| 	(developing)	| 	omisego protocol	| 
 | 	openANX	| 	https://www.openanx.org/en/	| 	(developing)	| 	openanx protocol	| 
 | 	OpenLedger DEX	| 	https://openledger.io/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
+| 	Open Relay	| 	https://openrelay.xyz/	| 	(developing - private alpha)	| 	0x protocol	| 
 | 	Paradex	| 	https://app.paradex.io/	| 	(operating)	| 	0x protocol	| 
 | 	Radar Relay	| 	https://app.radarrelay.com/	| 	(operating)	| 	0x protocol	| 
 | 	Radex	| 	https://exchange.rados.io	| 	(operating - alpha)	| 	saturn (1)	| 
