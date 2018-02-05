@@ -12,6 +12,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	0x	|	https://0xproject.com/portal | (operating) | 0x protocol |
 |	Radar Relay	|	https://app.radarrelay.com/ | (operating) | 0x protocol |
 |	KyberNetwork	|	https://kyber.network | (operating) | on-chain protocol |
+|	DutchX	|	https://github.com/gnosis/dutch-exchange | (developing) | dutch auction principle |
 |	Omega One	|	https://omega.one/ | (ICO) | TBC * |
 |	Inbest Network	|	https://www.inbest.network/ | (ICO) | inbest protocol |
 |	Bisq	|	https://bisq.network/ | (operating) | bisq protocol |
