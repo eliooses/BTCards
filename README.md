@@ -83,6 +83,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Republic Protocol (2)	| https://republicprotocol.com/	| 	(operating)	| 	republic protocol	|
 | 	RigoBlock	| https://rigoblock.com/	| 	(operating with issues)	| 	rigoblock protocol	|
 | 	RuDEX	| 	https://rudex.org/	| 	(operating - beta)	| 	bitshares protocol (Graphene)	|
+| SDEX	| 	https://www.stellar.org/blog/2018-Stellar-Roadmap/ | 	(developing)	| 	stellar consensus protocol	| 
 | SingularX	| 	https://ex.singularx.com/	| 	(operating)	| 	TBC (1)	| 
 | Stellar Term	| 	https://stellarterm.com/	| 	(operating)	| 	stellar consensus protocol	| 
 | Streamity (3)	| 	https://streamity.org/	| 	(developing)	| TBC (1)	| 
