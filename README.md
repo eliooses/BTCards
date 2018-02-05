@@ -18,6 +18,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Bisq	| 	https://bisq.network/	| 	(operating)	| 	bisq protocol	| 
 | 	BitShares	| 	https://wallet.bitshares.org/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
 | 	Blocknet DEX	| 	https://blocknetprotocol.com/#dex	| 	(developing)	| 	blocknet protocol + 0x protocol	| 
+| 	BlockTrades	| 	https://blocktrades.us	| 	(operating)	| 	counterparty protocol	| 
 | 	Catalyst	| 	https://enigmampc.github.io/catalyst/index.html	| 	(developing - alpha)	| 	enigma protocol	| 
 | 	Coinffeine	| 	http://www.coinffeine.com/	| 	(developing)	| 	coinffeine protocol	| 
 | 	COMIT	| 	http://www.comit.network/	| 	(whitepaper)	| 	cross-chain routing protocol (CRP)	| 
