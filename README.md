@@ -57,12 +57,14 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	{Set} **	|	https://setprotocol.com/ | (released) | {Set} protocol |
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
 |	Ethfinex***	|	https://www.ethfinex.com/ | (private beta) | multi protocol |
+|	Ethfinex***	|	https://www.ethfinex.com/ | (private beta) | multi protocol |
+|	Legolas Exchange***	|	https://legolas.exchange/ | (developing - ICO Q1 2018) | legolas protocol |
 
 *: To be confirmed
 
 **: Is not a exchange, just a protocol.
 
-***: Hybrid Exchange Model, full decentralisation in the roadmap.
+***: Hybrid centralized/decentralized exchange.
 
 **LAST UPDATE**: 12/30/2017
 
