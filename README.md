@@ -52,6 +52,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	KyberNetwork	| 	https://kyber.network	| 	(operating)	| 	on-chain protocol	| 
 | 	Legolas Exchange (3)	| 	https://legolas.exchange/	| 	(developing - ICO Q1 2018)	| 	legolas protocol	|
 | 	Lendroid	| 	https://lendroid.com/	| 	(developing - ICO Q1 2018)	| 	lendroid (non-custodian margin trading) protocol |
+| 	Leverj	| 	https://leverj.io/	| 	(developing)	| 	leverj protocol |
 | 	Loopring	| 	https://loopring.org	| 	(developing, launch Q2 2018)	| 	loopring protocol	| 
 | 	Lykke (4)	| 	https://www.lykke.com/	| 	(operating)	| 	TBC (1)	| 
 | 	Mothership	| 	https://mothership.cx/	| 	(developing)	| 	TBC (1)	| 
@@ -91,5 +92,7 @@ trade networks)	|
 3: Hybrid centralized/decentralized exchange.
 
 4: Hybrid centralized/decentralized exchange, full decentralisation in the roadmap.
+
+5: Derivatives decentralized exchange
 
 **Donate**: 0xcf28eC228eE5Cf04580e36CfacDA75b610c858fe
