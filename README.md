@@ -71,8 +71,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Radex	| 	https://exchange.rados.io	| 	(operating - alpha)	| 	saturn (1)	| 
 | 	Raiden (2)	| 	https://raiden.network/	| 	(released)	| 	raiden protocol	| 
 | 	Raidex	| 	https://www.raidex.io/	| 	(developing)	| 	raiden protocol	|
-| 	Relayer Network	| 	https://relayer.network/	| 	(developing)	| 	0x protocol (modular 
-trade networks)	|
+| 	Relayer Network	| 	https://relayer.network/	| 	(developing)	| 	0x protocol (modular trade networks)	|
 | 	Republic Protocol (2)	| https://republicprotocol.com/	| 	(operating)	| 	republic protocol	|
 | 	RuDEX	| 	https://rudex.org/	| 	(operating - beta)	| 	bitshares protocol (Graphene)	|
 | SingularX	| 	https://ex.singularx.com/	| 	(operating)	| 	TBC (1)	| 
