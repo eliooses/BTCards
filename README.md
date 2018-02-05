@@ -44,6 +44,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Herdius	| 	https://herdius.com/	| 	(developing - ICO expected in Q1 2018)	| 	cross-chain protocol	| 
 | 	Hodl Hodl	| 	https://hodlhodl.com/	| 	(developing)	| 	TBC (1)	| 
 | 	IDEX	| 	https://idex.market/	| 	(operating)	| 	snowglobe protocol	| 
+| 	IDT Exchange	| 	https://trade.idtexchange.com/	| 	(operating)	| 	0x protocol	| 
 | 	Inbest Network	| 	https://www.inbest.network/	| 	(ICO)	| 	inbest protocol	| 
 | 	KyberNetwork	| 	https://kyber.network	| 	(operating)	| 	on-chain protocol	| 
 | 	Legolas Exchange (3)	| 	https://legolas.exchange/	| 	(developing - ICO Q1 2018)	| 	legolas protocol	| 
