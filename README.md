@@ -24,7 +24,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Coinffeine	| 	http://www.coinffeine.com/	| 	(developing)	| 	coinffeine protocol	| 
 | 	COMIT	| 	http://www.comit.network/	| 	(whitepaper)	| 	cross-chain routing protocol (CRP)	|
 | 	Cosmos Network	| 	https://github.com/cosmos/cosmos/blob/master/DEX.md	| 	(whitepaper)	| 	interledger protocol	|
-| 	CryptoBridge	| 	https://wallet.crypto-bridge.org/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
+| 	Crypto Bridge	| 	https://wallet.crypto-bridge.org/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
 | 	CryptoDerivatives	| 	https://cryptoderivatives.market	| 	(operating)	| 	TBC (1)	| 
 | 	Cybex	| 	https://dex.cybex.io/	| 	(operating)	| 	bitshares protocol (Graphene)	| 
 | 	DDEX	| 	https://ddex.io/trade/	| 	(operating)	| 	0x protocol	| 
