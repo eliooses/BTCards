@@ -55,6 +55,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	{Set} **	|	https://setprotocol.com/ | (released) | {Set} protocol |
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
 |	Ethfinex***	|	https://www.ethfinex.com/ | (private beta) | multi protocol |
+|	Head****	|	https://heatwallet.com | (operating) | asset-to-asset protocol |
 
 *: To be confirmed
 
