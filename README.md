@@ -46,6 +46,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Arbidex	|	http://arbidex.ch | (developing, launch Q4 2018) | TBC (*1) |
 |	The World Exchange	|	https://www.theworldexchange.net/ | (operating) | ripple protocol |
 |	Paradex	|	https://paradex.io/ | (private beta) | 0x protocol |
+|	Mothership	|	https://mothership.cx/ | (developing) | TBC (*1) |
 |	Aphelion	|	https://aphelion.org/ | (developing, launch Q1 2018) | deal protocol |
 |	VariabL	|	https://variabl.io | (open alpha) | VariabL protocol  |
 |	The 0cean	|	https://the0cean.com/ | (private beta) | 0x protocol |
@@ -53,7 +54,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	CryptoBridge	|	https://wallet.crypto-bridge.org/ | (operating) | bitshares protocol (DPOS) |
 |	Freedom Ledger	|	https://www.freedomledger.com/ | (developing) | bitshares protocol (DPOS) |
 |	Amadeus Relay	|	http://amadeusrelay.org/ | (developing) | 0x protocol |
-|	NextExchange	|	https://next.exchange/ | (developing) | TBC * |
+|	NextExchange	|	https://next.exchange/ | (developing) | TBC (*1) |
 |	{Set} (*2)	|	https://setprotocol.com/ | (released) | {Set} protocol |
 |	Raiden (*2)	|	https://raiden.network/ | (released) | raiden protocol |
 |	Legolas Exchange (*3)	|	https://legolas.exchange/ | (developing - ICO Q1 2018) | legolas protocol |
