@@ -25,7 +25,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	COMIT	| 	http://www.comit.network/	| 	(whitepaper)	| 	cross-chain routing protocol (CRP)	| 
 | 	CryptoBridge	| 	https://wallet.crypto-bridge.org/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
 | 	CryptoDerivatives	| 	https://cryptoderivatives.market	| 	(operating)	| 	TBC (1)	| 
-| 	Cybex	| 	https://medium.com/@cybexexchange/	| 	(developing)	| 	cross-chain protocol	| 
+| 	Cybex	| 	https://dex.cybex.io/	| 	(operating)	| 	cross-chain protocol (Graphene)	| 
 | 	DECENTREX	| 	https://decentrex.com/	| 	(will be shutdown on 30 December 2017)	| 	on-chain protocol	| 
 | 	DutchX	| 	https://github.com/gnosis/dutch-exchange	| 	(developing)	| 	dutch auction principle	| 
 | 	ERC dEX	| 	https://ercdex.com/	| 	(private beta)	| 	0x protocol	| 
