@@ -47,7 +47,8 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	IDT Exchange	| 	https://trade.idtexchange.com/	| 	(operating)	| 	0x protocol	| 
 | 	Inbest Network	| 	https://www.inbest.network/	| 	(ICO)	| 	inbest protocol	| 
 | 	KyberNetwork	| 	https://kyber.network	| 	(operating)	| 	on-chain protocol	| 
-| 	Legolas Exchange (3)	| 	https://legolas.exchange/	| 	(developing - ICO Q1 2018)	| 	legolas protocol	| 
+| 	Legolas Exchange (3)	| 	https://legolas.exchange/	| 	(developing - ICO Q1 2018)	| 	legolas protocol	|
+| 	Lendroid	| 	https://lendroid.com/	| 	(developing - ICO Q1 2018)	| 	lendroid (non-custodian margin trading) protocol |
 | 	Loopring	| 	https://loopring.org	| 	(developing, launch Q2 2018)	| 	loopring protocol	| 
 | 	Lykke (4)	| 	https://www.lykke.com/	| 	(operating)	| 	TBC (1)	| 
 | 	Mothership	| 	https://mothership.cx/	| 	(developing)	| 	TBC (1)	| 
