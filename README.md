@@ -57,6 +57,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Leverj (5)	| 	https://leverj.io/	| 	(developing)	| 	leverj protocol |
 | 	Loopring	| 	https://loopring.org	| 	(developing, launch Q2 2018)	| 	loopring protocol	| 
 | 	Lykke (4)	| 	https://www.lykke.com/	| 	(operating)	| 	TBC (1)	| 
+| 	Melon DEX	| 	https://github.com/melonproject/cross-chain-exchange-prototype	| 	(developing - prototype)	| 	melonport protocol (cross-chain) | 
 | 	Mothership	| 	https://mothership.cx/	| 	(developing)	| 	TBC (1)	| 
 | 	NEX	| 	https://neonexchange.org/	| 	(developing, launch Q3 2018)	| 	off-chain protocol	| 
 | 	NextExchange	| 	https://next.exchange/	| 	(developing)	| 	TBC (1)	| 
