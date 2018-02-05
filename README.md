@@ -61,10 +61,11 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Lykke (*4) |	https://www.lykke.com/ | (operating) | TBC (*1) |
 
 (*1): To be confirmed.
-(*2): Is not a exchange, just a protocol.
-(*3): Hybrid centralized/decentralized exchange.
-(*4): Hybrid centralized/decentralized exchange, full decentralisation in the roadmap.
 
-**LAST UPDATE**: 12/30/2017
+(*2): Is not a exchange, just a protocol.
+
+(*3): Hybrid centralized/decentralized exchange.
+
+(*4): Hybrid centralized/decentralized exchange, full decentralisation in the roadmap.
 
 **Donate**: 0xcf28eC228eE5Cf04580e36CfacDA75b610c858fe
