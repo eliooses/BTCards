@@ -111,5 +111,5 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 
 ## **SOURCES**: 
 
- - Elio Osés research for "Mercados Descentralizados" book project.
+ - Elio Osés research for "Mercados Descentralizados | #dsociety" book project.
  - ["State of Decentralized Exchanges, 2018"](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79) by [@NathanSexer](https://twitter.com/NathanSexer): [https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79)
