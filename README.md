@@ -5,6 +5,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | ------------- |:-------------:|:-------------:|:-------------:|
 |	Oasis DEX	|	https://oasisdex.com | (operating - alpha) | on-chain protocol |
 |	EtherDelta	|	https://etherdelta.com | (operating) | on-chain protocol |
+|	Forkdelta	|	https://forkdelta.github.io | (operating) | on-chain protocol |
 |	DECENTREX	|	https://decentrex.com/ | (will be shutdown on 30 December 2017) | on-chain protocol |
 |	AIRSWAP	|	https://www.airswap.io/ | (Token Launch) | swap peer protocol |
 |	Bancor	|	https://app.bancor.network/discover | (operating) | bancor protocol |
