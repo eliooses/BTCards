@@ -59,7 +59,8 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Radar Relay	| 	https://app.radarrelay.com/	| 	(operating)	| 	0x protocol	| 
 | 	Radex	| 	https://exchange.rados.io	| 	(operating - alpha)	| 	saturn (1)	| 
 | 	Raiden (2)	| 	https://raiden.network/	| 	(released)	| 	raiden protocol	| 
-| 	Raidex	| 	https://www.raidex.io/	| 	(developing)	| 	raiden protocol	| 
+| 	Raidex	| 	https://www.raidex.io/	| 	(developing)	| 	raiden protocol	|
+| 	RuDEX	| 	https://rudex.org/	| 	(operating - beta)	| 	bitshares protocol (Graphene)	|
 | SingularX	| 	https://ex.singularx.com/	| 	(operating)	| 	TBC (1)	| 
 | Stellar Term	| 	https://stellarterm.com/	| 	(operating)	| 	stellar consensus protocol	| 
 | Streamity (3)	| 	https://streamity.org/	| 	(developing)	| TBC (1)	| 
