@@ -50,6 +50,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Graphene (2)	| 	http://docs.bitshares.eu//index.html	| 	(operating)	| 	bitshares protocol (Graphene)	| 
 | 	Heat	| 	https://heatwallet.com	| 	(operating)	| 	asset-to-asset protocol	| 
 | 	Herdius	| 	https://herdius.com/	| 	(developing - ICO expected in Q1 2018)	| 	cross-chain protocol	| 
+| 	Hydra (2)	| 	http://libertaria.world/	| 	(developing - whitepaper)	| 	hydra protocol	| 
 | 	Hodl Hodl	| 	https://hodlhodl.com/	| 	(developing)	| 	TBC (1)	| 
 | 	IDEX	| 	https://idex.market/	| 	(operating)	| 	snowglobe protocol	| 
 | 	IDT Exchange	| 	https://trade.idtexchange.com/	| 	(operating)	| 	0x protocol	| 
