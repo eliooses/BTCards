@@ -64,6 +64,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | Token Store | 	https://token.store/	| 	(operating)	| TBC (1)	| 
 | 	VariabL	| 	https://variabl.io	| 	(open alpha)	| 	VariabL protocol	| 
 | 	Waves	| 	https://waveswallet.io/	| 	(operating)	| 	waves protocol (Matcher)	| 
+| 	xChainge	| 	https://xchain.io/assets	| 	(operating)	| 	counterparty protocol	| 
 
 1: To be confirmed.
 
