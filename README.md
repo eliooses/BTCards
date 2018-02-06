@@ -102,6 +102,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	VariabL (5)	| 	https://variabl.io	| 	(open alpha)	| 	VariabL protocol	| 
 | 	WandX	| 	https://exchange.wandx.co/	| 	(operating)	| 	wandx protocol	| 
 | 	Waves	| 	https://waveswallet.io	| 	(operating)	| 	waves protocol (Matcher)	| 
+| 	Wyvern	| 	https://exchange.projectwyvern.com/	| 	(operating - alpha)	| wyvern protocol	| 
 | 	xChainge	| 	https://xchain.io	| 	(operating)	| 	counterparty protocol	| 
 | 	Zero Exchange	| 	http://www.zero.exchange/	| 	(operating with issues)	| 	0x protocol	| 
 
