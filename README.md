@@ -22,6 +22,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Bitox Exchange	| 	https://twitter.com/bitox_exchange	| 	(developing)	| 	0x protocol	| 
 | 	BitShares	| 	https://wallet.bitshares.org/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
 | 	Blocknet DEX	| 	https://blocknetprotocol.com/#dex	| 	(developing)	| 	blocknet protocol + 0x protocol	| 
+| 	Blockport (3)	| 	https://blockport.io/	| 	(developing)	| blockport protocol	| 
 | 	BlockTrades	| 	https://blocktrades.us	| 	(operating)	| 	counterparty protocol	| 
 | 	BTSABC	| 	https://bit.btsabc.org/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
 | 	Catalyst	| 	https://enigmampc.github.io/catalyst/index.html	| 	(developing - alpha)	| 	enigma protocol	| 
