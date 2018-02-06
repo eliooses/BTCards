@@ -19,6 +19,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	BarterDEX	| 	https://github.com/KomodoPlatform/BarterDEX	| 	(operating)	| 	barterdex protocol	| 
 | 	Bisq	| 	https://bisq.network/	| 	(operating)	| 	bisq protocol	| 
 | 	BitPoint (6)	| 	http://bitpoint.network/	| 	(operating)	| 	0x protocol	| 
+| 	Bitox Exchange	| 	https://twitter.com/bitox_exchange	| 	(developing)	| 	0x protocol	| 
 | 	BitShares	| 	https://wallet.bitshares.org/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
 | 	Blocknet DEX	| 	https://blocknetprotocol.com/#dex	| 	(developing)	| 	blocknet protocol + 0x protocol	| 
 | 	BlockTrades	| 	https://blocktrades.us	| 	(operating)	| 	counterparty protocol	| 
