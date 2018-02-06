@@ -90,6 +90,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	RuDEX	| 	https://rudex.org/	| 	(operating - beta)	| 	bitshares protocol (Graphene)	|
 | SDEX	| 	https://www.stellar.org/blog/2018-Stellar-Roadmap/ | 	(developing)	| 	stellar consensus protocol	| 
 | SingularX	| 	https://ex.singularx.com/	| 	(operating)	| 	TBC (1)	| 
+| Smart-Exchange	| 	https://debris.gitbooks.io/ethchange/content/	| 	(developing - whitepaper)	| icap protocol | 
 | Stellar Term	| 	https://stellarterm.com/	| 	(operating)	| 	stellar consensus protocol	| 
 | Streamity (3)	| 	https://streamity.org/	| 	(developing)	| TBC (1)	| 
 | Swap Protocol (2)	| 	https://swap.tech/faq/	| 	(operating)	| swap protocol	| 
