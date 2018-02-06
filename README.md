@@ -78,6 +78,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Omega One	| 	https://omega.one/	| 	(ICO)	| 	TBC (1)	| 
 | 	OmiseGO (2)	| 	https://omisego.network/	| 	(developing)	| 	omisego protocol	| 
 | 	openANX	| 	https://www.openanx.org/en/	| 	(developing)	| 	openanx protocol	| 
+| Open Collectors Network	| https://opencollectors.network/	| 	(developing - prototype)	| 	TBC (1)	| 
 | 	OpenLedger DEX	| 	https://openledger.io/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
 | 	Open Relay	| 	https://openrelay.xyz/	| 	(developing - private alpha)	| 	0x protocol	| 
 | 	Paradex	| 	https://app.paradex.io/	| 	(operating)	| 	0x protocol	| 
