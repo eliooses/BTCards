@@ -41,6 +41,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	ERC dEX	| 	https://app.ercdex.com	| 	(operating)	| 	0x protocol	| 
 | 	EtherDelta	| 	https://etherdelta.com	| 	(operating)	| 	on-chain protocol	| 
 | 	EtherEx	| 	http://etherex.github.io/etherex	| 	(operating)	| 	TBC (1)	| 
+| 	EtherFlyer	| 	https://www.etherflyer.com/	| 	(operating)	| 	TBC (1)	| 
 | 	Ethfinex (4)	| 	https://www.ethfinex.com/	| 	(private beta)	| 	multi protocol	| 
 | 	EthRoox	| 	https://etheroox.com/	| 	(operating with issues)	| 	TBC (1)	| 
 | 	ExchangeN	| 	http://www.exchangen.com/	| 	(operating with issues)	| 	TBC (1)	|
