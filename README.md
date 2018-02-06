@@ -60,6 +60,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	IDT Exchange	| 	https://trade.idtexchange.com/	| 	(operating)	| 	0x protocol	| 
 | 	Inbest Network	| 	https://www.inbest.network/	| 	(ICO)	| 	inbest protocol	| 
 | 	KyberNetwork	| 	https://kyber.network	| 	(operating)	| 	on-chain protocol	| 
+| 	LAtoken	| 	http://www.latoken.com/	| 	(operating)	| 	spectre protocol (DAG)	| 
 | 	Legolas Exchange (3)	| 	https://legolas.exchange/	| 	(developing - ICO Q1 2018)	| 	legolas protocol	|
 | 	Lendroid	| 	https://lendroid.com/	| 	(developing - ICO Q1 2018)	| 	lendroid (non-custodian margin trading) protocol |
 | 	Leverj (5)	| 	https://leverj.io/	| 	(developing)	| 	leverj protocol |
