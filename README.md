@@ -96,6 +96,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | Tokens | 	https://www.tokens.net/	| 	(developing)	| dynamic trading rights protocol	| 
 | Token Store | 	https://token.store	| 	(operating)	| TBC (1)	| 
 | Trade.io | 	https://trade.io/	| 	(developing)	| raiden protocol	| 
+| UbiTok.io | https://ubitok.io/	| 	(operating)	| on-chain protocol	| 
 | 	VariabL (5)	| 	https://variabl.io	| 	(open alpha)	| 	VariabL protocol	| 
 | 	WandX	| 	https://exchange.wandx.co/	| 	(operating)	| 	wandx protocol	| 
 | 	Waves	| 	https://waveswallet.io	| 	(operating)	| 	waves protocol (Matcher)	| 
