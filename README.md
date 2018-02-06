@@ -80,7 +80,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Omega One	| 	https://omega.one/	| 	(ICO)	| 	TBC (1)	| 
 | 	OmiseGO (2)	| 	https://omisego.network/	| 	(developing)	| 	omisego protocol	| 
 | 	openANX	| 	https://www.openanx.org/en/	| 	(developing)	| 	openanx protocol	| 
-| Open Collectors Network	| https://opencollectors.network/	| 	(developing - prototype)	| 	TBC (1)	| 
+| 	Open Collectors Network	| https://opencollectors.network/	| 	(developing - prototype)	| 	TBC (1)	| 
 | 	OpenLedger DEX	| 	https://openledger.io/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
 | 	Open Relay	| 	https://openrelay.xyz/	| 	(developing - private alpha)	| 	0x protocol	| 
 | 	Paradex	| 	https://app.paradex.io/	| 	(operating)	| 	0x protocol	| 
@@ -93,18 +93,18 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Republic Protocol (2)	| https://republicprotocol.com/	| 	(operating)	| 	republic protocol	|
 | 	RigoBlock	| https://rigoblock.com/	| 	(operating with issues)	| 	rigoblock protocol	|
 | 	RuDEX	| 	https://rudex.org/	| 	(operating - beta)	| 	bitshares protocol (Graphene)	|
-| SDEX	| 	https://www.stellar.org/blog/2018-Stellar-Roadmap/ | 	(developing)	| 	stellar consensus protocol	| 
-| SingularX	| 	https://ex.singularx.com/	| 	(operating)	| 	TBC (1)	| 
-| Smart-Exchange	| 	https://debris.gitbooks.io/ethchange/content/	| 	(developing - whitepaper)	| icap protocol | 
-| Stellar Term	| 	https://stellarterm.com/	| 	(operating)	| 	stellar consensus protocol	| 
-| Streamity (3)	| 	https://streamity.org/	| 	(developing)	| TBC (1)	| 
-| Swap Protocol (2)	| 	https://swap.tech/faq/	| 	(operating)	| swap protocol	| 
+| 	SDEX	| 	https://www.stellar.org/blog/2018-Stellar-Roadmap/ | 	(developing)	| 	stellar consensus protocol	| 
+| 	SingularX	| 	https://ex.singularx.com/	| 	(operating)	| 	TBC (1)	| 
+| 	Smart-Exchange	| 	https://debris.gitbooks.io/ethchange/content/	| 	(developing - whitepaper)	| icap protocol | 
+| 	Stellar Term	| 	https://stellarterm.com/	| 	(operating)	| 	stellar consensus protocol	| 
+| 	Streamity (3)	| 	https://streamity.org/	| 	(developing)	| TBC (1)	| 
+| 	Swap Protocol (2)	| 	https://swap.tech/faq/	| 	(operating)	| swap protocol	| 
 | 	The 0cean	| 	https://the0cean.com/	| 	(private beta)	| 	0x protocol	| 
 | 	The World Exchange	| 	https://www.theworldexchange.net/	| 	(operating)	| 	ripple protocol	| 
-| Tokens | 	https://www.tokens.net/	| 	(developing)	| dynamic trading rights protocol	| 
-| Token Store | 	https://token.store	| 	(operating)	| TBC (1)	| 
-| Trade.io | 	https://trade.io/	| 	(developing)	| raiden protocol	| 
-| UbiTok.io | https://ubitok.io/	| 	(operating)	| on-chain protocol	| 
+| 	Tokens | 	https://www.tokens.net/	| 	(developing)	| dynamic trading rights protocol	| 
+| 	Token Store | 	https://token.store	| 	(operating)	| TBC (1)	| 
+| 	Trade.io | 	https://trade.io/	| 	(developing)	| raiden protocol	| 
+| 	UbiTok.io | https://ubitok.io/	| 	(operating)	| on-chain protocol	| 
 | 	VariabL (5)	| 	https://variabl.io	| 	(open alpha)	| 	VariabL protocol	| 
 | 	WandX	| 	https://exchange.wandx.co/	| 	(operating)	| 	wandx protocol	| 
 | 	Waves	| 	https://waveswallet.io	| 	(operating)	| 	waves protocol (Matcher)	| 
