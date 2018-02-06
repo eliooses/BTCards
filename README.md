@@ -60,6 +60,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	IDEX	| 	https://idex.market/	| 	(operating)	| 	snowglobe protocol	| 
 | 	IDT Exchange	| 	https://trade.idtexchange.com/	| 	(operating)	| 	0x protocol	| 
 | 	Inbest Network	| 	https://www.inbest.network/	| 	(ICO)	| 	inbest protocol	| 
+| 	JOYSO (3)	| 	https://joyso.io/	| 	(ICO)	| 	hex protocol	| 
 | 	KyberNetwork	| 	https://kyber.network	| 	(operating)	| 	on-chain protocol	| 
 | 	LAtoken	| 	http://www.latoken.com/	| 	(operating)	| 	spectre protocol (DAG)	| 
 | 	Legolas Exchange (3)	| 	https://legolas.exchange/	| 	(developing - ICO Q1 2018)	| 	legolas protocol	|
