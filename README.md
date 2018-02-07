@@ -18,7 +18,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Bancor	| 	https://app.bancor.network/discover	| 	(operating)	| 	bancor protocol	| 
 | 	BarterDEX	| 	https://github.com/KomodoPlatform/BarterDEX	| 	(operating)	| 	barterdex protocol	| 
 | 	Binkd (3)	| 	https://www.binkd.com/	| 	(developing)	| 	0x protocol	| 
-| 	Bisq	| 	https://bisq.network/	| 	(operating)	| 	bisq protocol	| 
+| 	Bisq	(6) | 	https://bisq.network/	| 	(operating)	| 	bisq protocol	| 
 | 	BitPoint (6)	| 	http://bitpoint.network/	| 	(operating)	| 	0x protocol	| 
 | 	Bitox Exchange	| 	https://twitter.com/bitox_exchange	| 	(developing)	| 	0x protocol	| 
 | 	BitShares	| 	https://wallet.bitshares.org/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
