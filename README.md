@@ -118,6 +118,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	xChainge	| 	https://xchain.io	| 	(operating)	| 	counterparty protocol	| 
 | 	Zero Exchange	| 	http://www.zero.exchange/	| 	(operating with issues)	| 	0x protocol	| 
 
+## **REFERENCES**: 
 
 1: To be confirmed.
 
@@ -132,6 +133,10 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 6: Decentralized cash-crypto exchange.
 
 7: http://blog.rippex.net/br/2018/02/gateway-closure/
+
+## **NOTES**:
+
+Yes. A key column missing. Is the column of degree of decentralization. It is a complex task, since it not only requires a very specific technical definition, but also requires an exhaustive analysis of each of the exchanges that we include. We are working on it. But all help is welcome.
 
 ## **SOURCES**: 
 
