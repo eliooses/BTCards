@@ -33,6 +33,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Crypto Bridge	| 	https://wallet.crypto-bridge.org/	| 	(operating)	| 	bitshares protocol (DPOS)	| 
 | 	CryptoDerivatives	| 	https://cryptoderivatives.market	| 	(operating)	| 	TBC (1)	| 
 | 	Cybex	| 	https://dex.cybex.io/	| 	(operating)	| 	bitshares protocol (Graphene)	| 
+|  DC-Ex	| 	https://www.dc-ex.com/	| 	(operating)	| 	TBC (1)	| 
 | 	DDEX	| 	https://ddex.io/trade/	| 	(operating)	| 	0x protocol	| 
 | 	Deex	| 	https://deex.exchange/	| 	(developing)	| 	bitshares protocol (Graphene)	| 
 | 	DECENT EX	| 	https://decent.exchange/	| 	(operating)	| 	0x protocol	| 
