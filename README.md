@@ -95,7 +95,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Republic Protocol (2)	| https://republicprotocol.com/	| 	(operating)	| 	republic protocol	|
 | 	RigoBlock	| https://rigoblock.com/	| 	(operating with issues)	| 	rigoblock protocol	|
 |  Ripple (2) | https://ripple.com | (operating) | ripple protocol |
-|  Rippex | https://rippex.net/carteira-ripple.php | (operating - (will be shutdown (7)) | ripple protocol |
+|  Rippex | https://rippex.net/carteira-ripple.php | (will be shutdown (7)) | ripple protocol |
 | 	RuDEX	| 	https://rudex.org/	| 	(operating - beta)	| 	bitshares protocol (Graphene)	|
 | 	SDEX	| 	https://www.stellar.org/blog/2018-Stellar-Roadmap/ | 	(developing)	| 	stellar consensus protocol	| 
 | 	SingularX	| 	https://ex.singularx.com/	| 	(operating)	| 	TBC (1)	| 
