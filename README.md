@@ -94,6 +94,8 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Relayer Network	| 	https://relayer.network/	| 	(developing)	| 	0x protocol (modular trade networks)	|
 | 	Republic Protocol (2)	| https://republicprotocol.com/	| 	(operating)	| 	republic protocol	|
 | 	RigoBlock	| https://rigoblock.com/	| 	(operating with issues)	| 	rigoblock protocol	|
+|  Ripple (2) | https://ripple.com | (operating) | ripple protocol |
+|  Ripple Desktop Wallet | https://rippex.net/carteira-ripple.php | (operating) | ripple protocol |
 | 	RuDEX	| 	https://rudex.org/	| 	(operating - beta)	| 	bitshares protocol (Graphene)	|
 | 	SDEX	| 	https://www.stellar.org/blog/2018-Stellar-Roadmap/ | 	(developing)	| 	stellar consensus protocol	| 
 | 	SingularX	| 	https://ex.singularx.com/	| 	(operating)	| 	TBC (1)	| 
@@ -123,9 +125,9 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 
 4: Hybrid centralized/decentralized exchange, full decentralisation in the roadmap.
 
-5: Derivatives decentralized exchange
+5: Derivatives decentralized exchange.
 
-6: Decentralized cash-crypto Exchange
+6: Decentralized cash-crypto exchange.
 
 ## **SOURCES**: 
 
