@@ -139,7 +139,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 
 ## **NOTES**:
 
-Yes. A key column missing. Is the column of degree of decentralization. It is a complex task, since it not only requires a very specific technical definition, but also requires an exhaustive analysis of each of the exchanges that we include. We are working on it. But all help is welcome.
+Yes. A key column missing. Is the column of degree of decentralization. It is a complex task, since it not only requires a very specific technical definition, but also requires an exhaustive analysis of each of the exchanges that we include. We are working on it. But all help is welcome. For example, adding a column that shows the exchange/platform is non-custodial and/or another column showing the site'hosting/dns is centralized, or that certain administrators of the project retain some control/permission that centralizes such risks into vulnerabiltiies (i.e. they are a party to every smart contract as a pre-requisite and cannot be replaced by another party who could act in a similar capacity in a permissionless manner).
 
 ## **SOURCES**: 
 
