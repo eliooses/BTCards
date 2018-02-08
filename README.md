@@ -6,7 +6,8 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Exchange	| 	URL	| 	Status	| 	Protocol	| 
 | ------------- |:-------------:|:-------------:|:-------------:|
 | 	{Set} (2)	| 	https://setprotocol.com/	| 	(released)	| 	{Set} protocol	| 
-| 	0x	| 	https://0xproject.com/portal	| 	(operating)	| 	0x protocol	| 
+| 	0x (2)	| 	https://0xproject.com	| 	(operating)	| 	0x protocol	| 
+| 	0x Portal	| 	https://0xproject.com/portal	| 	(operating)	| 	0x protocol	| 
 | 	0xchange	| 	https://0xchange.me/	| 	(operating)	| 	0x protocol	| 
 | 	AIRSWAP	| 	https://www.airswap.io/	| 	(Token Launch)	| 	swap protocol	| 
 | 	Altcoin Exchange	| 	https://www.altcoin.io/	| 	(developing)	| 	raiden protocol	| 
