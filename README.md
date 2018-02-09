@@ -114,7 +114,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Streamity	| 	[![alt text][web]](https://streamity.org/) |	| | | 	(developing)	| TBC	| 3	|
 | 	Swap Protocol	| 	[![alt text][web]](https://swap.tech/faq/) |	| | | 	(operating)	| swap protocol	| 2	|
 | 	The 0cean	| 	[![alt text][web]](https://the0cean.com/) |	| | | 	(private beta)	| 	0x protocol	| 	|
-| 	The World Exchange	| 	[![alt text][web]](https://www.theworldexchange.net/) |	| | | 	(operating)	| 	ripple protocol	| 	|
+| 	The World Exchange	| 	[![alt text][web]](https://www.theworldexchange.net/) | [![alt text][github]](https://github.com/pftq/TheWorldExchange/)	| | | 	(operating)	| 	ripple protocol	| 	|
 | 	Tokens | 	[![alt text][web]](https://www.tokens.net/) |	| | | 	(developing)	| dynamic trading rights protocol	| 	|
 | 	Token Store | 	[![alt text][web]](https://token.store) |	| | | 	(operating)	| TBC	|	|
 | 	Trade.io | 	[![alt text][web]](https://trade.io/) |	| | | 	(developing)	| raiden protocol	| 	|
