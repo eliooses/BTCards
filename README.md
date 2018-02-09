@@ -154,13 +154,10 @@ Yes. A key column missing. Is the column of degree of decentralization. It is a 
 [#DEX @ Reddit:](https://www.reddit.com/r/Dex/) 
 
 
+
 **MARKDOWN RESOURCES**:
 
-GitHub: [![alt text][github]](https://github.com/)
-
-Web: [![alt text][web]](https://www.example.com/)
-
-Whitepaper: [![alt text][whitepaper]](https://www.example.com/)
+GitHub: [![alt text][github]](https://github.com/) Web: [![alt text][web]](https://www.example.com/) Whitepaper: [![alt text][whitepaper]](https://www.example.com/)
 
 [github]: https://i.imgur.com/uJEpwQj.png "GitHub"
 
