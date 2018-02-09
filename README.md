@@ -5,7 +5,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 
 |	Exchange	| URL	| REPO | Whitepaper | DEX GRADE | 	Status	| 	Protocol	| Reference |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) |	| | | 	(released)	| 	{Set} protocol	| 2	| 
+| 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) |	| [![alt text][whitepaper]](https://whitepaper.setprotocol.com/) | | 	(released)	| 	{Set} protocol	| 2	| 
 | 	0x	| 	[![alt text][web]](https://0xproject.com) |	| | | 	(operating)	| 	0x protocol	| 2	|
 | 	0x Portal	| 	[![alt text][web]](https://0xproject.com/portal) |	| | | 	(operating)	| 	0x protocol	|	|
 | 	0xchange	| 	[![alt text][web]](https://0xchange.me/) |	| | | 	(operating)	| 	0x protocol	| 	|
@@ -170,21 +170,21 @@ If you considered contribuied, here you have someones tools to use:
 To render the icons on the MD table please use:
 
 ```
-[github]: https://i.imgur.com/uJEpwQj.png "GitHub"
+[![alt text][github]](https://github.com/example)
 ```
 For:
 [![alt text][github]](https://github.com/)
 
 
 ```
-[web]: https://i.imgur.com/yr4086M.png "Website"
+[![alt text][web]](https://www.example.com/)
 ```
 For:
 [![alt text][web]](https://www.example.com/)
 
 
 ```
-[whitepaper]: https://i.imgur.com/CQKjGai.png "WHhitepaper"
+[![alt text][whitepaper]](https://www.example.com/example)
 ```
 For:
 [![alt text][whitepaper]](https://www.example.com/)
