@@ -126,7 +126,8 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	WandX	| 	[![alt text][web]](https://exchange.wandx.co/) |	| | | 	(operating)	| 	wandx protocol	| 	|
 | 	Waves	| 	[![alt text][web]](https://waveswallet.io) |	| | | 	(operating)	| 	waves protocol (Matcher)	| 	|
 | 	Wyvern	| 	[![alt text][web]](https://exchange.projectwyvern.com/) |	| | | 	(operating - alpha)	| wyvern protocol	| 	|
-| 	xChainge	| 	[![alt text][web]](https://xchain.io) |	| | | 	(operating)	| 	counterparty protocol	| 	|
+| 	xChainge	| 	[![alt text][web]](https://xchain.io/) |	| | | 	(operating)	| 	counterparty protocol	| 	|
+| 	YouDEX	| 	[![alt text][web]](http://youdex.io/) | [![alt text][github]](https://github.com/YouDex/dex)	| [![alt text][whitepaper]](http://youdex.io/white-paper/) | | 	(developing)	| 	limex protocol	| 	|
 | 	Zero Exchange	| 	[![alt text][web]](http://www.zero.exchange/) |	| | | 	(operating with issues)	| 	0x protocol	|	|
 |   Zip Exchange | [![alt text][web]](https://zip.exchange/) | | | | (developing) | 0x protocol |	|
 
