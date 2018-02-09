@@ -164,6 +164,7 @@ If you considered contribuied, here you have someones tools to use:
 **MARKDOWN RESOURCES**:
 
 [Markdown Editor: https://dillinger.io/](https://dillinger.io/)
+
 [Table magic converter, md to csv & csv to md: http://stevecat.net/table-magic/](http://stevecat.net/table-magic/)
 
 To render the icons on the MD table please use:
