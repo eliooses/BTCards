@@ -104,7 +104,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |   Ripple | [![alt text][web]](https://ripple.com) | | | | (operating) | ripple protocol | 2	|
 |   Rippex | [![alt text][web]](https://rippex.net/carteira-ripple.php) | | | | (will be shutdown) | ripple protocol | 7 |
 | 	RuDEX	| 	[![alt text][web]](https://rudex.org/) |	| | | 	(operating - beta)	| 	bitshares protocol (Graphene)	|	|
-| 	SAFEX	|  | [![alt text][web]](https://github.com/dallyshalla/safex-while)	| | | 	(released)	| 	safex protocol	| 2	|
+| 	SAFEX	|  | [![alt text][github]](https://github.com/dallyshalla/safex-while)	| | | 	(released)	| 	safex protocol	| 2	|
 | 	SDEX	| 	[![alt text][web]](https://www.stellar.org/blog/2018-Stellar-Roadmap/) | | | | 	(developing)	| 	stellar consensus protocol	| 	|
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	|
 | 	Smart-Exchange	| 	|	| [![alt text][whitepaper]](https://debris.gitbooks.io/ethchange/content/) | | 	(developing - whitepaper)	| icap protocol | 	|
@@ -127,7 +127,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 
 ## **REFERENCES**: 
 
-1: To be confirmed.
+1, TBC: To be confirmed.
 
 2: Is not a exchange, just a protocol.
 
