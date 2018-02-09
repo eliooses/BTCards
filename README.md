@@ -159,11 +159,34 @@ Yes. A key column missing. Is the column of degree of decentralization. It is a 
 ## **RESOURCES**: 
 [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
 
-
+If you considered contribuied, here you have someones tools to use:
 
 **MARKDOWN RESOURCES**:
 
-GitHub: [![alt text][github]](https://github.com/) Web: [![alt text][web]](https://www.example.com/) Whitepaper: [![alt text][whitepaper]](https://www.example.com/)
+[Markdown Editor: https://dillinger.io/](https://dillinger.io/)
+[Table magic converter, md to csv & csv to md: http://stevecat.net/table-magic/](http://stevecat.net/table-magic/)
+
+To render the icons on the MD table please use:
+
+```
+[github]: https://i.imgur.com/uJEpwQj.png "GitHub"
+```
+For:
+[![alt text][github]](https://github.com/)
+
+
+```
+[web]: https://i.imgur.com/yr4086M.png "Website"
+```
+For:
+[![alt text][web]](https://www.example.com/)
+
+
+```
+[whitepaper]: https://i.imgur.com/CQKjGai.png "WHhitepaper"
+```
+For:
+[![alt text][whitepaper]](https://www.example.com/)
 
 [github]: https://i.imgur.com/uJEpwQj.png "GitHub"
 
