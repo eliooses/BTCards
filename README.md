@@ -15,6 +15,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) |	| | | 	(developing - launch Q1 2018)	| 	deal protocol	| 	|
 | 	Arbidex	| 	[![alt text][web]](http://arbidex.ch) |	| | | 	(developing - launch Q4 2018)	| 	TBC	| 	|
 | 	Atlant	| 	[![alt text][web]](https://trade.atlant.io) |	| | | 	(Token Launch)	| 	atlant protocol	| 	|
+| 	atomicDEX	| | [![alt text][github]](https://github.com/ca333/atomicDEX) | | | 	(developing)	| TBC | 	|
 | 	B&C Exchange	| 	[![alt text][web]](https://bcexchange.org) |	| | | 	(operating)	| 	bcexchange protocol	| 	|
 | 	Bancor	| 	[![alt text][web]](https://app.bancor.network/discover) |	| | | 	(operating)	| 	bancor protocol	| 	|
 | 	BarterDEX	| [![alt text][web]](http://barterdex.com)	 | [![alt text][github]](https://github.com/KomodoPlatform/BarterDEX)	| | | 	(operating)	| 	barterdex protocol	| 	|
@@ -155,7 +156,7 @@ Yes. A key column missing. Is the column of degree of decentralization. It is a 
  - ["State of Decentralized Exchanges, 2018"](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79) by [@NathanSexer](https://twitter.com/NathanSexer): [https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79)
 
 ## **RESOURCES**: 
-[#DEX @ Reddit:](https://www.reddit.com/r/Dex/) 
+[#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
 
 
 
