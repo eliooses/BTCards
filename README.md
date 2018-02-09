@@ -193,4 +193,4 @@ For:
 
 [web]: https://i.imgur.com/yr4086M.png "Website"
 
-[whitepaper]: https://i.imgur.com/CQKjGai.png "WHhitepaper"
+[whitepaper]: https://i.imgur.com/CQKjGai.png "Whitepaper"
