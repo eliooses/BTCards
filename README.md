@@ -150,6 +150,9 @@ Yes. A key column missing. Is the column of degree of decentralization. It is a 
  - [@oseselio](https://twitter.com/oseselio) research for "Mercados Descentralizados | #dsociety" book project.
  - ["State of Decentralized Exchanges, 2018"](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79) by [@NathanSexer](https://twitter.com/NathanSexer): [https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79)
 
+## **RESOURCES**: 
+[#DEX @ Reddit:](https://www.reddit.com/r/Dex/) 
+
 
 **MARKDOWN RESOURCES**:
 
