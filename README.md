@@ -103,6 +103,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |  Ripple | https://ripple.com | (operating) | ripple protocol | 2	|	|
 |  Rippex | https://rippex.net/carteira-ripple.php | (will be shutdown) | ripple protocol | 7	|	|
 | 	RuDEX	| 	https://rudex.org/	| 	(operating - beta)	| 	bitshares protocol (Graphene)	|	|	|
+| 	SAFEX	| 	https://github.com/dallyshalla/safex-while	| 	(released)	| 	safex protocol	| 2	|	|
 | 	SDEX	| 	https://www.stellar.org/blog/2018-Stellar-Roadmap/ | 	(developing)	| 	stellar consensus protocol	| 	|	|
 | 	SingularX	| 	https://ex.singularx.com/	| 	(operating)	| 	TBC	| 1	|	|
 | 	Smart-Exchange	| 	https://debris.gitbooks.io/ethchange/content/	| 	(developing - whitepaper)	| icap protocol | 	|	|
