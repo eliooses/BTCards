@@ -5,7 +5,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 
 |	Exchange	| URL	| REPO | Whitepaper | DEX GRADE | 	Status	| 	Protocol	| Reference |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) |	| [![alt text][whitepaper]](https://whitepaper.setprotocol.com/) | | 	(released)	| 	{Set} protocol	| 2	| 
+| 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) | [![alt text][github]](https://github.com/SetProtocol/set-protocol-contracts)	| [![alt text][whitepaper]](https://whitepaper.setprotocol.com/) | | 	(released)	| 	{Set} protocol	| 2	| 
 | 	0x	| 	[![alt text][web]](https://0xproject.com) |	| | | 	(operating)	| 	0x protocol	| 2	|
 | 	0x Portal	| 	[![alt text][web]](https://0xproject.com/portal) |	| | | 	(operating)	| 	0x protocol	|	|
 | 	0xchange	| 	[![alt text][web]](https://0xchange.me/) |	| | | 	(operating)	| 	0x protocol	| 	|
