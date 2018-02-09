@@ -14,7 +14,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Amadeus Relay	| 	[![alt text][web]](http://amadeusrelay.org/) |	| | | 	(developing)	| 	0x protocol	| 	|
 | 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) |	| | | 	(developing - launch Q1 2018)	| 	deal protocol	| 	|
 | 	Arbidex	| 	[![alt text][web]](http://arbidex.ch) |	| | | 	(developing - launch Q4 2018)	| 	TBC	| 	|
-| 	Atlant	| 	[![alt text][web]](https://trade.atlant.io) |	| | | 	(Token Launch)	| 	atlant protocol	| 	|
+| 	ADEX	| 	[![alt text][web]](https://trade.atlant.io) | [![alt text][github]](https://github.com/AtlantPlatform/atlant-dex)	| | | 	(Token Launch)	| 	atlant protocol	| 	|
 | 	atomicDEX	| | [![alt text][github]](https://github.com/ca333/atomicDEX) | | | 	(developing)	| TBC | 	|
 | 	B&C Exchange	| 	[![alt text][web]](https://bcexchange.org) |	| | | 	(operating)	| 	bcexchange protocol	| 	|
 | 	Bancor	| 	[![alt text][web]](https://app.bancor.network/discover) |	| | | 	(operating)	| 	bancor protocol	| 	|
