@@ -39,6 +39,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	DDEX	| 	[![alt text][web]](https://ddex.io/trade/) |	| | | 	(operating)	| 	0x protocol	| 	|
 | 	Deex	| 	[![alt text][web]](https://deex.exchange/) |	| | | 	(developing)	| 	bitshares protocol (Graphene)	| 	|
 | 	DECENT EX	| 	[![alt text][web]](https://decent.exchange/) |	| | | 	(operating)	| 	0x protocol	| 	|
+| 	DecentralizedEXchange	| | [![alt text][github]](https://github.com/Dexaran/DecentralizedEXchange) | | | 	(developing)	| 	TBC	| 	|
 | 	DECENTREX	| 	[![alt text][web]](https://decentrex.com/) |	| | | 	(will be shutdown on 30 December 2017)	| 	on-chain protocol	| 	|
 | 	Dextroid	| 	[![alt text][web]](https://www.dextroid.io/) |	| | | 	(operating - beta)	| 	0x protocol	| 	|
 | 	DTX	| 	 | [![alt text][github]](https://github.com/zeriontech/DTX)	| | | 	(developing)	| 	TBC	| 	|
@@ -57,7 +58,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Forkdelta	| 	[![alt text][web]](https://forkdelta.github.io) |	| | | 	(operating)	| 	on-chain protocol	| 	|
 | 	Freedom Ledger	| 	[![alt text][web]](https://www.freedomledger.com/) |	| | | 	(developing)	| 	bitshares protocol (DPOS)	| 	|
 | 	GDEX	| 	[![alt text][web]](https://www.gdex.io/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
-| 	gnodex	| 	[![alt text][web]](https://github.com/gnosis/gnodex) |	| | | 	(developing)	| 	off-chain protocol	| 	|
+| 	gnodex	| | [![alt text][github]](https://github.com/gnosis/gnodex)	| | | 	(developing)	| 	off-chain protocol	| 	|
 | 	Graphene	| 	[![alt text][web]](http://docs.bitshares.eu//index.html) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 2	|
 | 	Heat	| 	[![alt text][web]](https://heatwallet.com) |	| | | 	(operating)	| 	asset-to-asset protocol	| 	|
 | 	Herdius	| 	[![alt text][web]](https://herdius.com/) |	| | | 	(developing - ICO expected in Q1 2018)	| 	cross-chain protocol	| 	|
