@@ -48,7 +48,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) |	| | | 	(operating)	| 	enigma protocol	| 2	|
 | 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	|
 | 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) |	| | | 	(operating)	| 	on-chain protocol	| 	|
-| 	EtherEx	| 	[![alt text][web]](http://etherex.github.io/etherex) |	| | | 	(operating)	| 	TBC	| 	|
+| 	EtherEx	| 	[![alt text][web]](http://etherex.github.io/etherex) | [![alt text][github]](https://github.com/etherex/etherex)	| | | 	(operating)	| 	TBC	| 	|
 | 	EtherFlyer	| 	[![alt text][web]](https://www.etherflyer.com/) |	| | | 	(operating)	| 	TBC	| 	|
 | 	Ether Wager	| 	[![alt text][web]](http://eth-wager.surge.sh/) |	| | | 	(operating)	| 	oraclize protocol	| 	|
 | 	Ethfinex	| 	[![alt text][web]](https://www.ethfinex.com/) |	| | | 	(private beta)	| 	multi protocol	| 4	|
