@@ -103,6 +103,7 @@ Rippex, https://rippex.net/carteira-ripple.php, , , , (will be shutdown), ripple
 RuDEX, https://rudex.org/, , , , (operating - beta), bitshares protocol (Graphene), 
 SAFEX, , https://github.com/dallyshalla/safex-while/, , , (released), safex protocol, 2
 SDEX, https://www.stellar.org/blog/2018-Stellar-Roadmap/, , , , (developing), stellar consensus protocol, 
+Settle, https://settle.network/, https://github.com/spolu/settle/, , , (developing), settle protocol, 2
 SingularX, https://ex.singularx.com/, , , , (operating), TBC, 
 Smart-Exchange, , , https://debris.gitbooks.io/ethchange/content/, , (developing - whitepaper), icap protocol, 
 Stellar Term, https://stellarterm.com/), , , , (operating), stellar consensus protocol, 
