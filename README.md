@@ -91,6 +91,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	OpenLedger DEX	| 	https://openledger.io/	| 	(operating)	| 	bitshares protocol (DPOS)	| 	|	|
 | 	Open Relay	| 	https://openrelay.xyz/	| 	(developing - private alpha)	| 	0x protocol	| 	|	|
 | 	Paradex	| 	https://app.paradex.io/	| 	(operating)	| 	0x protocol	| 	|	|
+| 	PlutusDEX |	https://dex.plutus.it/ |	(operating) |	TBC |	 | |
 | 	Prism	| 	https://prism.exchange	| 	(developing - invite-only beta)	| 	TBC	| 1	|	|
 | 	Radar Relay	| 	https://app.radarrelay.com/	| 	(operating)	| 	0x protocol	| 	|	|
 | 	Radex	| 	https://exchange.rados.io	| 	(operating - alpha)	| 	saturn	| 1	|	|
