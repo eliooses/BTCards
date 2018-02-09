@@ -76,6 +76,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Mandarin	| 	https://mandarin.top/	| 	(dead)	| TBC	| 1	|	|
 | 	Melon DEX	| 	https://github.com/melonproject/cross-chain-exchange-prototype	| 	(developing - prototype)	| 	melonport protocol (cross-chain) | 	|	|
 | 	Mercatox | 	https://mercatox.com	| 	(developing)	| 	TBC	| 4	| 1	|
+| 	Mercury | 	https://github.com/mappum/mercury	| 	(developing)	| 	TBC	| 1	| 	|
 | 	Mothership	| 	https://mothership.cx/	| 	(developing)	| 	TBC	| 1	|	|
 | 	MyEtherSwap	| 	https://www.myetherswap.com/	| 	(operating)	| 	TBC	| 1	|	|
 | 	NEX	| 	https://neonexchange.org/	| 	(developing, launch Q3 2018)	| 	off-chain protocol	| 	|	|
