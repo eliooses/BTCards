@@ -40,6 +40,7 @@ Dextroid, https://www.dextroid.io/, , , , (operating - beta), 0x protocol,
 DTX, , https://github.com/zeriontech/DTX, , , (developing), TBC, 
 DutchX, , https://github.com/gnosis/dutch-exchange, , , (developing), dutch auction principle protocol, 
 dYdX, https://dydx.exchange/), , , , (developing - whitepaper), dYdX protocol (0x protocol), 2-5
+EasyTrade, https://easytrade.io/, , , , (operating), 0x protocol, 
 Enigma, https://www.enigma.co/, , , , (operating), enigma protocol, 2
 ERC dEX, https://app.ercdex.com/, , , , (operating), 0x protocol, 
 EtherDelta, https://etherdelta.com/, , , , (operating), on-chain protocol, 
@@ -119,7 +120,7 @@ UbiTok.io, https://ubitok.io/, , , , (operating), on-chain protocol,
 VariabL, https://variabl.io/, , , , (open alpha), VariabL protocol, 5
 WandX, https://exchange.wandx.co/, , , , (operating), wandx protocol, 
 Waves, https://waveswallet.io/, , , , (operating), waves protocol (Matcher), 
-Wyvern, https://exchange.projectwyvern.com/, , , , (operating - alpha), wyvern protocol, 
+Wyvern, https://exchange.projectwyvern.com/, https://github.com/ProjectWyvern/wyvern-ethereum, https://github.com/ProjectWyvern/wyvern-protocol/raw/master/build/whitepaper.pdf, , (operating - alpha), wyvern protocol, 
 xChainge, https://xchain.io/, , , , (operating), counterparty protocol, 
 YouDEX, http://youdex.io/, https://github.com/YouDex/dex, http://youdex.io/white-paper/, , (developing), limex protocol, 
 Zero Exchange, http://www.zero.exchange/, , , , (operating with issues), 0x protocol, 
