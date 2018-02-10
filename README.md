@@ -124,6 +124,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Trade.io | 	[![alt text][web]](https://trade.io/) |	| | | 	(developing)	| raiden protocol	| 	|
 | 	UbiTok.io | [![alt text][web]](https://ubitok.io/) |	| | | 	(operating)	| on-chain protocol	| 	|
 | 	VariabL	| 	[![alt text][web]](https://variabl.io) |	| | | 	(open alpha)	| 	VariabL protocol	| 5	|
+| 	Wanchain	| 	[![alt text][web]](https://wanchain.org/) | [![alt text][github]](https://github.com/wanchain)	| [![alt text][whitepaper]](https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf) | | 	(developing)	| 	wanchain protocol (cross-chain)	| 2	|
 | 	WandX	| 	[![alt text][web]](https://exchange.wandx.co/) |	| | | 	(operating)	| 	wandx protocol	| 	|
 | 	Waves	| 	[![alt text][web]](https://waveswallet.io) |	| | | 	(operating)	| 	waves protocol (Matcher)	| 	|
 | 	Wyvern	| 	[![alt text][web]](https://exchange.projectwyvern.com/) |	[![alt text][github]](https://github.com/ProjectWyvern/wyvern-ethereum) | [![alt text][whitepaper]](https://github.com/ProjectWyvern/wyvern-protocol/raw/master/build/whitepaper.pdf) | | 	(operating - alpha)	| wyvern protocol	| 	|
