@@ -170,18 +170,19 @@ If you are considering contributing, here are some tools for you to use:
 
 To render the icons on the MD table please use:
 
+
+```
+[![alt text][web]](https://www.example.com/)
+```
+For:
+[![alt text][web]](https://www.example.com/)
+
+
 ```
 [![alt text][github]](https://github.com/example)
 ```
 For:
 [![alt text][github]](https://github.com/)
-
-
-```
-[![alt text][web]](https://www.example.com/)
-```
-For:
-[![alt text][web]](https://www.example.com/)
 
 
 ```
