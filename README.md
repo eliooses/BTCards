@@ -30,7 +30,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	BTSABC	| 	[![alt text][web]](https://bit.btsabc.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
 | 	Catalyst	| 	[![alt text][web]](https://enigmampc.github.io/catalyst/index.html) |	| | | 	(developing - alpha)	| 	enigma protocol	| 	|
 | 	Coinffeine	| 	[![alt text][web]](http://www.coinffeine.com/) |	| | | 	(developing)	| 	coinffeine protocol	| 	|
-| 	COMIT	| 	[![alt text][web]](http://www.comit.network/) |	| [![alt text][web]](http://www.comit.network/doc/COMIT%20white%20paper%20v1.0.2.pdf) | | 	(whitepaper)	| 	cross-chain routing protocol (CRP)	|	|
+| 	COMIT	| 	[![alt text][web]](http://www.comit.network/) |	| [![alt text][whitepaper]](http://www.comit.network/doc/COMIT%20white%20paper%20v1.0.2.pdf) | | 	(whitepaper)	| 	cross-chain routing protocol (CRP)	|	|
 | 	Cosmos Network	| 	 | 	| [![alt text][whitepaper]](https://github.com/cosmos/cosmos/blob/master/DEX.md) | | 	(whitepaper)	| 	interledger protocol	|	|
 | 	Counterparty DEX| 	[![alt text][web]](https://wallet.counterwallet.io/#pages/exchange.html) |	| | | 	(operating)	| 	counterparty protocol	|	|
 | 	Crypto Bridge	| 	[![alt text][web]](https://wallet.crypto-bridge.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
