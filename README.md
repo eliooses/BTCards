@@ -160,7 +160,7 @@ Yes. A key column missing. Is the column of degree of decentralization. It is a 
 ## **RESOURCES**: 
 [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
 
-If you considered contribuied, here you have someones tools to use:
+If you are considering contributing, here are some tools for you to use:
 
 **MARKDOWN RESOURCES**:
 
