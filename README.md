@@ -105,9 +105,10 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Raidex	| 	[![alt text][web]](https://www.raidex.io/) |	| | | 	(developing)	| 	raiden protocol	|	|
 | 	Relayer Network	| 	[![alt text][web]](https://relayer.network/) |	| | | 	(developing)	| 	0x protocol (modular trade networks)	|	|
 | 	Republic Protocol	| [![alt text][web]](https://republicprotocol.com/) |	| | | 	(operating)	| 	republic protocol	| 2	|
-| 	RigoBlock	| [![alt text][web]](https://rigoblock.com/) |	| | | 	(operating with issues)	| 	rigoblock protocol	|
+| 	RigoBlock	| [![alt text][web]](https://rigoblock.com/) |	| | | 	(operating with issues)	| 	rigoblock protocol	||
 |   Ripple | [![alt text][web]](https://ripple.com) | | | | (operating) | ripple protocol | 2	|
 |   Rippex | [![alt text][web]](https://rippex.net/carteira-ripple.php) | | | | (will be shutdown) | ripple protocol | 7 |
+| 	RSK	| 	[![alt text][web]](https://www.rsk.co/) | [![alt text][github]](https://github.com/rsksmart/)	| [![alt text][white]](https://uploads.strikinglycdn.com/files/ec5278f8-218c-407a-af3c-ab71a910246d/RSK%20White%20Paper%20-%20Overview.pdf) | | 	(developing)	| 	rsk protocol	| 2	|
 | 	RuDEX	| 	[![alt text][web]](https://rudex.org/) |	| | | 	(operating - beta)	| 	bitshares protocol (Graphene)	|	|
 | 	SAFEX	|  | [![alt text][github]](https://github.com/dallyshalla/safex-while)	| | | 	(released)	| 	safex protocol	| 2	|
 | 	SDEX	| 	[![alt text][web]](https://www.stellar.org/blog/2018-Stellar-Roadmap/) | | | | 	(developing)	| 	stellar consensus protocol	| 	|
