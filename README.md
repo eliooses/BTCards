@@ -1,5 +1,6 @@
-# decentradexchange
-A full list of decentralized exchanges of cryptocurrencies and tokens.
+# inDEX we trust.
+
+A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, and their protocols.
 
 **Please consider donate**: 0xcf28eC228eE5Cf04580e36CfacDA75b610c858fe
 
@@ -102,7 +103,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	PlutusDEX |	[![alt text][web]](https://dex.plutus.it/) | | | |	(operating) |	TBC |	 |
 | 	Prism	| 	[![alt text][web]](https://prism.exchange) |	| | | 	(developing - invite-only beta)	| 	TBC	| 	|
 | 	Radar Relay	| 	[![alt text][web]](https://app.radarrelay.com/) |	| | | 	(operating)	| 	0x protocol	| 	|
-| 	Radex	| 	[![alt text][web]](https://exchange.rados.io) |	| | | 	(operating - alpha)	| 	saturn	|	|
+| 	Radex	| 	[![alt text][web]](https://exchange.rados.io) | [![alt text][github]](https://github.com/rados-io/radex)	| | | 	(operating - alpha)	| 	saturn	|	|
 | 	Raiden	| 	[![alt text][web]](https://raiden.network/) |	| | | 	(released)	| 	raiden protocol	| 2	|
 | 	Raidex	| 	[![alt text][web]](https://www.raidex.io/) |	| | | 	(developing)	| 	raiden protocol	|	|
 | 	Relayer Network	| 	[![alt text][web]](https://relayer.network/) |	| | | 	(developing)	| 	0x protocol (modular trade networks)	|	|
@@ -113,6 +114,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	RSK	| 	[![alt text][web]](https://www.rsk.co/) | [![alt text][github]](https://github.com/rsksmart/)	| [![alt text][whitepaper]](https://uploads.strikinglycdn.com/files/ec5278f8-218c-407a-af3c-ab71a910246d/RSK%20White%20Paper%20-%20Overview.pdf) | | 	(developing)	| 	rsk protocol	| 2	|
 | 	RuDEX	| 	[![alt text][web]](https://rudex.org/) |	| | | 	(operating - beta)	| 	bitshares protocol (Graphene)	|	|
 | 	SAFEX	|  | [![alt text][github]](https://github.com/dallyshalla/safex-while)	| | | 	(released)	| 	safex protocol	| 2	|
+| 	Saturn	| [![alt text][web]](https://saturn.network/)  | 	| | [![alt text][whitepaper]](https://whitepaper.saturn.network/) | 	(released)	| 	saturn protocol	| 2	|
 | 	SDEX	| 	[![alt text][web]](https://www.stellar.org/blog/2018-Stellar-Roadmap/) | | | | 	(developing)	| 	stellar consensus protocol	| 	|
 | 	Settle	| 	[![alt text][web]](https://settle.network/) | [![alt text][github]](https://github.com/spolu/settle/) | | | 	(developing)	| 	settle protocol	| 2	|
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	|

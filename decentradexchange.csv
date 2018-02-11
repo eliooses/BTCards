@@ -96,7 +96,7 @@ Paradex, https://app.paradex.io/, , , , (operating), 0x protocol,
 PlutusDEX, https://dex.plutus.it/, , , , (operating), TBC, 
 Prism, https://prism.exchange/, , , , (developing - invite-only beta), TBC, 
 Radar Relay, https://app.radarrelay.com/, , , , (operating), 0x protocol, 
-Radex, https://exchange.rados.io/, , , , (operating - alpha), saturn, 
+Radex, https://exchange.rados.io/, https://github.com/rados-io/radex, , , (operating - alpha), saturn, 
 Raiden, https://raiden.network/, , , , (released), raiden protocol, 2
 Raidex, https://www.raidex.io/, , , , (developing), raiden protocol, 
 Relayer Network, https://relayer.network/, , , , (developing), 0x protocol (modular trade networks), 
@@ -107,6 +107,7 @@ Rippex, https://rippex.net/carteira-ripple.php, , , , (will be shutdown), ripple
 RSK, https://www.rsk.co/, https://github.com/rsksmart/, https://uploads.strikinglycdn.com/files/ec5278f8-218c-407a-af3c-ab71a910246d/RSK%20White%20Paper%20-%20Overview.pdf, , (developing), rsk protocol, 2
 RuDEX, https://rudex.org/, , , , (operating - beta), bitshares protocol (Graphene), 
 SAFEX, , https://github.com/dallyshalla/safex-while/, , , (released), safex protocol, 2
+Saturn, https://saturn.network/, , https://whitepaper.saturn.network/, , (released), saturn protocol, 2
 SDEX, https://www.stellar.org/blog/2018-Stellar-Roadmap/, , , , (developing), stellar consensus protocol, 
 Settle, https://settle.network/, https://github.com/spolu/settle/, , , (developing), settle protocol, 2
 SingularX, https://ex.singularx.com/, , , , (operating), TBC, 
