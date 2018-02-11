@@ -38,7 +38,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Cybex	| 	[![alt text][web]](https://dex.cybex.io/) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 	|
 |  DC-Ex	| 	[![alt text][web]](https://www.dc-ex.com/) |	| | | 	(operating)	| 	TBC	| 	|
 | 	DDEX	| 	[![alt text][web]](https://ddex.io/trade/) |	| | | 	(operating)	| 	0x protocol	| 	|
-| 	Decred	| 	[![alt text][web]](https://www.decred.org/) | [![alt text][github]](https://github.com/decred)	| | | (operating)	| 	decred protocol (atomic swap - cross chain)	| 	|
+| 	Decred	| 	[![alt text][web]](https://www.decred.org/) | [![alt text][github]](https://github.com/decred)	| | | (operating)	| 	decred cross-chain atomic swapping protocol	| 	|
 | 	Deex	| 	[![alt text][web]](https://deex.exchange/) |	| | | 	(developing)	| 	bitshares protocol (Graphene)	| 	|
 | 	DECENT EX	| 	[![alt text][web]](https://decent.exchange/) |	| | | 	(operating)	| 	0x protocol	| 	|
 | 	DecentralizedEXchange	| | [![alt text][github]](https://github.com/Dexaran/DecentralizedEXchange) | | | 	(developing)	| 	TBC	| 	|
