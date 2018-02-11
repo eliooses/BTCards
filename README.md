@@ -136,7 +136,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	Waves	| 	[![alt text][web]](https://waveswallet.io) |	| | | 	(operating)	| 	waves protocol (Matcher)	| 	|
 | 	Wyvern	| 	[![alt text][web]](https://exchange.projectwyvern.com/) |	[![alt text][github]](https://github.com/ProjectWyvern/wyvern-ethereum) | [![alt text][whitepaper]](https://github.com/ProjectWyvern/wyvern-protocol/raw/master/build/whitepaper.pdf) | | 	(operating - alpha)	| wyvern protocol	| 	|
 | 	xChainge	| 	[![alt text][web]](https://xchain.io/) |	| | | 	(operating)	| 	counterparty protocol	| 	|
-| 	YouDEX	| 	[![alt text][web]](http://youdex.io/) | [![alt text][github]](https://github.com/YouDex/dex)	| [![alt text][whitepaper]](http://youdex.io/white-paper/) | | 	(developing)	| 	limex protocol	| 	|
+| 	YouDEX	| 	[![alt text][web]](http://youdex.io/) | [![alt text][github]](https://github.com/YouDex/dex)	| [![alt text][whitepaper]](http://youdex.io/white-paper/) | | 	(developing)	| 	CDX protocol | 	|
 | 	Zero Exchange	| 	[![alt text][web]](http://www.zero.exchange/) |	| | | 	(operating with issues)	| 	0x protocol	|	|
 |   Zip Exchange | [![alt text][web]](https://zip.exchange/) | | | | (developing) | 0x protocol |	|
 
