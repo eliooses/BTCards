@@ -14,7 +14,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	Altcoin Exchange	| 	[![alt text][web]](https://www.altcoin.io/) |	| | | 	(developing)	| 	raiden protocol	|	|
 | 	Amadeus Relay	| 	[![alt text][web]](http://amadeusrelay.org/) |	| | | 	(developing)	| 	0x protocol	| 	|
 | 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) |	| | | 	(developing - launch Q1 2018)	| 	deal protocol	| 	|
-| 	Arbidex	| 	[![alt text][web]](http://arbidex.ch) |	| | | 	(developing - launch Q4 2018)	| 	TBC	| 	|
+| 	Arbidex	| 	[![alt text][web]](http://arbidex.ch) |	| [![alt text][whitepaper]](https://arbidex.uk.com/assets/wp_en.pdf) | | 	(developing - launch Q4 2018)	| 	TBC	| 	|
 | 	ADEX	| 	[![alt text][web]](https://trade.atlant.io) | [![alt text][github]](https://github.com/AtlantPlatform/atlant-dex)	| | | 	(Token Launch)	| 	atlant protocol	| 	|
 | 	atomicDEX	| | [![alt text][github]](https://github.com/ca333/atomicDEX) | | | 	(developing)	| TBC | 	|
 | 	B&C Exchange	| 	[![alt text][web]](https://bcexchange.org) |	| | | 	(operating)	| 	bcexchange protocol	| 	|
