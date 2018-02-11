@@ -83,6 +83,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Melon DEX	| 	 | [![alt text][github]](https://github.com/melonproject/cross-chain-exchange-prototype)	| | | 	(developing - prototype)	| 	melonport protocol (cross-chain) | 	|
 | 	Mercatox | 	[![alt text][web]](https://mercatox.com) |	| | | 	(developing)	| 	TBC	| 4	|
 | 	Mercury | 	 | [![alt text][github]](https://github.com/mappum/mercury)	| | | 	(developing)	| 	TBC	| 	|
+| 	Mobidex	| 	[![alt text][web]](http://mobidex.io/) |	| | | 	(developing - private alpha)	| 	0x protocol	| 	|
 | 	Mothership	| 	[![alt text][web]](https://mothership.cx/) |	| | | 	(developing)	| 	TBC	| 	|
 | 	MyEtherSwap	| 	[![alt text][web]](https://www.myetherswap.com/) |	| | | 	(operating)	| 	TBC	| 	|
 | 	NEX	| 	[![alt text][web]](https://neonexchange.org/) |	| | | 	(developing - launch Q3 2018)	| 	off-chain protocol	| 	|
