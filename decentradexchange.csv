@@ -1,6 +1,6 @@
 Exchange, URL, REPO, Whitepaper, DEX GRADE, Status, Protocol, Reference
 {Set}, https://setprotocol.com/, https://github.com/SetProtocol/set-protocol-contracts, https://whitepaper.setprotocol.com/, , (released), {Set} protocol, 2, 
-0x, https://0xproject.com/, , , , (operating), 0x protocol, 2
+0x, https://0xproject.com, https://github.com/0xProject, https://0xproject.com/pdfs/0x_white_paper.pdf, , (operating), 0x protocol, 2
 0x Portal, https://0xproject.com/portal/, , , , (operating), 0x protocol, 
 0xchange, https://0xchange.me/, , , , (operating), 0x protocol, 
 AIRSWAP, https://www.airswap.io/, , , , (Token Launch), swap protocol, 
@@ -80,7 +80,7 @@ Mercury, , https://github.com/mappum/mercury, , , (developing), TBC,
 Mothership, https://mothership.cx/, , , , (developing), TBC, 
 MyEtherSwap, https://www.myetherswap.com/, , , , (operating), TBC, 
 NEX, https://neonexchange.org/, , , , (developing - launch Q3 2018), off-chain protocol, 
-NextExchange, https://next.exchange/, , , , (developing), TBC, 
+NextExchange, https://next.exchange/, https://github.com/NextExchange,  https://next.exchange/whitepaper,  , (developing), 0x,  
 NVO, https://nvo.io/, , , , (developing - launch Q1 2018), nvo protocol, 
 Nxt, https://nxtplatform.org/, , , , (operating), TBC, 5
 Oasis DEX, https://oasisdex.com/, , , , (operating - alpha), on-chain protocol, 

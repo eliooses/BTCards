@@ -6,7 +6,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Exchange	| URL	| REPO | Whitepaper | DEX GRADE | 	Status	| 	Protocol	| Reference |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) | [![alt text][github]](https://github.com/SetProtocol/set-protocol-contracts)	| [![alt text][whitepaper]](https://whitepaper.setprotocol.com/) | | 	(released)	| 	{Set} protocol	| 2	| 
-| 	0x	| 	[![alt text][web]](https://0xproject.com) |	| | | 	(operating)	| 	0x protocol	| 2	|
+| 	0x	| 	[![alt text][web]](https://0xproject.com) | [![alt text][github]](https://github.com/0xProject)	| [![alt text][whitepaper]](https://0xproject.com/pdfs/0x_white_paper.pdf) | | 	(operating)	| 	0x protocol	| 2	|
 | 	0x Portal	| 	[![alt text][web]](https://0xproject.com/portal) |	| | | 	(operating)	| 	0x protocol	|	|
 | 	0xchange	| 	[![alt text][web]](https://0xchange.me/) |	| | | 	(operating)	| 	0x protocol	| 	|
 | 	AIRSWAP	| 	[![alt text][web]](https://www.airswap.io/) |	| | | 	(Token Launch)	| 	swap protocol	|	|
@@ -86,7 +86,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 | 	Mothership	| 	[![alt text][web]](https://mothership.cx/) |	| | | 	(developing)	| 	TBC	| 	|
 | 	MyEtherSwap	| 	[![alt text][web]](https://www.myetherswap.com/) |	| | | 	(operating)	| 	TBC	| 	|
 | 	NEX	| 	[![alt text][web]](https://neonexchange.org/) |	| | | 	(developing - launch Q3 2018)	| 	off-chain protocol	| 	|
-| 	NextExchange	| 	[![alt text][web]](https://next.exchange/) |	| | | 	(developing)	| 	TBC	| 	|
+| 	NextExchange	| 	[![alt text][web]](https://next.exchange/) | [![alt text][github]](https://github.com/NextExchange)	| [![alt text][whitepaper]](https://next.exchange/whitepaper) | | 	(developing)	| 	0x	| 	|
 | 	NVO	| 	[![alt text][web]](https://nvo.io/) |	| | | 	(developing - launch Q1 2018)	| 	nvo protocol	|	|
 | 	Nxt	| 	[![alt text][web]](https://nxtplatform.org) |	| | | 	(operating)	| 	TBC	| 5	|
 | 	Oasis DEX	| 	[![alt text][web]](https://oasisdex.com) |	| | | 	(operating - alpha)	| 	on-chain protocol	| 	|
