@@ -36,7 +36,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	Counterparty DEX | 	[![alt text][web]](https://wallet.counterwallet.io/#pages/exchange.html) |	| | | 	(operating)	| 	counterparty protocol	|	|
 | 	CoX | 	 | [![alt text][github]](https://github.com/SmartChainX/CoX-SmartContracts)	| | | 	(developing)	| 	cox protocol	|	|
 | 	Crypto Bridge	| 	[![alt text][web]](https://wallet.crypto-bridge.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
-| 	CryptoDerivatives	| 	[![alt text][web]](https://cryptoderivatives.market) |	| | | 	(operating)	| 	TBC 	| 	|
+| 	CryptoDerivatives	| 	[![alt text][web]](https://cryptoderivatives.market) | [![alt text][github]](https://github.com/bokkypoobah/TokenTrader)	| | | 	(operating)	| 	TBC 	| 	|
 | 	Cybex	| 	[![alt text][web]](https://dex.cybex.io/) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 	|
 |  DC-Ex	| 	[![alt text][web]](https://www.dc-ex.com/) |	| | | 	(operating)	| 	TBC	| 	|
 | 	DDEX	| 	[![alt text][web]](https://ddex.io/trade/) |	| | | 	(operating)	| 	0x protocol	| 	|
