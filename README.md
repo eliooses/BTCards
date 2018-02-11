@@ -33,7 +33,8 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	Coinffeine	| 	[![alt text][web]](http://www.coinffeine.com/) |	| | | 	(developing)	| 	coinffeine protocol	| 	|
 | 	COMIT	| 	[![alt text][web]](http://www.comit.network/) |	| [![alt text][whitepaper]](http://www.comit.network/doc/COMIT%20white%20paper%20v1.0.2.pdf) | | 	(whitepaper)	| 	comit protocol (cross-chain routing)	|	2 |
 | 	Cosmos Network	| [![alt text][web]](https://cosmos.network/)	| [![alt text][github]](https://github.com/cosmos) | [![alt text][whitepaper]](https://github.com/cosmos/cosmos/blob/master/DEX.md) | | 	(whitepaper)	| 	interledger protocol	|	|
-| 	Counterparty DEX| 	[![alt text][web]](https://wallet.counterwallet.io/#pages/exchange.html) |	| | | 	(operating)	| 	counterparty protocol	|	|
+| 	Counterparty DEX | 	[![alt text][web]](https://wallet.counterwallet.io/#pages/exchange.html) |	| | | 	(operating)	| 	counterparty protocol	|	|
+| 	CoX | 	 | [![alt text][github]](https://github.com/SmartChainX/CoX-SmartContracts)	| | | 	(developing)	| 	cox protocol	|	|
 | 	Crypto Bridge	| 	[![alt text][web]](https://wallet.crypto-bridge.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
 | 	CryptoDerivatives	| 	[![alt text][web]](https://cryptoderivatives.market) |	| | | 	(operating)	| 	TBC 	| 	|
 | 	Cybex	| 	[![alt text][web]](https://dex.cybex.io/) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 	|
