@@ -9,7 +9,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) | [![alt text][github]](https://github.com/SetProtocol/set-protocol-contracts)	| [![alt text][whitepaper]](https://whitepaper.setprotocol.com/) | | 	(released)	| 	{Set} protocol	| 2	| 
 | 	0x	| 	[![alt text][web]](https://0xproject.com) | [![alt text][github]](https://github.com/0xProject)	| [![alt text][whitepaper]](https://0xproject.com/pdfs/0x_white_paper.pdf) | | 	(operating)	| 	0x protocol	| 2	|
 | 	0x Portal	| 	[![alt text][web]](https://0xproject.com/portal) |	| | | 	(operating)	| 	0x protocol	|	|
-| 	0xchange	| 	[![alt text][web]](https://0xchange.me/) |	| | | 	(operating)	| 	0x protocol	| 	|
+| 	0xchange	| 	[![alt text][web]](https://0xchange.me/) | [![alt text][github]](https://github.com/0xchange/0xchange)	| | | 	(operating)	| 	0x protocol	| 	|
 | 	AIRSWAP	| 	[![alt text][web]](https://www.airswap.io/) |	| | | 	(Token Launch)	| 	swap protocol	|	|
 | 	Altcoin Exchange	| 	[![alt text][web]](https://www.altcoin.io/) |	| | | 	(developing)	| 	raiden protocol	|	|
 | 	Amadeus Relay	| 	[![alt text][web]](http://amadeusrelay.org/) |	| | | 	(developing)	| 	0x protocol	| 	|

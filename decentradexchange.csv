@@ -2,7 +2,7 @@ Exchange, URL, REPO, Whitepaper, DEX GRADE, Status, Protocol, Reference
 {Set}, https://setprotocol.com/, https://github.com/SetProtocol/set-protocol-contracts, https://whitepaper.setprotocol.com/, , (released), {Set} protocol, 2, 
 0x, https://0xproject.com, https://github.com/0xProject, https://0xproject.com/pdfs/0x_white_paper.pdf, , (operating), 0x protocol, 2
 0x Portal, https://0xproject.com/portal/, , , , (operating), 0x protocol, 
-0xchange, https://0xchange.me/, , , , (operating), 0x protocol, 
+0xchange, https://0xchange.me/, https://github.com/0xchange/0xchange, , , (operating), 0x protocol, 
 AIRSWAP, https://www.airswap.io/, , , , (Token Launch), swap protocol, 
 Altcoin Exchange, https://www.altcoin.io/, , , , (developing), raiden protocol, 
 Amadeus Relay, http://amadeusrelay.org/, , , , (developing), 0x protocol, 
