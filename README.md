@@ -114,7 +114,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	RSK	| 	[![alt text][web]](https://www.rsk.co/) | [![alt text][github]](https://github.com/rsksmart/)	| [![alt text][whitepaper]](https://uploads.strikinglycdn.com/files/ec5278f8-218c-407a-af3c-ab71a910246d/RSK%20White%20Paper%20-%20Overview.pdf) | | 	(developing)	| 	rsk protocol	| 2	|
 | 	RuDEX	| 	[![alt text][web]](https://rudex.org/) |	| | | 	(operating - beta)	| 	bitshares protocol (Graphene)	|	|
 | 	SAFEX	|  | [![alt text][github]](https://github.com/dallyshalla/safex-while)	| | | 	(released)	| 	safex protocol	| 2	|
-| 	Saturn	| [![alt text][web]](https://saturn.network/)  | 	| | [![alt text][whitepaper]](https://whitepaper.saturn.network/) | 	(released)	| 	saturn protocol	| 2	|
+| 	Saturn	| [![alt text][web]](https://saturn.network/)  | 	| [![alt text][whitepaper]](https://whitepaper.saturn.network/) |  | 	(released)	| 	saturn protocol	| 2	|
 | 	SDEX	| 	[![alt text][web]](https://www.stellar.org/blog/2018-Stellar-Roadmap/) | | | | 	(developing)	| 	stellar consensus protocol	| 	|
 | 	Settle	| 	[![alt text][web]](https://settle.network/) | [![alt text][github]](https://github.com/spolu/settle/) | | | 	(developing)	| 	settle protocol	| 2	|
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	|
