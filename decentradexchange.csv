@@ -14,7 +14,7 @@ B&C Exchange, https://bcexchange.org/, , , , (operating), bcexchange protocol,
 Bancor, https://app.bancor.network/discover/, , , , (operating), bancor protocol, 
 BarterDEX, http://barterdex.com/, https://github.com/KomodoPlatform/BarterDEX, , , (operating), barterdex protocol, 
 Binkd, https://www.binkd.com/, , , , (developing), 0x protocol, 3
-Bisq, https://bisq.network/, , , , (operating), bisq protocol, 6
+Bisq, https://bisq.network/, https://github.com/bisq-network, https://github.com/bisq-network/docs/blob/master/exchange/whitepaper.adoc, , (operating), Bisq protocol, 6
 BitPoint, http://bitpoint.network/, , , , (operating), 0x protocol, 6
 Bitox Exchange, https://twitter.com/bitox_exchange/, , , , (developing), 0x protocol, 
 BitShares, https://wallet.bitshares.org/, , , , (operating), bitshares protocol (DPOS), 
