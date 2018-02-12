@@ -18,7 +18,7 @@ Bisq, https://bisq.network/, https://github.com/bisq-network, https://github.com
 BitPoint, http://bitpoint.network/, , , , (operating), 0x protocol, 6
 Bitox Exchange, https://twitter.com/bitox_exchange/, , , , (developing), 0x protocol, 
 BitShares, https://wallet.bitshares.org/, , , , (operating), bitshares protocol (DPOS), 
-Blocknet DEX, https://blocknetprotocol.com/#dex, , , , (developing), blocknet protocol + 0x protocol, 
+Blocknet DEX, https://blocknetprotocol.com/#dex, https://github.com/BlocknetDX/BlockDX/, (due 15 March), , (alpha), blocknet protocol + 0x protocol, 
 Blockport, https://blockport.io/, , , , (developing), blockport protocol, 3
 BlockTrades, https://blocktrades.us/, , , , (operating), counterparty protocol, 
 BTSABC, https://bit.btsabc.org/, , , , (operating), bitshares protocol (DPOS), 
