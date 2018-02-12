@@ -25,7 +25,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	BitPoint	| 	[![alt text][web]](http://bitpoint.network/) |	| | | 	(operating)	| 	0x protocol	| 6	|
 | 	Bitox Exchange	| 	[![alt text][web]](https://twitter.com/bitox_exchange) |	| | | 	(developing)	| 	0x protocol	| 	|
 | 	BitShares	| 	[![alt text][web]](https://wallet.bitshares.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
-| 	Blocknet DEX	| 	[![alt text][web]](https://blocknetprotocol.com/#dex) |web[](https://github.com/BlocknetDX/BlockDX/)	|due 15 March | | 	(alpha)	| 	blocknet protocol + 0x protocol	| 	|
+| 	Blocknet DEX	| 	[![alt text][web]](https://blocknetprotocol.com/#dex) | [![alt text][github]](https://github.com/BlocknetDX/BlockDX/)	| (due 15 March) | | 	(alpha)	| 	blocknet protocol + 0x protocol	| 	|
 | 	Blockport	| 	[![alt text][web]](https://blockport.io/) |	| | | 	(developing)	| blockport protocol	| 3	|
 | 	BlockTrades	| 	[![alt text][web]](https://blocktrades.us) |	| | | 	(operating)	| 	counterparty protocol	| 	|
 | 	BTSABC	| 	[![alt text][web]](https://bit.btsabc.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
