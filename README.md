@@ -159,7 +159,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 
 ## **DEX GRADE**:
 
-Yes. A key column is totally empty. Is the column of degree of decentralization. It is a complex task, since it not only requires a very specific technical definition, but also requires an exhaustive analysis of each of the exchanges that we include. We are working on it. But all help is welcome. The goal is to get a model like the Creative Commons badges ( [https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/](https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/).
+Yes. A key column is totally empty. Is the column of grade of decentralization. It is a complex task, since it not only requires a very specific technical definition, but also requires an exhaustive analysis of each of the exchanges that we include. We are working on it. But all help is welcome. The goal is to get a model like the Creative Commons badges ( [https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/](https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/).
 
 This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steven Hatzakis](https://github.com/hatgit) and [Elio Osés](https://twitter.com/oseselio):
 
