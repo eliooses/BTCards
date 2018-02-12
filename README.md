@@ -159,9 +159,22 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 
 7: http://blog.rippex.net/br/2018/02/gateway-closure/
 
-## **NOTES**:
+## **DEX GRADE**:
 
-Yes. A key column missing. Is the column of degree of decentralization. It is a complex task, since it not only requires a very specific technical definition, but also requires an exhaustive analysis of each of the exchanges that we include. We are working on it. But all help is welcome. For example, adding a column that shows the exchange/platform is non-custodial and/or another column showing the site'hosting/dns is centralized, or that certain administrators of the project retain some control/permission that centralizes such risks into vulnerabiltiies (i.e. they are a party to every smart contract as a pre-requisite and cannot be replaced by another party who could act in a similar capacity in a permissionless manner).
+Yes. A key column is totally empty. Is the column of degree of decentralization. It is a complex task, since it not only requires a very specific technical definition, but also requires an exhaustive analysis of each of the exchanges that we include. We are working on it. But all help is welcome. The goal is to get a model like the Creative Commons badges ( [https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/](https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/).
+
+This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steven Hatzakis](https://github.com/hatgit) and [Elio Osés](https://twitter.com/oseselio):
+
+ - **Decentralized Capital Deposits (non-custodial)**: You should be able to trade directly out of your own wallet. `DCD`
+ - **Decentralized Order Books**: Orderbooks should be synced among various parties to prevent any malicious behavior in  a similar way that blockchain validation consensus is decentralized. `DOB`
+ - **Decentralized Order Matching**: The matching of orders should be   decentralized among different parties. `DOM`
+ - **Decentralized Swap**: The usage of atomic swaps. The trader's funds should go directly from one  to the other without any other parties handling the funds. `DS`
+ - **Decentralized Governance**: The direction of the project should be governed by the project's service providers. `DG`
+ - **Decentralized Development**: The project should be open source. `DD`
+ - **Decentralized DNS**: The project should be accessible through a decentralized domain name service (like [ENS](https://ens.domains/)). `DDNS` 
+ - **Decentralized Client**: The trades should be possibles through a downloadable client. `DC` 
+
+ If you know in details or are you the owner/dev of any DEX, please fill the column with all the codes that correspond.
 
 ## **SOURCES**: 
 
