@@ -2,8 +2,6 @@
 
 A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, and their protocols.
 
-**Please consider donate**: 0xcf28eC228eE5Cf04580e36CfacDA75b610c858fe
-
 |	Exchange	| URL	| REPO | Whitepaper | DEX GRADE | 	Status	| 	Protocol	| Reference |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) | [![alt text][github]](https://github.com/SetProtocol/set-protocol-contracts)	| [![alt text][whitepaper]](https://whitepaper.setprotocol.com/) | | 	(released)	| 	{Set} protocol	| 2	| 
@@ -184,7 +182,11 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
 ## **RESOURCES**: 
 [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
 
-If you are considering contributing, here are some tools for you to use:
+## **CONTRIBUTING**:
+
+**Please consider donate**: 0xcf28eC228eE5Cf04580e36CfacDA75b610c858fe (I have a big stomach to maintain. 🍺 🍔 🍩).
+
+If you are considering contributing editing the list, here are some tools for you to use:
 
 **MARKDOWN RESOURCES**:
 
@@ -192,8 +194,11 @@ If you are considering contributing, here are some tools for you to use:
 
 [Table magic converter, md to csv & csv to md: http://stevecat.net/table-magic/](http://stevecat.net/table-magic/)
 
-To render the icons on the MD table please use:
+**Netiquette**:
 
+Please don´t use commas on the .MD.
+
+To render the icons on the MD table please use:
 
 ```
 [![alt text][web]](https://www.example.com/)
