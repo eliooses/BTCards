@@ -170,7 +170,7 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
  - **Decentralized Governance**: The direction of the project should be governed by the project's service providers. `DG`
  - **Decentralized Development**: The project should be open source. `DD`
  - **Decentralized DNS**: The project should be accessible through a decentralized domain name service (like [ENS](https://ens.domains/)). `DDNS` 
- - **Decentralized Client**: The trades should be possibles through a downloadable client. `DC` 
+ - **Decentralized Client**: The trades should be possibles through a downloadable client or build it from source. `DC` 
 
  If you know in details or are you the owner/dev of any DEX, please fill the column with all the codes that correspond.
 
