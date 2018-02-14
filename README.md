@@ -97,7 +97,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	OmiseGO	| 	[![alt text][web]](https://omisego.network/) |	| | | 	(developing)	| 	omisego protocol	| 2 |
 | 	Omni DEX	| 	[![alt text][web]](http://omniexplorer.info/dex.aspx) |	| | | 	(operating)	| 	TBC	| 	|
 | 	openANX	| 	[![alt text][web]](https://www.openanx.org/en/) |	| | | 	(developing)	| 	openanx protocol	| 	|
-| 	Open Collectors Network	| [![alt text][web]](https://opencollectors.network/) |	| | | 	(developing - prototype)	| 	TBC	| 	|
+| 	Open Collectors Network	| [![alt text][web]](https://opencollectors.network/) | [![alt text][github]](https://github.com/cosmingrigore/OpenCollectorsNetwork)	| [![alt text][whitepaper]](https://opencollectors.network/layout/OpenCollectorsNetwork) | | 	(developing - prototype)	| 	TBC	| 8	|
 | 	OpenLedger DEX	| 	[![alt text][web]](https://openledger.io/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
 | 	Open Relay	| 	[![alt text][web]](https://openrelay.xyz/) |	| | | 	(developing - private alpha)	| 	0x protocol	| 	|
 | 	Paradex	| 	[![alt text][web]](https://app.paradex.io/) |	| | | 	(operating)	| 	0x protocol	| 	|
@@ -156,6 +156,8 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 6: Decentralized cash-crypto exchange.
 
 7: http://blog.rippex.net/br/2018/02/gateway-closure/
+
+8: Decentralized non-fungible tokens exchange.
 
 ## **DEX GRADE**:
 
