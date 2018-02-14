@@ -191,7 +191,7 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
 
 ## **CONTRIBUTING**:
 
-**Please consider donate**: 0xcf28eC228eE5Cf04580e36CfacDA75b610c858fe (I have a big stomach to maintain. 🍺 🍔 🍩).
+**Please consider donate**: 0x81404BE6B9d46554ADAbCc7599967cF157720d31 (I have a big stomach to maintain. 🍺 🍔 🍩).
 
 If you are considering contributing editing the list, here are some tools for you to use:
 
