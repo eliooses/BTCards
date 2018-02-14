@@ -50,6 +50,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	dYdX	| [![alt text][web]](https://dydx.exchange/) | | [![alt text][whitepaper]](https://whitepaper.dydx.exchange/) | | 	(developing)	| 	dYdX protocol (0x protocol)	| 5	|
 | 	EasyTrade	| 	[![alt text][web]](https://easytrade.io/) |	| | | 	(operating)	| 	0x protocol	|	|
 | 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) | [![alt text][github]](https://github.com/enigmampc/)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_full.pdf) | | 	(operating)	| 	enigma protocol	| 2	|
+| 	EOSfinex	| 	[![alt text][web]](https://eosfinex.com/) |	| | | 	(developing)	| 	eos protocol	| 	|
 | 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	|
 | 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) |	| | | 	(operating)	| 	on-chain protocol	| 	|
 | 	EtherEx	| 	[![alt text][web]](http://etherex.github.io/etherex) | [![alt text][github]](https://github.com/etherex/etherex)	| | | 	(operating)	| 	TBC	| 	|
