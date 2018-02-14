@@ -27,7 +27,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	Blockport	| 	[![alt text][web]](https://blockport.io/) | [![alt text][github]](https://github.com/Blockport)	| | | 	(developing)	| blockport protocol	| 3	|
 | 	BlockTrades	| 	[![alt text][web]](https://blocktrades.us) |	| | | 	(operating)	| 	counterparty protocol	| 	|
 | 	BTSABC	| 	[![alt text][web]](https://bit.btsabc.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
-| 	Catalyst	| 	[![alt text][web]](https://enigmampc.github.io/catalyst/index.html) |	| | | 	(developing - alpha)	| 	enigma protocol	| 	|
+| 	Catalyst	| 	[![alt text][web]](https://enigmampc.github.io/catalyst/index.html) | [![alt text][github]](https://github.com/enigmampc/catalystweb)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_catalyst.pdf) | | 	(developing - alpha)	| 	enigma protocol	| 	|
 | 	Coinffeine	| 	[![alt text][web]](http://www.coinffeine.com/) |	| | | 	(developing)	| 	coinffeine protocol	| 	|
 | 	COMIT	| 	[![alt text][web]](http://www.comit.network/) |	| [![alt text][whitepaper]](http://www.comit.network/doc/COMIT%20white%20paper%20v1.0.2.pdf) | | 	(whitepaper)	| 	comit protocol (cross-chain routing)	|	2 |
 | 	Cosmos Network	| [![alt text][web]](https://cosmos.network/)	| [![alt text][github]](https://github.com/cosmos) | [![alt text][whitepaper]](https://github.com/cosmos/cosmos/blob/master/DEX.md) | | 	(whitepaper)	| 	interledger protocol	|	|
@@ -49,7 +49,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	DutchX	| 	 | [![alt text][github]](https://github.com/gnosis/dutch-exchange)	| | | 	(developing)	| 	dutch auction principle protocol	| 	|
 | 	dYdX	| [![alt text][web]](https://dydx.exchange/) | | [![alt text][whitepaper]](https://whitepaper.dydx.exchange/) | | 	(developing)	| 	dYdX protocol (0x protocol)	| 5	|
 | 	EasyTrade	| 	[![alt text][web]](https://easytrade.io/) |	| | | 	(operating)	| 	0x protocol	|	|
-| 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) |	| | | 	(operating)	| 	enigma protocol	| 2	|
+| 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) | [![alt text][github]](https://github.com/enigmampc/)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_full.pdf) | | 	(operating)	| 	enigma protocol	| 2	|
 | 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	|
 | 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) |	| | | 	(operating)	| 	on-chain protocol	| 	|
 | 	EtherEx	| 	[![alt text][web]](http://etherex.github.io/etherex) | [![alt text][github]](https://github.com/etherex/etherex)	| | | 	(operating)	| 	TBC	| 	|
