@@ -9,7 +9,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	0x Portal	| 	[![alt text][web]](https://0xproject.com/portal) |	| | | 	(operating)	| 	0x protocol	|	|
 | 	0xchange	| 	[![alt text][web]](https://0xchange.me/) | [![alt text][github]](https://github.com/0xchange/0xchange)	| [![alt text][whitepaper]](https://devpost.com/software/0xchange-me) | | 	(operating)	| 	0x protocol	| 	|
 | 	AirSwap	| 	[![alt text][web]](https://www.airswap.io/) |	[![alt text][github]](https://github.com/airswap) | [![alt text][whitepaper]](https://swap.tech/whitepaper/) | | 	(operating)	| 	swap protocol	|	|
-| 	Altcoin Exchange	| 	[![alt text][web]](https://www.altcoin.io/) |	| | | 	(developing)	| 	raiden protocol	|	|
+| 	Altcoin Exchange	| 	[![alt text][web]](https://www.altcoin.io/) | [![alt text][github]](https://github.com/AltCoinExchange/) | | | 	(developing)	| 	raiden protocol	|	|
 | 	Amadeus Relay	| 	[![alt text][web]](http://amadeusrelay.org/) |	| | | 	(developing)	| 	0x protocol	| 	|
 | 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) |	| | | 	(developing - launch Q1 2018)	| 	deal protocol	| 	|
 | 	Arbidex	| 	[![alt text][web]](http://arbidex.ch) |	| [![alt text][whitepaper]](https://arbidex.uk.com/assets/wp_en.pdf) | | 	(developing - launch Q4 2018)	| 	TBC	| 	|
@@ -59,7 +59,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	EthRoox	| 	[![alt text][web]](https://etheroox.com/) |	| | | 	(operating with issues)	| 	TBC	| 	|
 | 	ExchangeN	| 	[![alt text][web]](http://www.exchangen.com/) |	| | | 	(operating with issues)	| 	TBC	| 	|
 | 	Flipper0x	| 	[![alt text][web]](https://flipper0x.io/) |	| | | 	(developing)	| 	0x protocol	| 	|
-| 	Forkdelta	| 	[![alt text][web]](https://forkdelta.github.io) |	| | | 	(operating)	| 	on-chain protocol	| 	|
+| 	Forkdelta	| 	[![alt text][web]](https://forkdelta.github.io) |	[![alt text][github]](https://github.com/forkdelta/) | | | 	(operating)	| 	on-chain protocol	| 	|
 | 	Freedom Ledger	| 	[![alt text][web]](https://www.freedomledger.com/) |	| | | 	(developing)	| 	bitshares protocol (DPOS)	| 	|
 | 	GDEX	| 	[![alt text][web]](https://www.gdex.io/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
 | 	gnodex	| | [![alt text][github]](https://github.com/gnosis/gnodex)	| | | 	(developing)	| 	off-chain protocol	| 	|
@@ -128,7 +128,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	The World Exchange	| 	[![alt text][web]](https://www.theworldexchange.net/) | [![alt text][github]](https://github.com/pftq/TheWorldExchange/)	| | | 	(operating)	| 	ripple protocol	| 	|
 | 	Tokens | 	[![alt text][web]](https://www.tokens.net/) |	| | | 	(developing)	| dynamic trading rights protocol	| 	|
 | 	Token Store | 	[![alt text][web]](https://token.store) |	| | | 	(operating)	| TBC	|	|
-| 	Trade.io | 	[![alt text][web]](https://trade.io/) |	| | | 	(developing)	| raiden protocol	| 	|
+| 	Trade.io | 	[![alt text][web]](https://trade.io/) |	| [![alt text][whitepaper]](https://trade.io/whitepaper/ES.pdf) | | 	(developing)	| raiden protocol	| 	|
 | 	TrueBit | 	[![alt text][web]](https://truebit.io/) |	[![alt text][github]](https://github.com/TrueBitFoundation) | [![alt text][whitepaper]](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf) | | 	(developing)	| truebit protocol	| 2	|
 | 	UbiTok.io | [![alt text][web]](https://ubitok.io/) |	| | | 	(operating)	| on-chain protocol	| 	|
 | 	VariabL	| 	[![alt text][web]](https://variabl.io) |	| | | 	(open alpha)	| 	VariabL protocol	| 5	|
