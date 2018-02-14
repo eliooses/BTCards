@@ -22,7 +22,8 @@ Blocknet DEX, https://blocknetprotocol.com/#dex, https://github.com/BlocknetDX/B
 Blockport, https://blockport.io/, https://github.com/Blockport, , , (developing), blockport protocol, 3
 BlockTrades, https://blocktrades.us/, , , , (operating), counterparty protocol, 
 BTSABC, https://bit.btsabc.org/, , , , (operating), bitshares protocol (DPOS), 
-Coinffeine, http://www.coinffeine.com/, , , , (developing), coinffeine protocol, 
+Catalyst, https://enigmampc.github.io/catalyst/index.html, https://github.com/enigmampc/catalystweb, https://www.enigma.co/enigma_catalyst.pdf, , (developing - alpha), enigma protocol, 
+Coinffeine, http://www.coinffeine.com/, https://github.com/Coinffeine, , , (developing), coinffeine protocol, 
 COMIT, http://www.comit.network/, , http://www.comit.network/doc/COMIT%20white%20paper%20v1.0.2.pdf, , (whitepaper), cross-chain routing protocol (CRP), 
 Cosmos Network, https://cosmos.network/, https://github.com/cosmos, https://github.com/cosmos/cosmos/blob/master/DEX.md, , (whitepaper), interledger protocol, 
 Counterparty DEX, https://wallet.counterwallet.io/#pages/exchange.html, , , , (operating), counterparty protocol, 
@@ -43,7 +44,7 @@ DTX, , https://github.com/zeriontech/DTX, , , (developing), TBC,
 DutchX, , https://github.com/gnosis/dutch-exchange, , , (developing), dutch auction principle protocol, 
 dYdX, https://dydx.exchange/), , , , (developing - whitepaper), dYdX protocol (0x protocol), 2-5
 EasyTrade, https://easytrade.io/, , , , (operating), 0x protocol, 
-Enigma, https://www.enigma.co/, , , , (operating), enigma protocol, 2
+Enigma, https://www.enigma.co/, https://github.com/enigmampc/, https://www.enigma.co/enigma_full.pdf, , (operating), enigma protocol, 2
 ERC dEX, https://app.ercdex.com/, , , , (operating), 0x protocol, 
 EtherDelta, https://etherdelta.com/, , , , (operating), on-chain protocol, 
 EtherEx, http://etherex.github.io/etherex/, https://github.com/etherex/etherex, , , (operating), TBC, 
