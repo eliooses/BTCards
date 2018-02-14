@@ -102,6 +102,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	Open Collectors Network	| [![alt text][web]](https://opencollectors.network/) | [![alt text][github]](https://github.com/cosmingrigore/OpenCollectorsNetwork)	| [![alt text][whitepaper]](https://opencollectors.network/layout/OpenCollectorsNetwork) | | 	(developing - prototype)	| 	TBC	| 8	|
 | 	OpenLedger DEX	| 	[![alt text][web]](https://openledger.io/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
 | 	Open Relay	| 	[![alt text][web]](https://openrelay.xyz/) |	| | | 	(developing - private alpha)	| 	0x protocol	| 	|
+| 	Orderbook	| 	[![alt text][web]](https://www.orderbook.io) | [![alt text][github]](https://github.com/Orderbookio)	| [![alt text][whitepaper]](https://ico.orderbook.io/files/orderbook_WP.pdf)  | | 	(released)	| 	ethereum protocol	| 	|
 | 	Paradex	| 	[![alt text][web]](https://app.paradex.io/) |	| | | 	(operating)	| 	0x protocol	| 	|
 | 	PlutusDEX |	[![alt text][web]](https://dex.plutus.it/) | | | |	(operating) |	TBC |	 |
 | 	Prime |	[![alt text][web]](https://getprime.org/) | [![alt text][github]](https://github.com/hitchhiker/prime) | | |	(developing - pre-alpha) |	TBC |	 |
