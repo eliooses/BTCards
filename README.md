@@ -20,7 +20,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	BarterDEX	| [![alt text][web]](http://barterdex.com)	 | [![alt text][github]](https://github.com/KomodoPlatform/BarterDEX)	| [![alt text][whitepaper]](https://www.komodoplatform.com/en/technology/whitepaper/2018-02-03-Komodo-White-Paper-Full.pdf) | | 	(operating)	| 	barterdex protocol	| 	|
 | 	Binkd	| 	[![alt text][web]](https://www.binkd.com/) | [![alt text][github]](https://github.com/binkd)	| [![alt text][whitepaper]](https://www.binkd.com/pdfs/Binkd-White-Paper.pdf) | | 	(developing)	| 	0x protocol	| 3	|
 | Bisq | [![alt text][web]](https://bisq.network/) | [![alt text][github]](https://github.com/bisq-network) | [![alt text][whitepaper]](https://github.com/bisq-network/docs/blob/master/exchange/whitepaper.adoc) |   | (operating) | Bisq protocol | 6 |
-| 	BitPoint	| 	[![alt text][web]](http://bitpoint.network/) |	| | | 	(operating)	| 	0x protocol	| 6	|
+| 	BitPoint	| 	[![alt text][web]](http://bitpoint.network/) | [![alt text][github]](https://github.com/BitPointNetwork)	| | | 	(operating)	| 	0x protocol	| 6	|
 | 	Bitox Exchange	| 	[![alt text][web]](https://twitter.com/bitox_exchange) |	| | | 	(developing)	| 	0x protocol	| 	|
 | 	BitShares	| 	[![alt text][web]](https://wallet.bitshares.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
 | 	Blocknet DEX	| 	[![alt text][web]](https://blocknetprotocol.com/#dex) | [![alt text][github]](https://github.com/BlocknetDX/BlockDX/)	| (due 15 March) | | 	(alpha)	| 	blocknet protocol + 0x protocol	| 	|
