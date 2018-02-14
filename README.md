@@ -17,7 +17,7 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	atomicDEX	| | [![alt text][github]](https://github.com/ca333/atomicDEX) | | | 	(developing)	| TBC | 	|
 | 	B&C Exchange	| 	[![alt text][web]](https://bcexchange.org) | [![alt text][github]](https://bitbucket.org/JordanLeePeershares/bcexchange/src) | [![alt text][whitepaper]](https://bcexchange.org/assets/Blocks_&_Chains_Decentralized_Exchange.pdf) | | 	(operating)	| 	bcexchange protocol	| 	|
 | 	Bancor	| 	[![alt text][web]](https://app.bancor.network/discover) | [![alt text][github]](https://github.com/bancorprotocol/)	| [![alt text][whitepaper]](https://about.bancor.network/Whitepaper) | | 	(operating)	| 	bancor protocol	| 	|
-| 	BarterDEX	| [![alt text][web]](http://barterdex.com)	 | [![alt text][github]](https://github.com/KomodoPlatform/BarterDEX)	| | | 	(operating)	| 	barterdex protocol	| 	|
+| 	BarterDEX	| [![alt text][web]](http://barterdex.com)	 | [![alt text][github]](https://github.com/KomodoPlatform/BarterDEX)	| [![alt text][whitepaper]](https://www.komodoplatform.com/en/technology/whitepaper/2018-02-03-Komodo-White-Paper-Full.pdf) | | 	(operating)	| 	barterdex protocol	| 	|
 | 	Binkd	| 	[![alt text][web]](https://www.binkd.com/) |	| | | 	(developing)	| 	0x protocol	| 3	|
 | Bisq | [![alt text][web]](https://bisq.network/) | [![alt text][github]](https://github.com/bisq-network) | [![alt text][whitepaper]](https://github.com/bisq-network/docs/blob/master/exchange/whitepaper.adoc) |   | (operating) | Bisq protocol | 6 |
 | 	BitPoint	| 	[![alt text][web]](http://bitpoint.network/) |	| | | 	(operating)	| 	0x protocol	| 6	|
