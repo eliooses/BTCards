@@ -10,13 +10,13 @@ A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, an
 | 	0xchange	| 	[![alt text][web]](https://0xchange.me/) | [![alt text][github]](https://github.com/0xchange/0xchange)	| [![alt text][whitepaper]](https://devpost.com/software/0xchange-me) | | 	(operating)	| 	0x protocol	| 	|
 | 	AirSwap	| 	[![alt text][web]](https://www.airswap.io/) |	[![alt text][github]](https://github.com/airswap) | [![alt text][whitepaper]](https://swap.tech/whitepaper/) | | 	(operating)	| 	swap protocol	|	|
 | 	Altcoin Exchange	| 	[![alt text][web]](https://www.altcoin.io/) | [![alt text][github]](https://github.com/AltCoinExchange/) | | | 	(developing)	| 	raiden protocol	|	|
-| 	Amadeus Relay	| 	[![alt text][web]](http://amadeusrelay.org/) |	| | | 	(developing)	| 	0x protocol	| 	|
-| 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) |	| | | 	(developing - launch Q1 2018)	| 	deal protocol	| 	|
-| 	Arbidex	| 	[![alt text][web]](http://arbidex.ch) |	| [![alt text][whitepaper]](https://arbidex.uk.com/assets/wp_en.pdf) | | 	(developing - launch Q4 2018)	| 	TBC	| 	|
-| 	ADEX	| 	[![alt text][web]](https://trade.atlant.io) | [![alt text][github]](https://github.com/AtlantPlatform/atlant-dex)	| | | 	(Token Launch)	| 	atlant protocol	| 	|
+| 	Amadeus Relay	| 	[![alt text][web]](http://amadeusrelay.org/) | [![alt text][github]](https://github.com/AmadeusRelay)	| | | 	(developing)	| 	0x protocol	| 	|
+| 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) | [![alt text][github]](https://github.com/aphtoken/)	| [![alt text][whitepaper]](https://aphelion.org/wp.html) | | 	(developing - launch Q1 2018)	| 	deal protocol	| 	|
+| 	Arbidex	| 	[![alt text][web]](http://arbidex.ch) | [![alt text][github]](https://github.com/Arbidex)	| [![alt text][whitepaper]](https://arbidex.uk.com/assets/wp_en.pdf) | | 	(developing - launch Q4 2018)	| 	TBC	| 	|
+| 	ATLANT DEX	| 	[![alt text][web]](https://trade.atlant.io) | [![alt text][github]](https://github.com/AtlantPlatform/atlant-dex)	| [![alt text][whitepaper]](https://atlant.io/assets/documents/en/Atlant_WP_publish.pdf) | | 	(Token Launch)	| 	atlant protocol	| 	|
 | 	atomicDEX	| | [![alt text][github]](https://github.com/ca333/atomicDEX) | | | 	(developing)	| TBC | 	|
-| 	B&C Exchange	| 	[![alt text][web]](https://bcexchange.org) |	| | | 	(operating)	| 	bcexchange protocol	| 	|
-| 	Bancor	| 	[![alt text][web]](https://app.bancor.network/discover) |	| | | 	(operating)	| 	bancor protocol	| 	|
+| 	B&C Exchange	| 	[![alt text][web]](https://bcexchange.org) | [![alt text][github]](https://bitbucket.org/JordanLeePeershares/bcexchange/src) | [![alt text][whitepaper]](https://bcexchange.org/assets/Blocks_&_Chains_Decentralized_Exchange.pdf) | | 	(operating)	| 	bcexchange protocol	| 	|
+| 	Bancor	| 	[![alt text][web]](https://app.bancor.network/discover) | [![alt text][github]](https://github.com/bancorprotocol/)	| [![alt text][whitepaper]](https://about.bancor.network/Whitepaper) | | 	(operating)	| 	bancor protocol	| 	|
 | 	BarterDEX	| [![alt text][web]](http://barterdex.com)	 | [![alt text][github]](https://github.com/KomodoPlatform/BarterDEX)	| | | 	(operating)	| 	barterdex protocol	| 	|
 | 	Binkd	| 	[![alt text][web]](https://www.binkd.com/) |	| | | 	(developing)	| 	0x protocol	| 3	|
 | Bisq | [![alt text][web]](https://bisq.network/) | [![alt text][github]](https://github.com/bisq-network) | [![alt text][whitepaper]](https://github.com/bisq-network/docs/blob/master/exchange/whitepaper.adoc) |   | (operating) | Bisq protocol | 6 |
