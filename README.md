@@ -43,6 +43,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	DECENT EX	| 	[![alt text][web]](https://decent.exchange/) |	| | | 	(operating)	| 	0x protocol	| 	|
 | 	DecentralizedEXchange	| | [![alt text][github]](https://github.com/Dexaran/DecentralizedEXchange) | | | 	(developing)	| 	TBC	| 	|
 | 	DECENTREX	| 	[![alt text][web]](https://decentrex.com/) |	| | | 	(will be shutdown on 30 December 2017)	| 	on-chain protocol	| 	|
+| 	Dether	| 	[![alt text][web]](https://dether.io/) | [![alt text][github]](https://github.com/dethertech)	| [![alt text][whitepaper]](https://whitepaper.dether.io/) | | 	(developing)	| 	TBC	| 6	|
 | 	Dextroid	| 	[![alt text][web]](https://www.dextroid.io/) |	| | | 	(operating - beta)	| 	0x protocol	| 	|
 | 	Digitex Futures	| 	[![alt text][web]](https://digitexfutures.com/) | [![alt text][github]](https://github.com/DigitexFutures)	| [![alt text][whitepaper]](https://www.digitexfutures.com/whitepaper/Digitex-Whitepaper.v.1.1.pdf) | | 	(developing)	| 	digitex protocol	| 9	|
 | 	DTX	| 	 | [![alt text][github]](https://github.com/zeriontech/DTX)	| | | 	(developing)	| 	TBC	| 	|
