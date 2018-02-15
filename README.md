@@ -130,7 +130,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	|
 | 	Smart-Exchange	| 	|	| [![alt text][whitepaper]](https://debris.gitbooks.io/ethchange/content/) | | 	(developing - whitepaper)	| icap protocol | 	|
 | 	Stellar Term	| 	[![alt text][web]](https://stellarterm.com/) |	| | | 	(operating)	| 	stellar consensus protocol	| 	|
-| 	Streamity	| 	[![alt text][web]](https://streamity.org/) |	| | | 	(developing)	| TBC	| 3	|
+| 	Streamity	| 	[![alt text][web]](https://streamity.org/) | [![alt text][github]](https://github.com/streamity/)	| [![alt text][whitepaper]](https://streamity.org/uploads/docs/en/Whitepaper_Streamity_en.pdf) | | 	(developing)	| TBC	| 3	|
 | 	Swap Protocol	| 	[![alt text][web]](https://swap.tech/faq/) |	| | | 	(operating)	| swap protocol	| 2	|
 | 	The 0cean	| 	[![alt text][web]](https://the0cean.com/) |	| | | 	(private beta)	| 	0x protocol	| 	|
 | 	The World Exchange	| 	[![alt text][web]](https://www.theworldexchange.net/) | [![alt text][github]](https://github.com/pftq/TheWorldExchange/)	| | | 	(operating)	| 	ripple protocol	| 	|
