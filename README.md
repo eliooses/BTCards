@@ -1,3 +1,5 @@
+[![alt text][header]](https://github.com/distribuyed/index)
+
 # inDEX we trust.
 
 A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, tokens, derivatives and futures, and their protocols.
@@ -233,3 +235,5 @@ For:
 [web]: https://i.imgur.com/yr4086M.png "Website"
 
 [whitepaper]: https://i.imgur.com/CQKjGai.png "Whitepaper"
+
+[header]: https://i.imgur.com/xYyP8lZ.jpg "inDEX"
