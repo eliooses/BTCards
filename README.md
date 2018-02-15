@@ -78,7 +78,8 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Hodl⚡️co	| 	[![alt text][web]](http://www.hodlco.io) |	| | | 	(developing)	| 	TBC | 6	|
 | 	IDEX	| 	[![alt text][web]](https://idex.market/) |	| | | 	(operating)	| 	snowglobe protocol	| 	|
 | 	IDT Exchange	| 	[![alt text][web]](https://trade.idtexchange.com/) |	| | | 	(operating)	| 	0x protocol	| 	|
-| 	Inbest Network	| 	[![alt text][web]](https://www.inbest.network/) |	| | | 	(ICO)	| 	inbest protocol	| 	|
+| 	Inbest Network	| 	[![alt text][web]](https://www.inbest.network/) |	| | | 	(ICO)	| 	inbest protocol	| 4	|
+| 	Javvy	| 	[![alt text][web]](https://javvy.com/) | [![alt text][github]](https://github.com/javvycrypto)	| [![alt text][whitepaper]](https://javvy.com/wp-content/uploads/2017/09/javvy_crypto-solution-white-paper.pdf) | | 	(developing)	| 	TBC	| 	|
 | 	JOYSO	| 	[![alt text][web]](https://joyso.io/) |	| | | 	(ICO)	| 	hex protocol	| 3	|
 | 	KyberNetwork	| 	[![alt text][web]](https://kyber.network) |	| | | 	(operating)	| 	on-chain protocol	| 	|
 | 	LAtoken	| 	[![alt text][web]](http://www.latoken.com/) |	| | | 	(operating)	| 	spectre protocol (DAG)	| 	|
@@ -174,6 +175,7 @@ Yes. A key column is totally empty. Is the column of grade of decentralization. 
 
 This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steven Hatzakis](https://github.com/hatgit) and [Elio Osés](https://twitter.com/oseselio):
 
+ - **Accountless**: The project should be accesible without registration, KYC or AML policies.
  - **Decentralized Capital Deposits (non-custodial)**: You should be able to trade directly out of your own wallet. `DCD`
  - **Decentralized Order Books**: Orderbooks should be synced among various parties to prevent any malicious behavior in  a similar way that blockchain validation consensus is decentralized. `DOB`
  - **Decentralized Order Matching**: The matching of orders should be   decentralized among different parties. `DOM`
