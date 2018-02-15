@@ -1,6 +1,6 @@
 # inDEX we trust.
 
-A full index of decentralized exchanges (DEX) of cryptocurrencies and tokens, and their protocols.
+A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, tokens, derivatives and futures, and their protocols.
 
 |	Exchange	| URL	| REPO | Whitepaper | DEX GRADE | 	Status	| 	Protocol	| Reference |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
