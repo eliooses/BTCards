@@ -132,6 +132,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Stellar Term	| 	[![alt text][web]](https://stellarterm.com/) |	| | | 	(operating)	| 	stellar consensus protocol	| 	|
 | 	Streamity	| 	[![alt text][web]](https://streamity.org/) | [![alt text][github]](https://github.com/streamity/)	| [![alt text][whitepaper]](https://streamity.org/uploads/docs/en/Whitepaper_Streamity_en.pdf) | | 	(developing)	| TBC	| 3	|
 | 	Swap Protocol	| 	[![alt text][web]](https://swap.tech/faq/) |	| | | 	(operating)	| swap protocol	| 2	|
+| 	Switcheo	| 	[![alt text][web]](http://switcheo.exchange/) | [![alt text][github]](https://github.com/ConjurTech/switcheo)	| | | 	(operating)	| neo protocol	| 	|
 | 	The 0cean	| 	[![alt text][web]](https://the0cean.com/) |	| | | 	(private beta)	| 	0x protocol	| 	|
 | 	The World Exchange	| 	[![alt text][web]](https://www.theworldexchange.net/) | [![alt text][github]](https://github.com/pftq/TheWorldExchange/)	| | | 	(operating)	| 	ripple protocol	| 	|
 | 	Tokens | 	[![alt text][web]](https://www.tokens.net/) |	| | | 	(developing)	| dynamic trading rights protocol	| 	|
