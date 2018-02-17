@@ -111,7 +111,7 @@ PlutusDEX, https://dex.plutus.it/, , , , (operating), TBC,
 Prime, https://getprime.org/, https://github.com/hitchhiker/prime, , , (developing - pre-alpha), TBC, 
 Prism, https://prism.exchange/, , , , (developing - invite-only beta), TBC, 
 Radar Relay, https://app.radarrelay.com/, , , , (operating), 0x protocol, 
-Radex, https://exchange.rados.io/, https://github.com/rados-io/radex, , , (operating - alpha), saturn, 
+Radex, https://exchange.rados.io/, https://github.com/rados-io/radex, , , (operating - alpha), saturn protocol, 
 Raiden, https://raiden.network/, , , , (released), raiden protocol, 2
 Raidex, https://www.raidex.io/, , , , (developing), raiden protocol, 
 Relayer Network, https://relayer.network/, , , , (developing), 0x protocol (modular trade networks), 
