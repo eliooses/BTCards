@@ -177,7 +177,7 @@ Yes. A key column is totally empty. Is the column of grade of decentralization. 
 
 This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steven Hatzakis](https://github.com/hatgit) and [Elio Osés](https://twitter.com/oseselio):
 
- - **Accountless**: The project should be accesible without registration, KYC or AML policies.
+ - **Accountless**: The project should be accesible without registration, KYC or AML policies. `ACL`
  - **Decentralized Capital Deposits (non-custodial)**: You should be able to trade directly out of your own wallet. `DCD`
  - **Decentralized Order Books**: Orderbooks should be synced among various parties to prevent any malicious behavior in  a similar way that blockchain validation consensus is decentralized. `DOB`
  - **Decentralized Order Matching**: The matching of orders should be   decentralized among different parties. `DOM`
@@ -186,7 +186,7 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
  - **Decentralized Development**: The project should be open source. `DD`
  - **Decentralized DNS**: The project should be accessible through a decentralized domain name service (like [ENS](https://ens.domains/)). `DDNS` 
  - **Decentralized Client**: The trades should be possibles through a downloadable client or build it from source. `DC` 
- - **Decentralized settlement**: `DSTT`
+ - **Decentralized Settlement**: `DSTT`
 
  If you know in details or are you the owner/dev of any DEX, please fill the column with all the codes that correspond.
 
