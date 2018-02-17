@@ -87,6 +87,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Legolas Exchange	| 	[![alt text][web]](https://legolas.exchange/) |	| | | 	(developing - ICO Q1 2018)	| 	legolas protocol	| 3	|
 | 	Lendroid	| 	[![alt text][web]](https://lendroid.com/) |	| | | 	(developing - ICO Q1 2018)	| 	lendroid (non-custodian margin trading) protocol |	|
 | 	Leverj	| 	[![alt text][web]](https://leverj.io/) |	| | | 	(developing)	| 	leverj protocol |	5 |
+| 	LinkerCoin	| 	[![alt text][web]](https://www.linkercoin.com/) | [![alt text][github]](https://github.com/linkercoinfoundation/Linker-Coin-Project)	| [![alt text][whitepaper]](https://docs.wixstatic.com/ugd/4e7588_4bd05b0a780f42849f44280af1a51189.pdf) | | 	(developing)	| 	linker protocol |	 |
 | 	Loopring	| 	[![alt text][web]](https://loopring.org) |	| [![alt text][whitepaper]](https://github.com/Loopring/whitepaper/raw/master/en_whitepaper.pdf) | | 	(developing - launch Q2 2018)	| 	loopring protocol	| 2	|
 | 	Lykke	| 	[![alt text][web]](https://www.lykke.com/) |	| | | 	(operating)	| 	TBC	| 4	|
 | 	Mandarin	| 	[![alt text][web]](https://mandarin.top/) |	| | | 	(dead)	| TBC	| 	|
