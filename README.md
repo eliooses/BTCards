@@ -103,7 +103,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	NextExchange	| 	[![alt text][web]](https://next.exchange/) | [![alt text][github]](https://github.com/NextExchange)	| [![alt text][whitepaper]](https://next.exchange/whitepaper) | | 	(developing)	| 	0x	| 	|
 | 	NVO	| 	[![alt text][web]](https://nvo.io/) |	| | | 	(developing - launch Q1 2018)	| 	nvo protocol	|	|
 | 	Nxt	| 	[![alt text][web]](https://nxtplatform.org) |	| | | 	(operating)	| 	TBC	| 5	|
-| 	Oasis DEX	| 	[![alt text][web]](https://oasisdex.com) |	| | | 	(operating - alpha)	| 	on-chain protocol	| 	|
+| 	Oasis DEX	| 	[![alt text][web]](https://oasisdex.com) |	| | `FULLY` | 	(operating - alpha)	| 	on-chain protocol	| 	|
 | 	Omega One	| 	[![alt text][web]](https://omega.one/) |	| | | 	(ICO)	| 	TBC	| 	|
 | 	OmiseGO	| 	[![alt text][web]](https://omisego.network/) |	| | | 	(developing)	| 	omisego protocol	| 2 |
 | 	Omni DEX	| 	[![alt text][web]](http://omniexplorer.info/dex.aspx) |	| | | 	(operating)	| 	TBC	| 	|
@@ -182,14 +182,16 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
 
  - **Accountless**: The project should be accesible without registration, KYC or AML policies. `ACL`
  - **Decentralized Capital Deposits (self-custodied)**: You should be able to trade directly out of your own wallet. `DCD`
+ - **Decentralized Client**: The trades should be possibles through a downloadable client or build it from source. `DC`  
+ - **Decentralized Development**: The project should be open source. `DD` 
+ - **Decentralized DNS**: The project should be accessible through a decentralized domain name service (like [ENS](https://ens.domains/)). `DDNS` 
+ - **Decentralized Governance**: The direction of the project should be governed by the project's service providers. `DG`
  - **Decentralized Order Books**: Orderbooks should be synced among various parties to prevent any malicious behavior in  a similar way that blockchain validation consensus is decentralized. `DOB`
  - **Decentralized Order Matching**: The matching of orders should be   decentralized among different parties. `DOM`
  - **Decentralized Swap**: The usage of atomic swaps. The trader's funds should go directly from one  to the other without any other parties handling the funds. `DS`
- - **Decentralized Governance**: The direction of the project should be governed by the project's service providers. `DG`
- - **Decentralized Development**: The project should be open source. `DD`
- - **Decentralized DNS**: The project should be accessible through a decentralized domain name service (like [ENS](https://ens.domains/)). `DDNS` 
- - **Decentralized Client**: The trades should be possibles through a downloadable client or build it from source. `DC` 
  - **Decentralized Settlement**: `DSTT`
+ - **Fully Decentralized**: `FULLY`
+
 
  If you know in details or are you the owner/dev of any DEX, please fill the column with all the codes that correspond.
 
