@@ -26,7 +26,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	BitPoint	| 	[![alt text][web]](http://bitpoint.network/) | [![alt text][github]](https://github.com/BitPointNetwork)	| | | 	(operating)	| 	0x protocol	| 6	|
 | 	Bitox Exchange	| 	[![alt text][web]](https://twitter.com/bitox_exchange) |	| | | 	(developing)	| 	0x protocol	| 	|
 | 	BitShares	| 	[![alt text][web]](https://wallet.bitshares.org/) | [![alt text][github]](https://github.com/bitshares)	| [![alt text][whitepaper]](http://docs.bitshares.org/bitshares/papers/) | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
-| 	Blockchain	| 	[![alt text][web]](https://blockchain.io/) |	| [![alt text][whitepaper]](https://blockchain.io/wp-content/uploads/2018/02/Manifesto_blockchain_HD.pdf) | `DS` `DSTT` | 	(developing)	| 	cross-chain protocol	| 3	|
+| 	Blockchain.io	| 	[![alt text][web]](https://blockchain.io/) |	| [![alt text][whitepaper]](https://blockchain.io/wp-content/uploads/2018/02/Manifesto_blockchain_HD.pdf) | `DS` `DSTT` | 	(developing)	| 	cross-chain protocol	| 3	|
 | 	Blocknet DEX	| 	[![alt text][web]](https://blocknetprotocol.com/#dex) | [![alt text][github]](https://github.com/BlocknetDX/BlockDX/)	| (due 15 March) | | 	(alpha)	| 	blocknet protocol + 0x protocol	| 	|
 | 	Blockport	| 	[![alt text][web]](https://blockport.io/) | [![alt text][github]](https://github.com/Blockport)	| | | 	(developing)	| blockport protocol	| 3	|
 | 	BlockTrades	| 	[![alt text][web]](https://blocktrades.us) |	| | | 	(operating)	| 	counterparty protocol	| 	|
