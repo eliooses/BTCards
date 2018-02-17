@@ -62,6 +62,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	EtheRoox	| 	[![alt text][web]](http://etheroox.com) | [![alt text][github]](https://github.com/ynzheng/etheroox.github.io)	| | | 	(developing)	| 	TBC	| 	|
 | 	Ether Wager	| 	[![alt text][web]](http://eth-wager.surge.sh/) |	| | | 	(operating)	| 	oraclize protocol	| 	|
 | 	Ethfinex	| 	[![alt text][web]](https://www.ethfinex.com/) |	| | | 	(private beta)	| 	multi protocol	| 4	|
+| 	Ethos 	| [![alt text][web]](https://www.ethos.io/) |   | [![alt text][whitepaper]](http://www.ethos.io/Ethos_Whitepaper.pdf) | `DCD` `DS` | (developing) | multi protocol (0x - atomic swap) | 6 |
 | 	EthRoox	| 	[![alt text][web]](https://etheroox.com/) |	| | | 	(operating with issues)	| 	TBC	| 	|
 | 	ExchangeN	| 	[![alt text][web]](http://www.exchangen.com/) |	| | | 	(operating with issues)	| 	TBC	| 	|
 | 	Exchange Union	| 	[![alt text][web]](https://www.exchangeunion.com) | [![alt text][github]](https://github.com/exchangeunion)	| [![alt text][whitepaper]](https://api.exchangeunion.com/pdf/en/ExchangeUnion-WhitePaper.pdf) | `DS` `DOB` `DD` | 	(developing)	| 	cross-exchange protocol	| 	|
@@ -179,7 +180,7 @@ Yes. A key column is totally empty. Is the column of grade of decentralization. 
 This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steven Hatzakis](https://github.com/hatgit) and [Elio Osés](https://twitter.com/oseselio):
 
  - **Accountless**: The project should be accesible without registration, KYC or AML policies. `ACL`
- - **Decentralized Capital Deposits (non-custodial)**: You should be able to trade directly out of your own wallet. `DCD`
+ - **Decentralized Capital Deposits (self-custodied)**: You should be able to trade directly out of your own wallet. `DCD`
  - **Decentralized Order Books**: Orderbooks should be synced among various parties to prevent any malicious behavior in  a similar way that blockchain validation consensus is decentralized. `DOB`
  - **Decentralized Order Matching**: The matching of orders should be   decentralized among different parties. `DOM`
  - **Decentralized Swap**: The usage of atomic swaps. The trader's funds should go directly from one  to the other without any other parties handling the funds. `DS`
