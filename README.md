@@ -54,6 +54,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	DutchX	| 	 | [![alt text][github]](https://github.com/gnosis/dutch-exchange)	| | | 	(developing)	| 	dutch auction principle protocol	| 	|
 | 	dYdX	| [![alt text][web]](https://dydx.exchange/) | | [![alt text][whitepaper]](https://whitepaper.dydx.exchange/) | | 	(developing)	| 	dYdX protocol (0x protocol)	| 5	|
 | 	EasyTrade	| 	[![alt text][web]](https://easytrade.io/) |	| | | 	(operating)	| 	0x protocol	|	|
+| Eidoo | [![alt text][web]](https://eidoo.io/) | [![alt text][github]](https://github.com/eidoo) | [![alt text][whitepaper]](https://eidoo.io/white-paper/) | `DCD` | (operating) | multi protocol | 3 |
 | 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) | [![alt text][github]](https://github.com/enigmampc/)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_full.pdf) | | 	(operating)	| 	enigma protocol	| 2	|
 | 	EOSfinex	| 	[![alt text][web]](https://eosfinex.com/) |	| | | 	(developing)	| 	eos protocol	| 	|
 | 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	|
