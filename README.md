@@ -32,7 +32,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	BlockTrades	| 	[![alt text][web]](https://blocktrades.us) |	| | | 	(operating)	| 	counterparty protocol	| 	|
 | Braveno | [![alt text][web]](https://braveno.com/) | [![alt text][github]](https://github.com/Braveno) | [![alt text][whitepaper]](http://docs.braveno.com/) | `DSTT` | (operating) | TBC | 3 |
 | 	BTSABC	| 	[![alt text][web]](https://bit.btsabc.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
-|	Bytabit 	| 	[![alt text][web]](https://bytabit.org/)	|  |  | ACL DCD DC DOM | 	(developing)	| 	Bytabit protocol	| 6 |
+|	Bytabit 	| 	[![alt text][web]](https://bytabit.org/)	|  |  | 'ACL' 'DCD' 'DC' 'DOM' | 	(developing)	| 	Bytabit protocol	| 6 |
 | 	Catalyst	| 	[![alt text][web]](https://enigmampc.github.io/catalyst/index.html) | [![alt text][github]](https://github.com/enigmampc/catalystweb)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_catalyst.pdf) | | 	(developing - alpha)	| 	enigma protocol	| 	|
 | 	Coinffeine	| 	[![alt text][web]](http://www.coinffeine.com/) | [![alt text][github]](https://github.com/Coinffeine)	| | | 	(developing)	| 	coinffeine protocol	| 	|
 | 	COMIT	| 	[![alt text][web]](http://www.comit.network/) |	| [![alt text][whitepaper]](http://www.comit.network/doc/COMIT%20white%20paper%20v1.0.2.pdf) | | 	(whitepaper)	| 	comit protocol (cross-chain routing)	|	2 |
