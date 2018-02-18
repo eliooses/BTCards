@@ -1,4 +1,4 @@
-Exchange, URL, REPO, Whitepaper/DOCs, DEX GRADE, Status, Protocol, Reference
+Exchange, URL, REPO, Whitepaper/Docs, DEX GRADE, Status, Protocol, Reference
 {Set}, https://setprotocol.com/, https://github.com/SetProtocol/set-protocol-contracts, https://whitepaper.setprotocol.com/, , (released), {Set} protocol, 2
 0x, https://0xproject.com, https://github.com/0xProject, https://0xproject.com/pdfs/0x_white_paper.pdf, , (operating), 0x protocol, 2
 0x Portal, https://0xproject.com/portal/, , , , (operating), 0x protocol, 
@@ -130,7 +130,8 @@ SDEX, https://www.stellar.org/blog/2018-Stellar-Roadmap/, , , , (developing), st
 Settle, https://settle.network/, https://github.com/spolu/settle/, , , (developing), settle protocol, 2
 SingularX, https://ex.singularx.com/, , , , (operating), TBC, 
 Smart-Exchange, , , https://debris.gitbooks.io/ethchange/content/, , (developing - whitepaper), icap protocol, 
-Stellar Term, https://stellarterm.com/), , , , (operating), stellar consensus protocol, 
+Stellarport, https://stellarport.io/, , , , (operating), stellar consensus protocol, 
+Stellar Term, https://stellarterm.com/, , , , (operating), stellar consensus protocol, 
 STeX, https://stex.exchange/, https://github.com/stex-exchange/, https://stex.exchange/media/pdf/whitepaper.pdf, , (operating), a2a protocol, 3-5-9
 Streamity, https://streamity.org/, https://github.com/streamity/, https://streamity.org/uploads/docs/en/Whitepaper_Streamity_en.pdf, , (developing), TBC, 3
 Swap Protocol, https://swap.tech/faq/, , , , (operating), swap protocol, 2

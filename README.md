@@ -137,6 +137,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Settle	| 	[![alt text][web]](https://settle.network/) | [![alt text][github]](https://github.com/spolu/settle/) | | | 	(developing)	| 	settle protocol	| 2	|
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	|
 | 	Smart-Exchange	| 	|	| [![alt text][whitepaper]](https://debris.gitbooks.io/ethchange/content/) | | 	(developing - whitepaper)	| icap protocol | 	|
+| Stellarport | [![alt text][web]](https://stellarport.io/) |   |   |   | (operating) | stellar consensus protocol |   |
 | 	Stellar Term	| 	[![alt text][web]](https://stellarterm.com/) |	| | | 	(operating)	| 	stellar consensus protocol	| 	|
 | STeX | [![alt text][web]](https://stex.exchange/) | [![alt text][github]](https://github.com/stex-exchange/) | [![alt text][whitepaper]](https://stex.exchange/media/pdf/whitepaper.pdf) |   | (developing) | a2a protocol | 3 5 9 |
 | 	Streamity	| 	[![alt text][web]](https://streamity.org/) | [![alt text][github]](https://github.com/streamity/)	| [![alt text][whitepaper]](https://streamity.org/uploads/docs/en/Whitepaper_Streamity_en.pdf) | | 	(developing)	| TBC	| 3	|
