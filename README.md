@@ -209,6 +209,7 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
 
 ## **RESOURCES**: 
 [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
+
 [#inDEX @ Medium](https://medium.com/@oseselio/index-a-comprehensive-list-of-decentralized-exchanges-cf4985c79d7e) 
 
 ## **CONTRIBUTING**:
