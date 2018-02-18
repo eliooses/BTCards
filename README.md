@@ -152,7 +152,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Wyvern	| 	[![alt text][web]](https://exchange.projectwyvern.com/) |	[![alt text][github]](https://github.com/ProjectWyvern/wyvern-ethereum) | [![alt text][whitepaper]](https://github.com/ProjectWyvern/wyvern-protocol/raw/master/build/whitepaper.pdf) | | 	(operating - alpha)	| wyvern protocol	| 	|
 | 	xChainge	| 	[![alt text][web]](https://xchain.io/) |	| | | 	(operating)	| 	counterparty protocol	| 	|
 | 	YouDEX	| 	[![alt text][web]](http://youdex.io/) | [![alt text][github]](https://github.com/YouDex/dex)	| [![alt text][whitepaper]](http://youdex.io/white-paper/) | | 	(developing)	| 	CDX protocol | 	|
-| zDEX | [![alt text][web]](https://pivx.org/) | [![alt text][github]](https://github.com/PIVX-Project/PIVX/) |   |   | [(announced)](https://twitter.com/_pivx/status/956381252898222080) | pivx protocol | 10 |
+| zDEX | [![alt text][web]](https://pivx.org/) | [![alt text][github]](https://github.com/PIVX-Project/PIVX/) |   |   | [(announced)](https://steemit.com/cryptocurrency/@pivx/have-you-heard-of-zdex) | zerocoin protocol | 10 |
 | 	Zero Exchange	| 	[![alt text][web]](http://www.zero.exchange/) |	| | | 	(operating with issues)	| 	0x protocol	|	|
 |   Zip Exchange | [![alt text][web]](https://zip.exchange/) | | | | (developing) | 0x protocol |	|
 
@@ -180,7 +180,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 
 ## **DEX GRADE**:
 
-It is a complex task, since it not only requires a very specific technical definition, but also requires an exhaustive analysis of each of the exchanges that we include. We are working on it. But all help is welcome. The goal is to get a model like the Creative Commons badges ( [https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/](https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/).
+It is a complex task, since it not only requires a very specific technical definition, but also requires an exhaustive analysis of each of the exchanges that we include. We are working on it. But all help is welcome. The goal is to get a model like the Creative Commons badges [https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/](https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/).
 
 This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steven Hatzakis](https://github.com/hatgit), [Manfred Karrer](https://github.com/ManfredKarrer) and [Elio Osés](https://twitter.com/oseselio):
 
