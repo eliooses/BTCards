@@ -92,7 +92,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Leverj	| 	[![alt text][web]](https://leverj.io/) |	| | | 	(developing)	| 	leverj protocol |	5 |
 | 	LinkerCoin	| 	[![alt text][web]](https://www.linkercoin.com/) | [![alt text][github]](https://github.com/linkercoinfoundation/Linker-Coin-Project)	| [![alt text][whitepaper]](https://docs.wixstatic.com/ugd/4e7588_4bd05b0a780f42849f44280af1a51189.pdf) | | 	(developing)	| 	linker protocol |	 |
 | 	Loopring	| 	[![alt text][web]](https://loopring.org) |	| [![alt text][whitepaper]](https://github.com/Loopring/whitepaper/raw/master/en_whitepaper.pdf) | | 	(developing - launch Q2 2018)	| 	loopring protocol	| 2	|
-| 	Lykke	| 	[![alt text][web]](https://www.lykke.com/exchange) | [![alt text][web]](https://github.com/LykkeCity/)	| [![alt text][whitepaper]](https://www.lykke.com/media/Whitepaper_LykkeExchange.pdf) | | 	(operating)	| 	TBC	| 4	|
+| 	Lykke	| 	[![alt text][web]](https://www.lykke.com/exchange) | [![alt text][github]](https://github.com/LykkeCity/)	| [![alt text][whitepaper]](https://www.lykke.com/media/Whitepaper_LykkeExchange.pdf) | | 	(operating)	| 	TBC	| 4	|
 | 	Mandarin	| 	[![alt text][web]](https://mandarin.top/) |	| | | 	(dead)	| TBC	| 	|
 | 	Melon DEX	| 	 | [![alt text][github]](https://github.com/melonproject/cross-chain-exchange-prototype)	| | | 	(developing - prototype)	| 	melonport protocol (cross-chain) | 	|
 | 	Mercatox | 	[![alt text][web]](https://mercatox.com) |	| | | 	(developing)	| 	TBC	| 4	|
