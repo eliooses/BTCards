@@ -113,7 +113,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	OpenLedger DEX	| 	[![alt text][web]](https://openledger.io/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
 | 	Open Relay	| 	[![alt text][web]](https://openrelay.xyz/) |	| | | 	(developing - private alpha)	| 	0x protocol	| 	|
 | 	Orderbook	| 	[![alt text][web]](https://www.orderbook.io) | [![alt text][github]](https://github.com/Orderbookio)	| [![alt text][whitepaper]](https://ico.orderbook.io/files/orderbook_WP.pdf)  | | 	(released)	| 	ethereum protocol	| 	|
-| 	Paradex	| 	[![alt text][web]](https://app.paradex.io/) |	| | | 	(operating - beta)	| 	0x protocol	| 	|
+| 	Paradex	| 	[![alt text][web]](https://app.paradex.io/) | [![alt text][github]](https://github.com/ParadexRelayer)	| | | 	(operating - beta)	| 	0x protocol	| 	|
 | 	PlutusDEX |	[![alt text][web]](https://dex.plutus.it/) | | | |	(operating) |	TBC |	 |
 | 	Prime |	[![alt text][web]](https://getprime.org/) | [![alt text][github]](https://github.com/hitchhiker/prime) | | |	(developing - pre-alpha) |	TBC |	 |
 | 	Prism	| 	[![alt text][web]](https://prism.exchange) |	| | | 	(developing - invite-only beta)	| 	TBC	| 	|
@@ -154,6 +154,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	YouDEX	| 	[![alt text][web]](http://youdex.io/) | [![alt text][github]](https://github.com/YouDex/dex)	| [![alt text][whitepaper]](http://youdex.io/white-paper/) | | 	(developing)	| 	CDX protocol | 	|
 | zDEX | [![alt text][web]](https://pivx.org/) | [![alt text][github]](https://github.com/PIVX-Project/PIVX/) |   |   | [(announced)](https://steemit.com/cryptocurrency/@pivx/have-you-heard-of-zdex) | zerocoin protocol | 10 |
 | 	Zero Exchange	| 	[![alt text][web]](http://www.zero.exchange/) |	| | | 	(operating with issues)	| 	0x protocol	|	|
+| Zeus | [![alt text][web]](https://zeus.exchange/) |   | [![alt text][whitepaper]](https://zeus.exchange/zeus/ZEUS%20EXCHANGE%20EXECUTIVE%20SUMMARY%2027%20NOV%202017.pdf)   |   | (developing) | nem protocol | 3 |
 |   Zip Exchange | [![alt text][web]](https://zip.exchange/) | | | | (developing) | 0x protocol |	|
 
 ## **REFERENCES**: 
