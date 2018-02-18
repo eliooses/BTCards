@@ -1,4 +1,4 @@
-Exchange, URL, REPO, Whitepaper, DEX GRADE, Status, Protocol, Reference
+Exchange, URL, REPO, Whitepaper/DOCs, DEX GRADE, Status, Protocol, Reference
 {Set}, https://setprotocol.com/, https://github.com/SetProtocol/set-protocol-contracts, https://whitepaper.setprotocol.com/, , (released), {Set} protocol, 2
 0x, https://0xproject.com, https://github.com/0xProject, https://0xproject.com/pdfs/0x_white_paper.pdf, , (operating), 0x protocol, 2
 0x Portal, https://0xproject.com/portal/, , , , (operating), 0x protocol, 
@@ -23,6 +23,7 @@ Blockchain.io, https://blockchain.io/, , https://blockchain.io/wp-content/upload
 Blocknet DEX, https://blocknetprotocol.com/#dex, https://github.com/BlocknetDX/BlockDX/, (due 15 March), , (alpha), blocknet protocol + 0x protocol, 
 Blockport, https://blockport.io/, https://github.com/Blockport, , , (developing), blockport protocol, 3
 BlockTrades, https://blocktrades.us/, , , , (operating), counterparty protocol, 
+Braveno, https://braveno.com/, https://github.com/Braveno, http://docs.braveno.com/, DSTT, (operating), TBC, 3
 BTSABC, https://bit.btsabc.org/, , , , (operating), bitshares protocol (DPOS), 
 Catalyst, https://enigmampc.github.io/catalyst/index.html, https://github.com/enigmampc/catalystweb, https://www.enigma.co/enigma_catalyst.pdf, , (developing - alpha), enigma protocol, 
 Coinffeine, http://www.coinffeine.com/, https://github.com/Coinffeine, , , (developing), coinffeine protocol, 

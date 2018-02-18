@@ -4,7 +4,7 @@
 
 A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, tokens, derivatives and futures, and their protocols.
 
-|	Exchange	| URL	| REPO | Whitepaper | DEX GRADE | 	Status	| 	Protocol	| Reference |
+|	Exchange	| URL	| REPO | Whitepaper/Docs | DEX GRADE | 	Status	| 	Protocol	| Reference |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) | [![alt text][github]](https://github.com/SetProtocol/set-protocol-contracts)	| [![alt text][whitepaper]](https://whitepaper.setprotocol.com/) | | 	(released)	| 	{Set} protocol	| 2	| 
 | 	0x	| 	[![alt text][web]](https://0xproject.com) | [![alt text][github]](https://github.com/0xProject)	| [![alt text][whitepaper]](https://0xproject.com/pdfs/0x_white_paper.pdf) | | 	(operating)	| 	0x protocol	| 2	|
@@ -30,6 +30,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Blocknet DEX	| 	[![alt text][web]](https://blocknetprotocol.com/#dex) | [![alt text][github]](https://github.com/BlocknetDX/BlockDX/)	| (due 15 March) | | 	(alpha)	| 	blocknet protocol + 0x protocol	| 	|
 | 	Blockport	| 	[![alt text][web]](https://blockport.io/) | [![alt text][github]](https://github.com/Blockport)	| | | 	(developing)	| blockport protocol	| 3	|
 | 	BlockTrades	| 	[![alt text][web]](https://blocktrades.us) |	| | | 	(operating)	| 	counterparty protocol	| 	|
+| Braveno | [![alt text][web]](https://braveno.com/) | [![alt text][github]](https://github.com/Braveno) | [![alt text][whitepaper]](http://docs.braveno.com/) | `DSTT` | (operating) | TBC | 3 |
 | 	BTSABC	| 	[![alt text][web]](https://bit.btsabc.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
 | 	Catalyst	| 	[![alt text][web]](https://enigmampc.github.io/catalyst/index.html) | [![alt text][github]](https://github.com/enigmampc/catalystweb)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_catalyst.pdf) | | 	(developing - alpha)	| 	enigma protocol	| 	|
 | 	Coinffeine	| 	[![alt text][web]](http://www.coinffeine.com/) | [![alt text][github]](https://github.com/Coinffeine)	| | | 	(developing)	| 	coinffeine protocol	| 	|
