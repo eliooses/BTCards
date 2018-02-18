@@ -131,7 +131,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Republic Protocol	| [![alt text][web]](https://republicprotocol.com/) |	| | | 	(operating)	| 	republic protocol	| 2	|
 | 	RigoBlock	| [![alt text][web]](https://rigoblock.com/) |	| | | 	(operating with issues)	| 	rigoblock protocol	||
 |   Ripple | [![alt text][web]](https://ripple.com) | | | | (operating) | ripple protocol | 2	|
-|   Rippex | [![alt text][web]](https://rippex.net/carteira-ripple.php) | | | | (will be shutdown) | ripple protocol | 7 |
+|   Rippex | [![alt text][web]](https://rippex.net/carteira-ripple.php) | | | | (operating) | ripple protocol | 7 |
 | 	RSK	| 	[![alt text][web]](https://www.rsk.co/) | [![alt text][github]](https://github.com/rsksmart/)	| [![alt text][whitepaper]](https://uploads.strikinglycdn.com/files/ec5278f8-218c-407a-af3c-ab71a910246d/RSK%20White%20Paper%20-%20Overview.pdf) | | 	(developing)	| 	rsk protocol	| 2	|
 | 	RuDEX	| 	[![alt text][web]](https://rudex.org/) |	| | | 	(operating - beta)	| 	bitshares protocol (Graphene)	|	|
 | 	SAFEX	|  | [![alt text][github]](https://github.com/dallyshalla/safex-while)	| | | 	(released)	| 	safex protocol	| 2	|
