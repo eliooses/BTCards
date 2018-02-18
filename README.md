@@ -117,6 +117,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	PlutusDEX |	[![alt text][web]](https://dex.plutus.it/) | | | |	(operating) |	TBC |	 |
 | 	Prime |	[![alt text][web]](https://getprime.org/) | [![alt text][github]](https://github.com/hitchhiker/prime) | | |	(developing - pre-alpha) |	TBC |	 |
 | 	Prism	| 	[![alt text][web]](https://prism.exchange) |	| | | 	(developing - invite-only beta)	| 	TBC	| 	|
+| QTUM DEX |   |   |   |   | [(announced)](https://medium.com/@switcheo/switcheo-progress-update-4c6eb114741f) | qtum protocol |   |
 | 	Radar Relay	| 	[![alt text][web]](https://app.radarrelay.com/) | [![alt text][github]](https://github.com/RadarRelay)	| | `ACL` `DCD` | 	(operating - beta)	| 	0x protocol	| 	|
 | 	Radex	| 	[![alt text][web]](https://exchange.rados.io) | [![alt text][github]](https://github.com/rados-io/radex)	| | | 	(operating - alpha)	| 	saturn protocol	|	|
 | 	Raiden	| 	[![alt text][web]](https://raiden.network/) |	| | | 	(released)	| 	raiden protocol	| 2	|
