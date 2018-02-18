@@ -136,6 +136,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	|
 | 	Smart-Exchange	| 	|	| [![alt text][whitepaper]](https://debris.gitbooks.io/ethchange/content/) | | 	(developing - whitepaper)	| icap protocol | 	|
 | 	Stellar Term	| 	[![alt text][web]](https://stellarterm.com/) |	| | | 	(operating)	| 	stellar consensus protocol	| 	|
+| STeX | [![alt text][web]](https://stex.exchange/) | [![alt text][github]](https://github.com/stex-exchange/) | [![alt text][whitepaper]](https://stex.exchange/media/pdf/whitepaper.pdf) |   | (developing) | a2a protocol | 3 5 9 |
 | 	Streamity	| 	[![alt text][web]](https://streamity.org/) | [![alt text][github]](https://github.com/streamity/)	| [![alt text][whitepaper]](https://streamity.org/uploads/docs/en/Whitepaper_Streamity_en.pdf) | | 	(developing)	| TBC	| 3	|
 | 	Swap Protocol	| 	[![alt text][web]](https://swap.tech/faq/) |	| | | 	(operating)	| swap protocol	| 2	|
 | 	Switcheo	| 	[![alt text][web]](http://switcheo.exchange/) | [![alt text][github]](https://github.com/ConjurTech/switcheo)	| | | 	(operating)	| neo protocol	| 	|
@@ -169,7 +170,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 
 4: Hybrid centralized/decentralized exchange, full decentralisation in the roadmap.
 
-5: Derivatives decentralized exchange.
+5: Decentralized derivatives exchange.
 
 6: Decentralized cash-crypto exchange.
 
@@ -208,6 +209,7 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
 
 ## **RESOURCES**: 
 [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
+[#inDEX @ Medium](https://medium.com/@oseselio/index-a-comprehensive-list-of-decentralized-exchanges-cf4985c79d7e) 
 
 ## **CONTRIBUTING**:
 
