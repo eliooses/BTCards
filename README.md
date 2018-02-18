@@ -82,7 +82,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Heat	| 	[![alt text][web]](https://heatwallet.com) |	| | | 	(operating)	| 	asset-to-asset protocol	| 	|
 | 	Herdius	| 	[![alt text][web]](https://herdius.com/) |	| | | 	(developing - ICO expected in Q1 2018)	| 	cross-chain protocol	| 	|
 | 	Hydra	| 	[![alt text][web]](http://libertaria.world/) |	| | | 	(developing - whitepaper)	| 	hydra protocol	| 2	|
-| 	Hodl Hodl	| 	[![alt text][web]](https://hodlhodl.com/) |	| | | 	(developing)	| 	TBC | 	|
+| 	Hodl Hodl	| 	[![alt text][web]](https://hodlhodl.com/) |	| | `DSTT` | 	(operating)	| 	Bitcoin, Litecoin | 3 |
 | 	Hodl⚡️co	| 	[![alt text][web]](http://www.hodlco.io) |	| | | 	(developing)	| 	TBC | 6	|
 | 	IDEX	| 	[![alt text][web]](https://idex.market/) |	| | | 	(operating)	| 	snowglobe protocol	| 	|
 | 	IDT Exchange	| 	[![alt text][web]](https://trade.idtexchange.com/) |	| | | 	(operating)	| 	0x protocol	| 	|
