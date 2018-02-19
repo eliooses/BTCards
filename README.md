@@ -222,15 +222,23 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
  - [@oseselio](https://twitter.com/oseselio) research for "Mercados Descentralizados | #dsociety" book project.
  - ["State of Decentralized Exchanges, 2018"](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79) by [@NathanSexer](https://twitter.com/NathanSexer): [https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79)
 
-## **Decentralized Marketplaces**:
+## **DECENTRALIZATION RESOURCES**: 
 
-If you are looking for Marketplaces, please check the [John Light](https://github.com/john-light/) list:
+# **Decentralized Marketplaces**:
 
 [Decentralized Marketplaces, a list of decentralized marketplaces and decentralized marketplace protocols.](https://github.com/john-light/decentralized-marketplaces)
 
-## **RESOURCES**: 
+# **Platforms for Smart Contracts **:
+
+[List of awesome platforms for smart contracts](https://github.com/Overtorment/awesome-smart-contracts)
+
+# **#DEX in social networks**:
+
  - [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
- - [#inDEX @ Medium](https://medium.com/@oseselio/index-a-comprehensive-list-of-decentralized-exchanges-cf4985c79d7e) 
+
+## **About this list**:
+
+ - [#inDEX PR @ Medium](https://medium.com/@oseselio/index-a-comprehensive-list-of-decentralized-exchanges-cf4985c79d7e) 
 
 ## **CONTRIBUTING**:
 
