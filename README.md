@@ -219,6 +219,11 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
  - [@oseselio](https://twitter.com/oseselio) research for "Mercados Descentralizados | #dsociety" book project.
  - ["State of Decentralized Exchanges, 2018"](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79) by [@NathanSexer](https://twitter.com/NathanSexer): [https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79)
 
+## **Decentralized Marketplaces**:
+
+If you are looking for Marketplaces, please check the [John Light](https://github.com/john-light/) list:
+[Decentralized Marketplaces, a list of decentralized marketplaces and decentralized marketplace protocols.](https://github.com/john-light/decentralized-marketplaces)
+
 ## **RESOURCES**: 
  - [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
  - [#inDEX @ Medium](https://medium.com/@oseselio/index-a-comprehensive-list-of-decentralized-exchanges-cf4985c79d7e) 
@@ -237,7 +242,8 @@ If you are considering contributing editing the list, here are some tools for yo
 
 **Netiquette**:
 
-Please don´t use commas on the .MD.
+ - Please don´t use commas on the .MD.
+ - Update the README.md and the index.csv file too, please.
 
 To render the icons on the MD table please use:
 
