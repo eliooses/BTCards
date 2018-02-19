@@ -222,20 +222,6 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
  - [@oseselio](https://twitter.com/oseselio) research for "Mercados Descentralizados | #dsociety" book project.
  - ["State of Decentralized Exchanges, 2018"](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79) by [@NathanSexer](https://twitter.com/NathanSexer): [https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79)
 
-# **DECENTRALIZATION RESOURCES**: 
-
-## Decentralized Marketplaces:
-
-[Decentralized Marketplaces, a list of decentralized marketplaces and decentralized marketplace protocols.](https://github.com/john-light/decentralized-marketplaces)
-
-## Platforms for Smart Contracts:
-
-[List of awesome platforms for smart contracts](https://github.com/Overtorment/awesome-smart-contracts)
-
-# **#DEX in social networks**:
-
- - [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
-
 ## **About this list**:
 
  - [#inDEX PR @ Medium](https://medium.com/@oseselio/index-a-comprehensive-list-of-decentralized-exchanges-cf4985c79d7e) 
@@ -296,3 +282,17 @@ By contributing to this repo you agree to the following copyright waiver:
 ## Disclaimer
 
 While the maintainer(s) of this repo do their best to keep this list free of any software that could be considered harmful to users, inclusion on this list does not constitute an endorsement by the author(s) or maintainer(s) of this repo. Do your own due diligence before downloading and installing any software to ensure you can trust it and understand the implications of its use.
+
+# **#DEX in social networks**:
+
+ - [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
+
+# **DECENTRALIZATION RESOURCES**: 
+
+## Decentralized Marketplaces:
+
+[Decentralized Marketplaces, a list of decentralized marketplaces and decentralized marketplace protocols.](https://github.com/john-light/decentralized-marketplaces)
+
+## Platforms for Smart Contracts:
+
+[List of awesome platforms for smart contracts](https://github.com/Overtorment/awesome-smart-contracts)
