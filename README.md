@@ -154,6 +154,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Token Store | 	[![alt text][web]](https://token.store) |	| | | 	(operating)	| TBC	|	|
 | 	Trade.io | 	[![alt text][web]](https://trade.io/) |	| [![alt text][whitepaper]](https://trade.io/whitepaper/ES.pdf) | | 	(developing)	| raiden protocol	| 	|
 | 	TrueBit | 	[![alt text][web]](https://truebit.io/) |	[![alt text][github]](https://github.com/TrueBitFoundation) | [![alt text][whitepaper]](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf) | | 	(developing)	| truebit protocol	| 2	|
+| txbit.io | [![alt text][web]](http://txbit.io/) |   |   |   | [(announced)](https://twitter.com/NeuroticR_/status/965227339759042560) | TBC |   |
 | 	UbiTok.io | [![alt text][web]](https://ubitok.io/) |	| | | 	(operating)	| on-chain protocol	| 	|
 | 	VariabL	| 	[![alt text][web]](https://variabl.io) |	| | | 	(open alpha)	| 	VariabL protocol	| 5	|
 | 	Wanchain	| 	[![alt text][web]](https://wanchain.org/) | [![alt text][github]](https://github.com/wanchain)	| [![alt text][whitepaper]](https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf) | | 	(developing)	| 	wanchain protocol (cross-chain)	| 2	|
