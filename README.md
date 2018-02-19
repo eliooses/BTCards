@@ -12,6 +12,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	0xchange	| 	[![alt text][web]](https://0xchange.me/) | [![alt text][github]](https://github.com/0xchange/0xchange)	| [![alt text][whitepaper]](https://devpost.com/software/0xchange-me) | | 	(operating)	| 	0x protocol	| 	|
 | 	AirSwap	| 	[![alt text][web]](https://www.airswap.io/) |	[![alt text][github]](https://github.com/airswap) | [![alt text][whitepaper]](https://swap.tech/whitepaper/) | | 	(operating)	| 	swap protocol	|	|
 | 	Altcoin Exchange	| 	[![alt text][web]](https://www.altcoin.io/) | [![alt text][github]](https://github.com/AltCoinExchange/) | | | 	(developing)	| 	raiden protocol	|	|
+| ALTTEX | [![alt text][web]](https://alttex.io/) | [![alt text][github]](https://github.com/alttex/Alt-exchange) | [![alt text][whitepaper]](https://alttex.io/WhitePaper_Eng.pdf) |   | (developing) | 0x protocol |   |
 | 	Amadeus Relay	| 	[![alt text][web]](http://amadeusrelay.org/) | [![alt text][github]](https://github.com/AmadeusRelay)	| | | 	(developing)	| 	0x protocol	| 	|
 | 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) | [![alt text][github]](https://github.com/aphtoken/)	| [![alt text][whitepaper]](https://aphelion.org/wp.html) | | 	(developing - launch Q1 2018)	| 	deal protocol	| 	|
 | 	Arbidex	| 	[![alt text][web]](http://arbidex.ch) | [![alt text][github]](https://github.com/Arbidex)	| [![alt text][whitepaper]](https://arbidex.uk.com/assets/wp_en.pdf) | | 	(developing - launch Q4 2018)	| 	TBC	| 	|
