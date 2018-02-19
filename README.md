@@ -213,7 +213,7 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
  - **Decentralized Settlement**: `DSTT`
  - **Fully Decentralized**: `FULLY`
 
- If you know in details or are you the owner/dev of any DEX, please fill the column with all the codes that correspond.
+ If you know in details or are you the owner/dev of any DEX, please fill the column with all the codes that correspond creating an [issue](https://github.com/distribuyed/index/issues) or [pull request](https://github.com/distribuyed/index/pulls) to suggest changes to this file.
 
 ## **SOURCES**: 
 
@@ -233,6 +233,8 @@ If you are looking for Marketplaces, please check the [John Light](https://githu
 ## **CONTRIBUTING**:
 
 **Please consider donate**: 0x81404BE6B9d46554ADAbCc7599967cF157720d31 (I have a big stomach to maintain. 🍺 🍔 🍩).
+
+Do you notice anything that can be added, corrected, or otherwise improved? Create an [issue](https://github.com/distribuyed/index/issues) or [pull request](https://github.com/distribuyed/index/pulls) to suggest changes to this file.
 
 If you are considering contributing editing the list, here are some tools for you to use:
 
@@ -276,3 +278,11 @@ For:
 [whitepaper]: https://i.imgur.com/CQKjGai.png "Whitepaper"
 
 [header]: https://i.imgur.com/xYyP8lZ.jpg "inDEX"
+
+By contributing to this repo you agree to the following copyright waiver:
+
+> I dedicate any and all copyright interest in this software to the public domain. I make this dedication for the benefit of the public at large and to the detriment of my heirs and successors. I intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this software under copyright law.
+
+## Disclaimer
+
+While the maintainer(s) of this repo do their best to keep this list free of any software that could be considered harmful to users, inclusion on this list does not constitute an endorsement by the author(s) or maintainer(s) of this repo. Do your own due diligence before downloading and installing any software to ensure you can trust it and understand the implications of its use.
