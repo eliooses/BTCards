@@ -153,6 +153,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | Tettix | [![alt text][web]](https://tettix.io/) | [![alt text][github]](https://github.com/Tettix/) | [![alt text][whitepaper]](https://medium.com/@TettixDev/details-of-tettix-e5c9f310fa41) | `FULLY` | (dead) | tettix mechanism protocol |   |
 | 	The 0cean	| 	[![alt text][web]](https://the0cean.com/) |	| | | 	(private beta)	| 	0x protocol	| 	|
 | 	The World Exchange	| 	[![alt text][web]](https://www.theworldexchange.net/) | [![alt text][github]](https://github.com/pftq/TheWorldExchange/)	| | | 	(operating)	| 	ripple protocol	| 	|
+| Token Changer | [![alt text][web]](http://tokenchanger.io/) |   | [![alt text][whitepaper]](https://medium.com/tokenchanger/token-changer-whitepaper-18c0e7227c25) |   | (developing) | multi protocol |   |
 | 	Tokens | 	[![alt text][web]](https://www.tokens.net/) |	| | | 	(developing)	| dynamic trading rights protocol	| 	|
 | 	Token Store | 	[![alt text][web]](https://token.store) |	| | | 	(operating)	| TBC	|	|
 | 	Trade.io | 	[![alt text][web]](https://trade.io/) |	| [![alt text][whitepaper]](https://trade.io/whitepaper/ES.pdf) | | 	(developing)	| raiden protocol	| 	|
