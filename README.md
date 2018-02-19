@@ -244,6 +244,8 @@ If you are considering contributing editing the list, here are some tools for yo
 
  - Please don´t use commas on the .MD.
  - Update the README.md and the index.csv file too, please.
+ - Make an individual pull request for each suggestion.
+ - Check your spelling and grammar.
 
 To render the icons on the MD table please use:
 
