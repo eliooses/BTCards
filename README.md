@@ -156,6 +156,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	TrueBit | 	[![alt text][web]](https://truebit.io/) |	[![alt text][github]](https://github.com/TrueBitFoundation) | [![alt text][whitepaper]](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf) | | 	(developing)	| truebit protocol	| 2	|
 | txbit.io | [![alt text][web]](http://txbit.io/) |   |   |   | [(announced)](https://twitter.com/SolarisCoin/status/963538742047838209) | xevan protocol |   |
 | 	UbiTok.io | [![alt text][web]](https://ubitok.io/) |	| | | 	(operating)	| on-chain protocol	| 	|
+| ValueCash | [![alt text][web]](https://www.valuecash.com/) |   | [![alt text][whitepaper]](https://www.valuecash.com/public/assets/files/Whitepaper.pdf) |   | (developing) | proof of trade protocol | 4 |
 | 	VariabL	| 	[![alt text][web]](https://variabl.io) |	| | | 	(open alpha)	| 	VariabL protocol	| 5	|
 | 	Wanchain	| 	[![alt text][web]](https://wanchain.org/) | [![alt text][github]](https://github.com/wanchain)	| [![alt text][whitepaper]](https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf) | | 	(developing)	| 	wanchain protocol (cross-chain)	| 2	|
 | 	WandX	| 	[![alt text][web]](https://exchange.wandx.co/) |	| | | 	(operating)	| 	wandx protocol	| 	|
