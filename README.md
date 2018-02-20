@@ -2,7 +2,9 @@
 
 # inDEX we trust.
 
-A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, tokens, derivatives and futures, and their protocols. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, tokens, derivatives and futures, and their protocols.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 |	Exchange	| URL	| REPO | Whitepaper/Docs | DEX GRADE | 	Status	| 	Protocol	| Reference |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -234,6 +236,8 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
 **Please consider donate**: 0x81404BE6B9d46554ADAbCc7599967cF157720d31 (I have a big stomach to maintain. 🍺 🍔 🍩).
 
 Do you notice anything that can be added, corrected, or otherwise improved? Create an [issue](https://github.com/distribuyed/index/issues) or [pull request](https://github.com/distribuyed/index/pulls) to suggest changes to this file.
+
+**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 If you are considering contributing editing the list, here are some tools for you to use:
 
