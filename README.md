@@ -170,6 +170,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | WixExchange | [![alt text][web]](https://crowdwiz.io/) | [![alt text][github]](https://github.com/CrowdWiz-io/) | [![alt text][whitepaper]](https://crowdwiz.io/docs/whitepaper-en-1507561917.pdf) | `DD` `DG` | (developing) | TBC |   |
 | 	xChainge	| 	[![alt text][web]](https://xchain.io/) |	| | | 	(operating)	| 	counterparty protocol	| 	|
 | 	YouDEX	| 	[![alt text][web]](http://youdex.io/) | [![alt text][github]](https://github.com/YouDex/dex)	| [![alt text][whitepaper]](http://youdex.io/white-paper/) | | 	(developing)	| 	CDX protocol | 	|
+| YouStock | [![alt text][web]](http://youstock.io/) | [![alt text][github]](https://github.com/YouStock) | [![alt text][whitepaper]](https://medium.com/youstock/) | `DS` | (developing) | atomic swap protocol | 11 |
 | zDEX | [![alt text][web]](https://pivx.org/) | [![alt text][github]](https://github.com/PIVX-Project/PIVX/) |   |   | [(announced)](https://steemit.com/cryptocurrency/@pivx/have-you-heard-of-zdex) | zerocoin protocol | 10 |
 | 	Zero Exchange	| 	[![alt text][web]](http://www.zero.exchange/) |	| | | 	(operating with issues)	| 	0x protocol	|	|
 | Zeus | [![alt text][web]](https://zeus.exchange/) |   | [![alt text][whitepaper]](https://zeus.exchange/zeus/ZEUS%20EXCHANGE%20EXECUTIVE%20SUMMARY%2027%20NOV%202017.pdf)   |   | (developing) | nem protocol | 3 |
@@ -196,6 +197,8 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 9: Decentralized futures exchange.
 
 10: Decentralized exchange like a feature of wallet client.
+
+11: Decentralized stocks exchange.
 
 ## **DEX GRADE**:
 
