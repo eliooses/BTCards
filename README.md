@@ -124,6 +124,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Open Relay	| 	[![alt text][web]](https://openrelay.xyz/) |	| | | 	(developing - private alpha)	| 	0x protocol	| 	|
 | 	Orderbook	| 	[![alt text][web]](https://www.orderbook.io) | [![alt text][github]](https://github.com/Orderbookio)	| [![alt text][whitepaper]](https://ico.orderbook.io/files/orderbook_WP.pdf)  | | 	(released)	| 	ethereum protocol	| 	|
 | 	Paradex	| 	[![alt text][web]](https://app.paradex.io/) | [![alt text][github]](https://github.com/ParadexRelayer)	| | | 	(operating - beta)	| 	0x protocol	| 	|
+| 	Paradigm	| 	[![alt text][web]](https://www.paradigmfoundation.io) | [![alt text][github]](https://github.com/ParadigmFoundation/Paradigm)	| [![alt text][whitepaper]](https://s3-ap-southeast-2.amazonaws.com/www.paradigmfoundation.io/Paradigm+Foundation+White+Paper.pdf) | `FULLY`  | 	(developing)	| 	paradigm protocol	| 	|
 | Plaak | [![alt text][web]](http://exchange.plaak.com/landing.php) | [![alt text][github]](https://github.com/zeked2013/PLAAK) | [![alt text][whitepaper]](http://plaak.com/docs/PLAAK-Whitepaper-V2-Freelance.pdf) | `DCD` | (developing) | TBC |   |
 | 	PlutusDEX |	[![alt text][web]](https://dex.plutus.it/) | | | |	(operating) |	TBC |	 |
 | 	Prime |	[![alt text][web]](https://getprime.org/) | [![alt text][github]](https://github.com/hitchhiker/prime) | | |	(developing - pre-alpha) |	TBC |	 |
