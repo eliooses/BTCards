@@ -59,7 +59,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Dextroid	| 	[![alt text][web]](https://www.dextroid.io/) |	| | | 	(operating - beta)	| 	0x protocol	| 	|
 | Dexy | [![alt text][web]](https://www.dexy.exchange/) | [![alt text][github]](https://github.com/DexyProject) |   | `DOB` | (developing) | TBC |   |
 | 	Digitex Futures	| 	[![alt text][web]](https://digitexfutures.com/) | [![alt text][github]](https://github.com/DigitexFutures)	| [![alt text][whitepaper]](https://www.digitexfutures.com/whitepaper/Digitex-Whitepaper.v.1.1.pdf) | | 	(developing)	| 	digitex protocol	| 9	|
-| DSE |   | [![alt text][github]](https://github.com/manki11/DSE_Hackrupt) |   |   | (developing) | TBC | 11 |
+| DSE |   | [![alt text][github]](https://github.com/manki11/DSE_Hackrupt) |   | `FULLY`  | (developing) | TBC | 11 |
 | 	DTX	| 	 | [![alt text][github]](https://github.com/zeriontech/DTX)	| | | 	(developing)	| 	TBC	| 	|
 | 	DutchX	| 	 | [![alt text][github]](https://github.com/gnosis/dutch-exchange)	| | | 	(developing)	| 	dutch auction principle protocol	| 	|
 | 	dYdX	| [![alt text][web]](https://dydx.exchange/) | | [![alt text][whitepaper]](https://whitepaper.dydx.exchange/) | | 	(developing)	| 	dYdX protocol (0x protocol)	| 5	|
@@ -143,6 +143,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	RigoBlock	| [![alt text][web]](https://rigoblock.com/) |	| | | 	(operating with issues)	| 	rigoblock protocol	||
 |   Ripple | [![alt text][web]](https://ripple.com) | | | | (operating) | ripple protocol | 2	|
 |   Rippex | [![alt text][web]](https://rippex.net/carteira-ripple.php) | | | `DC` | (operating) | ripple protocol | 7 |
+| River Exchange |   | [![alt text][github]](https://github.com/didil/river-x) |   | `FULLY` | (developing) | TBC |   |
 | 	RSK	| 	[![alt text][web]](https://www.rsk.co/) | [![alt text][github]](https://github.com/rsksmart/)	| [![alt text][whitepaper]](https://uploads.strikinglycdn.com/files/ec5278f8-218c-407a-af3c-ab71a910246d/RSK%20White%20Paper%20-%20Overview.pdf) | | 	(developing)	| 	rsk protocol	| 2	|
 | 	RuDEX	| 	[![alt text][web]](https://rudex.org/) |	| | | 	(operating - beta)	| 	bitshares protocol (Graphene)	|	|
 | 	SAFEX	|  | [![alt text][github]](https://github.com/dallyshalla/safex-while)	| | | 	(released)	| 	safex protocol	| 2	|

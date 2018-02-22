@@ -50,7 +50,7 @@ Deviant DEX, http://deviantcoin.io/, https://github.com/Deviantcoin, , , (announ
 Dextroid, https://www.dextroid.io/, , , , (operating - beta), 0x protocol, 
 Dexy, https://www.dexy.exchange/, https://github.com/DexyProject, , DOB, (developing), TBC, 
 Digitex Futures, https://digitexfutures.com/, https://github.com/DigitexFutures, https://www.digitexfutures.com/whitepaper/Digitex-Whitepaper.v.1.1.pdf, , (developing), digitex protocol, 9
-DSE, , https://github.com/manki11/DSE_Hackrupt, , , (developing), TBC, 11
+DSE, , https://github.com/manki11/DSE_Hackrupt, , FULLY, (developing), TBC, 11
 DTX, , https://github.com/zeriontech/DTX, , , (developing), TBC, 
 DutchX, , https://github.com/gnosis/dutch-exchange, , , (developing), dutch auction principle protocol, 
 dYdX, https://dydx.exchange/), , , , (developing - whitepaper), dYdX protocol (0x protocol), 2-5
@@ -134,6 +134,7 @@ Republic Protocol, https://republicprotocol.com/, , , , (operating), republic pr
 RigoBlock, https://rigoblock.com/, , , , (operating with issues), rigoblock protocol, 
 Ripple, https://ripple.com/, , , , (operating), ripple protocol, 2
 Rippex, https://rippex.net/carteira-ripple.php, , , DC, (operating), ripple protocol, 7
+River Exchange, , https://github.com/didil/river-x, , FULLY, (developing), TBC, 
 RSK, https://www.rsk.co/, https://github.com/rsksmart/, https://uploads.strikinglycdn.com/files/ec5278f8-218c-407a-af3c-ab71a910246d/RSK%20White%20Paper%20-%20Overview.pdf, , (developing), rsk protocol, 2
 RuDEX, https://rudex.org/, , , , (operating - beta), bitshares protocol (Graphene), 
 SAFEX, , https://github.com/dallyshalla/safex-while/, , , (released), safex protocol, 2
