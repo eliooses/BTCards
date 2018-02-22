@@ -12,6 +12,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	0x	| 	[![alt text][web]](https://0xproject.com) | [![alt text][github]](https://github.com/0xProject)	| [![alt text][whitepaper]](https://0xproject.com/pdfs/0x_white_paper.pdf) | | 	(operating)	| 	0x protocol	| 2	|
 | 	0x Portal	| 	[![alt text][web]](https://0xproject.com/portal) |	| | | 	(operating)	| 	0x protocol	|	|
 | 	0xchange	| 	[![alt text][web]](https://0xchange.me/) | [![alt text][github]](https://github.com/0xchange/0xchange)	| [![alt text][whitepaper]](https://devpost.com/software/0xchange-me) | | 	(operating)	| 	0x protocol	| 	|
+| Aermos | [![alt text][web]](http://www.aermos.com) |   | [![alt text][whitepaper]](http://www.aermos.com/concept/) | `FULLY` | (developing) | TBC |   |
 | 	AirSwap	| 	[![alt text][web]](https://www.airswap.io/) |	[![alt text][github]](https://github.com/airswap) | [![alt text][whitepaper]](https://swap.tech/whitepaper/) | | 	(operating)	| 	swap protocol	|	|
 | 	Altcoin Exchange	| 	[![alt text][web]](https://www.altcoin.io/) | [![alt text][github]](https://github.com/AltCoinExchange/) | | | 	(developing)	| 	raiden protocol	|	|
 | ALTTEX | [![alt text][web]](https://alttex.io/) | [![alt text][github]](https://github.com/alttex/Alt-exchange) | [![alt text][whitepaper]](https://alttex.io/WhitePaper_Eng.pdf) |   | (developing) | 0x protocol |   |

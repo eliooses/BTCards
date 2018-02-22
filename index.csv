@@ -3,6 +3,7 @@ Exchange, URL, REPO, Whitepaper/Docs, DEX GRADE, Status, Protocol, Reference
 0x, https://0xproject.com, https://github.com/0xProject, https://0xproject.com/pdfs/0x_white_paper.pdf, , (operating), 0x protocol, 2
 0x Portal, https://0xproject.com/portal/, , , , (operating), 0x protocol, 
 0xchange, https://0xchange.me/, https://github.com/0xchange/0xchange, https://devpost.com/software/0xchange-me, , (operating), 0x protocol, 
+Aermos, http://www.aermos.com, , http://www.aermos.com/concept/, FULLY, (developing), TBC, 
 AirSwap, https://www.airswap.io/, https://github.com/airswap, https://swap.tech/whitepaper/, , (operating), swap protocol, 
 Altcoin Exchange, https://www.altcoin.io/, https://github.com/AltCoinExchange/, , , (developing), raiden protocol, 
 ALTTEX, https://alttex.io/, https://github.com/alttex/Alt-exchange, https://alttex.io/WhitePaper_Eng.pdf, , (developing), 0x protocol, 
