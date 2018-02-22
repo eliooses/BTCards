@@ -52,6 +52,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Decred	| 	[![alt text][web]](https://www.decred.org/) | [![alt text][github]](https://github.com/decred/atomicswap/)	| [![alt text][whitepaper]](https://github.com/decred/atomicswap/blob/master/README.md) | | (operating)	| 	decred cross-chain atomic swapping protocol	| 	|
 | 	Deex	| 	[![alt text][web]](https://deex.exchange/) |	| | | 	(developing)	| 	bitshares protocol (Graphene)	| 	|
 | 	DECENT EX	| 	[![alt text][web]](https://decent.exchange/) |	| | | 	(operating)	| 	0x protocol	| 	|
+| Decentral Exchange | [![alt text][web]](http://decentral.exchange/) | [![alt text][github]](https://github.com/decentral-exchange/decentral-exchange.github.io) |   |   | (dead) | TBC |   |
 | 	DecentralizedEXchange	| | [![alt text][github]](https://github.com/Dexaran/DecentralizedEXchange) | | | 	(developing)	| 	TBC	| 	|
 | 	DECENTREX	| 	[![alt text][web]](https://decentrex.com/) |	| | | 	(will be shutdown on 30 December 2017)	| 	on-chain protocol	| 	|
 | 	Dether	| 	[![alt text][web]](https://dether.io/) | [![alt text][github]](https://github.com/dethertech)	| [![alt text][whitepaper]](https://whitepaper.dether.io/) | | 	(developing)	| 	TBC	| 6	|
