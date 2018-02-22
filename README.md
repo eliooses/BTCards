@@ -87,6 +87,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Flipper0x	| 	[![alt text][web]](https://flipper0x.io/) |	| | | 	(developing)	| 	0x protocol	| 	|
 | 	Forkdelta	| 	[![alt text][web]](https://forkdelta.github.io) |	[![alt text][github]](https://github.com/forkdelta/) | | | 	(operating)	| 	on-chain protocol	| 	|
 | 	Freedom Ledger	| 	[![alt text][web]](https://www.freedomledger.com/) |	| | | 	(developing)	| 	bitshares protocol (DPOS)	| 	|
+| Fusion | [![alt text][web]](https://fusion.org/) | [![alt text][github]](https://github.com/FUSIONFoundation/) | [![alt text][whitepaper]](https://fusion.org/files/FUSION%20Whitepaper%20V1.0.3.pdf) |   | (developing) | fusion protocol | 2 |
 | 	GDEX	| 	[![alt text][web]](https://www.gdex.io/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
 | Genotik | [![alt text][web]](https://genotik.com/) | [![alt text][github]](https://github.com/genotik) | [![alt text][whitepaper]](https://genotik.com/white-paper.pdf) |   | (developing) | TBC |   |
 | 	gnodex	| | [![alt text][github]](https://github.com/gnosis/gnodex)	| | | 	(developing)	| 	off-chain protocol	| 	|
