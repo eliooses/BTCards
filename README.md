@@ -59,7 +59,8 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | Deviant DEX | [![alt text][web]](http://deviantcoin.io/) | [![alt text][github]](https://github.com/Deviantcoin) |   |   | [(announced)](https://twitter.com/DeviantCoin/status/962108577157562368/) | TBC |   |
 | 	Dextroid	| 	[![alt text][web]](https://www.dextroid.io/) |	| | | 	(operating - beta)	| 	0x protocol	| 	|
 | DEX |   | [![alt text][github]](https://github.com/ltfschoen/dex) |   |   | (developing) | 0x protocol |   |
-| Dexy | [![alt text][web]](https://www.dexy.exchange/) | [![alt text][github]](https://github.com/DexyProject) |   | `DOB` | (developing) | TBC |   |
+| DEXY | [![alt text][web]](https://www.dexy.exchange/) | [![alt text][github]](https://github.com/DexyProject) |   | `DOB` | (developing) | decentralized exchange protocol |   |
+| Dexy |   | [![alt text][github]](https://github.com/bokkypoobah/Dexy) |   |   | (developing) | TBC |   |
 | 	Digitex Futures	| 	[![alt text][web]](https://digitexfutures.com/) | [![alt text][github]](https://github.com/DigitexFutures)	| [![alt text][whitepaper]](https://www.digitexfutures.com/whitepaper/Digitex-Whitepaper.v.1.1.pdf) | | 	(developing)	| 	digitex protocol	| 9	|
 | Distributed Exchage |   | [![alt text][github]](https://github.com/p2pdex/DEX) | [![alt text][whitepaper]](https://github.com/p2pdex/DEX/blob/master/DEX%20Client%20original%20Description.doc?raw=true) | | (dead) | TBC |   |
 | DSE |   | [![alt text][github]](https://github.com/manki11/DSE_Hackrupt) |   | `FULLY`  | (developing) | TBC | 11 |
