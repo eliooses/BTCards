@@ -83,6 +83,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Forkdelta	| 	[![alt text][web]](https://forkdelta.github.io) |	[![alt text][github]](https://github.com/forkdelta/) | | | 	(operating)	| 	on-chain protocol	| 	|
 | 	Freedom Ledger	| 	[![alt text][web]](https://www.freedomledger.com/) |	| | | 	(developing)	| 	bitshares protocol (DPOS)	| 	|
 | 	GDEX	| 	[![alt text][web]](https://www.gdex.io/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
+| Genotik | [![alt text][web]](https://genotik.com/) | [![alt text][github]](https://github.com/genotik) | [![alt text][whitepaper]](https://genotik.com/white-paper.pdf) |   | (developing) | TBC |   |
 | 	gnodex	| | [![alt text][github]](https://github.com/gnosis/gnodex)	| | | 	(developing)	| 	off-chain protocol	| 	|
 | 	gnosis-exchange	| | [![alt text][github]](https://github.com/gnosis/gnosis-exchange)	| | | 	(developing)	| 	TBC	| 	|
 | 	Graphene	| 	[![alt text][web]](http://docs.bitshares.eu//index.html) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 2	|
