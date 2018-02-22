@@ -59,6 +59,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Dextroid	| 	[![alt text][web]](https://www.dextroid.io/) |	| | | 	(operating - beta)	| 	0x protocol	| 	|
 | Dexy | [![alt text][web]](https://www.dexy.exchange/) | [![alt text][github]](https://github.com/DexyProject) |   | `DOB` | (developing) | TBC |   |
 | 	Digitex Futures	| 	[![alt text][web]](https://digitexfutures.com/) | [![alt text][github]](https://github.com/DigitexFutures)	| [![alt text][whitepaper]](https://www.digitexfutures.com/whitepaper/Digitex-Whitepaper.v.1.1.pdf) | | 	(developing)	| 	digitex protocol	| 9	|
+| DSE |   | [![alt text][github]](https://github.com/manki11/DSE_Hackrupt) |   |   | (developing) | TBC | 11 |
 | 	DTX	| 	 | [![alt text][github]](https://github.com/zeriontech/DTX)	| | | 	(developing)	| 	TBC	| 	|
 | 	DutchX	| 	 | [![alt text][github]](https://github.com/gnosis/dutch-exchange)	| | | 	(developing)	| 	dutch auction principle protocol	| 	|
 | 	dYdX	| [![alt text][web]](https://dydx.exchange/) | | [![alt text][whitepaper]](https://whitepaper.dydx.exchange/) | | 	(developing)	| 	dYdX protocol (0x protocol)	| 5	|
