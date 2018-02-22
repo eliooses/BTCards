@@ -176,9 +176,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | ValueCash | [![alt text][web]](https://www.valuecash.com/) |   | [![alt text][whitepaper]](https://www.valuecash.com/public/assets/files/Whitepaper.pdf) |   | (developing) | proof of trade protocol | 4 |
 | 	VariabL	| 	[![alt text][web]](https://variabl.io) |	| | | 	(open alpha)	| 	VariabL protocol	| 5	|
 | Velcron | [![alt text][web]](https://velcron.io/) |   |   |   | (developing) | state-channel protocol |   |
-
 | VenDEX |   | [![alt text][github]](https://github.com/p2pdex/VenDEX) | [![alt text][whitepaper]](https://github.com/p2pdex/VenDEX/blob/master/VenDEX%20Client%20Original%20Description.doc?raw=true) |   | (dead) | TBC |   |
-
 | 	Wanchain	| 	[![alt text][web]](https://wanchain.org/) | [![alt text][github]](https://github.com/wanchain)	| [![alt text][whitepaper]](https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf) | | 	(developing)	| 	wanchain protocol (cross-chain)	| 2	|
 | 	WandX	| 	[![alt text][web]](https://exchange.wandx.co/) |	| | | 	(operating)	| 	wandx protocol	| 	|
 | 	Waves	| 	[![alt text][web]](https://waveswallet.io) |	| | | 	(operating)	| 	waves protocol (Matcher)	| 	|
