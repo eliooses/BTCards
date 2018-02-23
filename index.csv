@@ -75,6 +75,7 @@ EthRoox, https://etheroox.com/, , , , (operating with issues), TBC,
 ExchangeN, http://www.exchangen.com/, , , , (operating with issues), TBC, 
 Exchange Union, https://www.exchangeunion.com, https://github.com/exchangeunion, https://api.exchangeunion.com/pdf/en/ExchangeUnion-WhitePaper.pdf,  DS-DOB-DD, (developing), cross-exchange protocol, 
 Expread, http://expread.io/, , http://expread.io/home/EXPREAD_WhitePaper_Version2.1-final.compressed.pdf, , (developing), payment channels protocol, 
+FairX, https://fairx.io/, https://github.com/fairxio/, https://github.com/fairxio/docs, , (developing), stellar consensus protocol, 6
 Flipper0x, https://flipper0x.io/, , , , (developing), 0x protocol, 
 Forkdelta, https://forkdelta.github.io/, https://github.com/forkdelta/, , , (operating), on-chain protocol, 
 Freedom Ledger, https://www.freedomledger.com/, , , , (developing), bitshares protocol (DPOS), 

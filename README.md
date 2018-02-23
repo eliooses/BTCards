@@ -84,6 +84,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	ExchangeN	| 	[![alt text][web]](http://www.exchangen.com/) |	| | | 	(operating with issues)	| 	TBC	| 	|
 | 	Exchange Union	| 	[![alt text][web]](https://www.exchangeunion.com) | [![alt text][github]](https://github.com/exchangeunion)	| [![alt text][whitepaper]](https://api.exchangeunion.com/pdf/en/ExchangeUnion-WhitePaper.pdf) | `DS` `DOB` `DD` | 	(developing)	| 	cross-exchange protocol	| 	|
 | Expread | [![alt text][web]](http://expread.io/) |   | [![alt text][whitepaper]](http://expread.io/home/EXPREAD_WhitePaper_Version2.1-final.compressed.pdf) |   | (developing) | payment channels protocol |   |
+| FairX | [![alt text][web]](https://fairx.io/) | [![alt text][github]](https://github.com/fairxio/) | [![alt text][whitepaper]](https://github.com/fairxio/docs) |   | (developing) | stellar consensus protocol | 6 |
 | 	Flipper0x	| 	[![alt text][web]](https://flipper0x.io/) |	| | | 	(developing)	| 	0x protocol	| 	|
 | 	Forkdelta	| 	[![alt text][web]](https://forkdelta.github.io) |	[![alt text][github]](https://github.com/forkdelta/) | | | 	(operating)	| 	on-chain protocol	| 	|
 | 	Freedom Ledger	| 	[![alt text][web]](https://www.freedomledger.com/) |	| | | 	(developing)	| 	bitshares protocol (DPOS)	| 	|
