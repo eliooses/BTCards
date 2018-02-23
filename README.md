@@ -236,6 +236,10 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
 
  If you know in details or are you the owner/dev of any DEX, please fill the column with all the codes that correspond creating an [issue](https://github.com/distribuyed/index/issues) or [pull request](https://github.com/distribuyed/index/pulls) to suggest changes to this file.
 
+## PROTOCOLS
+
+For further info of the protocols for decentralized exchanges, please checkout [this awesome list](https://github.com/evbots/dex-protocols) of [Evan Botello](https://github.com/evbots/): [https://github.com/evbots/dex-protocols](https://github.com/evbots/dex-protocols)
+
 ## **SOURCES**: 
 
  - [@oseselio](https://twitter.com/oseselio) research for "Mercados Descentralizados | #dsociety" book project.
@@ -315,6 +319,10 @@ While the maintainer(s) of this repo do their best to keep this list free of any
  - [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
 
 # **DECENTRALIZATION RESOURCES**: 
+
+## Protocols for Decentralized Exchange
+
+[List of protocols for peer-to-peer exchange of cryptographic assets without a central entity: ](https://github.com/evbots/dex-protocols)
 
 ## Decentralized Marketplaces:
 
