@@ -92,6 +92,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | Fusion | [![alt text][web]](https://fusion.org/) | [![alt text][github]](https://github.com/FUSIONFoundation/) | [![alt text][whitepaper]](https://fusion.org/files/FUSION%20Whitepaper%20V1.0.3.pdf) |   | (developing) | fusion protocol | 2 |
 | 	GDEX	| 	[![alt text][web]](https://www.gdex.io/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	|
 | Genotik | [![alt text][web]](https://genotik.com/) | [![alt text][github]](https://github.com/genotik) | [![alt text][whitepaper]](https://genotik.com/white-paper.pdf) |   | (developing) | TBC |   |
+| Gimmer | [![alt text][web]](https://gimmer.net/) | [![alt text][github]](https://github.com/GimmerBot) | [![alt text][whitepaper]](https://token.gimmer.net/#whitepaper) |   | (developing) | TBC |   |
 | 	gnodex	| | [![alt text][github]](https://github.com/gnosis/gnodex)	| | | 	(developing)	| 	off-chain protocol	| 	|
 | 	gnosis-exchange	| | [![alt text][github]](https://github.com/gnosis/gnosis-exchange)	| | | 	(developing)	| 	TBC	| 	|
 | 	Graphene	| 	[![alt text][web]](http://docs.bitshares.eu//index.html) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 2	|
