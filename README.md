@@ -183,11 +183,11 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | txbit.io | [![alt text][web]](http://txbit.io/) |   |   |   | [(announced)](https://twitter.com/SolarisCoin/status/963538742047838209) | xevan protocol |   |
 | 	UbiTok.io | [![alt text][web]](https://ubitok.io/) |	| | | 	(operating)	| on-chain protocol	| 	|
 | ValueCash | [![alt text][web]](https://www.valuecash.com/) |   | [![alt text][whitepaper]](https://www.valuecash.com/public/assets/files/Whitepaper.pdf) |   | (developing) | proof of trade protocol | 4 |
-| 	VariabL	| 	[![alt text][web]](https://variabl.io) |	| | | 	(open alpha)	| 	VariabL protocol	| 5	|
+| 	VariabL	| 	[![alt text][web]](https://variabl.io) |	| | | 	(open alpha)	| 	variabl protocol	| 5	|
 | Velcron | [![alt text][web]](https://velcron.io/) |   |   |   | (developing) | state-channel protocol |   |
 | VenDEX |   | [![alt text][github]](https://github.com/p2pdex/VenDEX) | [![alt text][whitepaper]](https://github.com/p2pdex/VenDEX/blob/master/VenDEX%20Client%20Original%20Description.doc?raw=true) |   | (dead) | TBC |   |
 | 	Wanchain	| 	[![alt text][web]](https://wanchain.org/) | [![alt text][github]](https://github.com/wanchain)	| [![alt text][whitepaper]](https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf) | | 	(developing)	| 	wanchain protocol (cross-chain)	| 2	|
-| 	WandX	| 	[![alt text][web]](https://exchange.wandx.co/) |	| | | 	(operating)	| 	wandx protocol	| 	|
+| 	WandX	| 	[![alt text][web]](https://exchange.wandx.co/) | [![alt text][github]](https://github.com/WandXDapp)	| [![alt text][whitepaper]](https://www.wandx.co/whitepaper.html) | | 	(developing)	| 	wandx protocol	| 	|
 | 	Waves	| 	[![alt text][web]](https://waveswallet.io) |	| | | 	(operating)	| 	waves protocol (Matcher)	| 	|
 | 	Wyvern	| 	[![alt text][web]](https://exchange.projectwyvern.com/) |	[![alt text][github]](https://github.com/ProjectWyvern/wyvern-ethereum) | [![alt text][whitepaper]](https://github.com/ProjectWyvern/wyvern-protocol/raw/master/build/whitepaper.pdf) | | 	(operating - alpha)	| wyvern protocol	| 	|
 | WixExchange | [![alt text][web]](https://crowdwiz.io/) | [![alt text][github]](https://github.com/CrowdWiz-io/) | [![alt text][whitepaper]](https://crowdwiz.io/docs/whitepaper-en-1507561917.pdf) | `DD` `DG` | (developing) | TBC |   |
