@@ -155,6 +155,7 @@ Settle, https://settle.network/, https://github.com/spolu/settle/, , , (developi
 SingularX, https://ex.singularx.com/, , , , (operating), TBC, 
 Smart-Exchange, , , https://debris.gitbooks.io/ethchange/content/, , (developing - whitepaper), icap protocol, 
 Snowglobe, https://auroradao.com/faq/, , , , (developing), snowglobe protocol, 2
+Stellar, https://www.stellar.org/developers/guides/concepts/exchange.html, https://github.com/stellar/stellar-protocol, https://www.stellar.org/papers/stellar-consensus-protocol.pdf, , (developing), stellar consensus protocol, 2
 Stellarport, https://stellarport.io/, , , , (operating), stellar consensus protocol, 
 Stellar Term, https://stellarterm.com/, , , , (operating), stellar consensus protocol, 
 STeX, https://stex.exchange/, https://github.com/stex-exchange/, https://stex.exchange/media/pdf/whitepaper.pdf, , (operating), a2a protocol, 3-5-9
