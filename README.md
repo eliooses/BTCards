@@ -170,7 +170,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | STeX | [![alt text][web]](https://stex.exchange/) | [![alt text][github]](https://github.com/stex-exchange/) | [![alt text][whitepaper]](https://stex.exchange/media/pdf/whitepaper.pdf) |   | (developing) | a2a protocol | 3 5 9 |
 | 	Streamity	| 	[![alt text][web]](https://streamity.org/) | [![alt text][github]](https://github.com/streamity/)	| [![alt text][whitepaper]](https://streamity.org/uploads/docs/en/Whitepaper_Streamity_en.pdf) | | 	(developing)	| TBC	| 3	|
 | Stronghold | [![alt text][web]](https://stronghold.co/) |   |   |   | (operating) | stellar consensus protocol |   |
-| 	Swap Protocol	| 	[![alt text][web]](https://swap.tech/faq/) |	| | | 	(operating)	| swap protocol	| 2	|
+| 	Swap	| 	[![alt text][web]](https://swap.tech/faq/) | [![alt text][github]](https://github.com/airswap)	| [![alt text][whitepaper]](https://swap.tech/whitepaper/) | | 	(developing)	| swap protocol	| 2	|
 | 	Switcheo	| 	[![alt text][web]](http://switcheo.exchange/) | [![alt text][github]](https://github.com/ConjurTech/switcheo)	| | | 	(operating)	| neo protocol	| 	|
 | Tettix | [![alt text][web]](https://tettix.io/) | [![alt text][github]](https://github.com/Tettix/) | [![alt text][whitepaper]](https://medium.com/@TettixDev/details-of-tettix-e5c9f310fa41) | `FULLY` | (dead) | tettix mechanism protocol |   |
 | 	The 0cean	| 	[![alt text][web]](https://the0cean.com/) |	| | | 	(private beta)	| 	0x protocol	| 	|
