@@ -108,10 +108,10 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Javvy	| 	[![alt text][web]](https://javvy.com/) | [![alt text][github]](https://github.com/javvycrypto)	| [![alt text][whitepaper]](https://javvy.com/wp-content/uploads/2017/09/javvy_crypto-solution-white-paper.pdf) | | 	(developing)	| 	TBC	| 	|
 | 	JOYSO	| 	[![alt text][web]](https://joyso.io/) |	| | | 	(ICO)	| 	hex protocol	| 3	|
 | Komodo | [![alt text][web]](https://www.komodoplatform.com/) | [![alt text][github]](https://github.com/KomodoPlatform) | [![alt text][whitepaper]](https://www.komodoplatform.com/en/whitepaper/2018-02-14-Komodo-White-Paper-Full.pdf) |   | (developing) | komodo protocol | 2 |
-| 	KyberNetwork	| 	[![alt text][web]](https://kyber.network) |	| | | 	(operating)	| 	on-chain protocol	| 	|
+| 	KyberNetwork	| 	[![alt text][web]](https://kyber.network) | [![alt text][github]](https://github.com/kyberNetwork/)	| | | 	(operating)	| 	kyber protocol	| 	|
 | 	LAtoken	| 	[![alt text][web]](http://www.latoken.com/) |	| | | 	(operating)	| 	spectre protocol (DAG)	| 	|
 | 	Legolas Exchange	| 	[![alt text][web]](https://legolas.exchange/) |	| | | 	(developing - ICO Q1 2018)	| 	legolas protocol	| 3	|
-| 	Lendroid	| 	[![alt text][web]](https://lendroid.com/) |	| | | 	(developing - ICO Q1 2018)	| 	lendroid (non-custodian margin trading) protocol |	|
+| 	Lendroid	| 	[![alt text][web]](https://lendroid.com/) | [![alt text][github]](https://github.com/lendroidproject)	| [![alt text][whitepaper]](https://lendroid.com/assets/whitepaper-margin-trading.pdf) | | 	(developing)	| 	lendroid protocol |	|
 | 	Leverj	| 	[![alt text][web]](https://leverj.io/) |	| | | 	(developing)	| 	leverj protocol |	5 |
 | 	LinkerCoin	| 	[![alt text][web]](https://www.linkercoin.com/) | [![alt text][github]](https://github.com/linkercoinfoundation/Linker-Coin-Project)	| [![alt text][whitepaper]](https://docs.wixstatic.com/ugd/4e7588_4bd05b0a780f42849f44280af1a51189.pdf) | | 	(developing)	| 	linker protocol |	 |
 | 	Loopring	| 	[![alt text][web]](https://loopring.org) |	| [![alt text][whitepaper]](https://github.com/Loopring/whitepaper/raw/master/en_whitepaper.pdf) | | 	(developing - launch Q2 2018)	| 	loopring protocol	| 2	|
