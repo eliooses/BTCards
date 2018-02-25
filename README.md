@@ -107,6 +107,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Inbest Network	| 	[![alt text][web]](https://www.inbest.network/) |	| | | 	(ICO)	| 	inbest protocol	| 4	|
 | 	Javvy	| 	[![alt text][web]](https://javvy.com/) | [![alt text][github]](https://github.com/javvycrypto)	| [![alt text][whitepaper]](https://javvy.com/wp-content/uploads/2017/09/javvy_crypto-solution-white-paper.pdf) | | 	(developing)	| 	TBC	| 	|
 | 	JOYSO	| 	[![alt text][web]](https://joyso.io/) |	| | | 	(ICO)	| 	hex protocol	| 3	|
+| Komodo | [![alt text][web]](https://www.komodoplatform.com/) | [![alt text][github]](https://github.com/KomodoPlatform) | [![alt text][whitepaper]](https://www.komodoplatform.com/en/whitepaper/2018-02-14-Komodo-White-Paper-Full.pdf) |   | (developing) | komodo protocol | 2 |
 | 	KyberNetwork	| 	[![alt text][web]](https://kyber.network) |	| | | 	(operating)	| 	on-chain protocol	| 	|
 | 	LAtoken	| 	[![alt text][web]](http://www.latoken.com/) |	| | | 	(operating)	| 	spectre protocol (DAG)	| 	|
 | 	Legolas Exchange	| 	[![alt text][web]](https://legolas.exchange/) |	| | | 	(developing - ICO Q1 2018)	| 	legolas protocol	| 3	|
@@ -243,7 +244,7 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
 
  If you know in details or are you the owner/dev of any DEX, please fill the column with all the codes that correspond creating an [issue](https://github.com/distribuyed/index/issues) or [pull request](https://github.com/distribuyed/index/pulls) to suggest changes to this file.
 
-## PROTOCOLS
+## PROTOCOLS IN DETAILS
 
 This is a list of protocols for peer-to-peer exchange of cryptographic assets without a central entity. The architecture of these protocols can be quite different from one another. In some cases, they are built as smart contracts that anyone can use. In other cases, they are closed, but still implemented as smart contracts that are publicly verifiable. Other projects have chosen to create their own blockchain in order to build a protocol for exchange.
 
