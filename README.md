@@ -152,7 +152,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Relayer Network	| 	[![alt text][web]](https://relayer.network/) |	| | | 	(developing)	| 	0x protocol (modular trade networks)	|	|
 | 	Republic Protocol	| [![alt text][web]](https://republicprotocol.com/) |	| | | 	(operating)	| 	republic protocol	| 2	|
 | 	RigoBlock	| [![alt text][web]](https://rigoblock.com/) |	| | | 	(operating with issues)	| 	rigoblock protocol	||
-|   Ripple | [![alt text][web]](https://ripple.com) | | | | (operating) | ripple protocol | 2	|
+|   Ripple | [![alt text][web]](https://ripple.com) | [![alt text][github]](https://github.com/ripple/) | [![alt text][whitepaper]](http://whitepaperdatabase.com/ripple-xrp-whitepaper/) | | (released) | ripple protocol | 2	|
 |   Rippex | [![alt text][web]](https://rippex.net/carteira-ripple.php) | | | `DC` | (operating) | ripple protocol | 7 |
 | River Exchange |   | [![alt text][github]](https://github.com/didil/river-x) |   | `FULLY` | (developing) | TBC |   |
 | 	RSK	| 	[![alt text][web]](https://www.rsk.co/) | [![alt text][github]](https://github.com/rsksmart/)	| [![alt text][whitepaper]](https://uploads.strikinglycdn.com/files/ec5278f8-218c-407a-af3c-ab71a910246d/RSK%20White%20Paper%20-%20Overview.pdf) | | 	(developing)	| 	rsk protocol	| 2	|
