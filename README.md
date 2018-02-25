@@ -117,7 +117,8 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Loopring	| 	[![alt text][web]](https://loopring.org) |	| [![alt text][whitepaper]](https://github.com/Loopring/whitepaper/raw/master/en_whitepaper.pdf) | | 	(developing - launch Q2 2018)	| 	loopring protocol	| 2	|
 | 	Lykke	| 	[![alt text][web]](https://www.lykke.com/exchange) | [![alt text][github]](https://github.com/LykkeCity/)	| [![alt text][whitepaper]](https://www.lykke.com/media/Whitepaper_LykkeExchange.pdf) | | 	(operating)	| 	TBC	| 4	|
 | 	Mandarin	| 	[![alt text][web]](https://mandarin.top/) |	| | | 	(dead)	| TBC	| 	|
-| 	Melon DEX	| 	 | [![alt text][github]](https://github.com/melonproject/cross-chain-exchange-prototype)	| | | 	(developing - prototype)	| 	melonport protocol (cross-chain) | 	|
+| Melon | [![alt text][web]](https://melonport.com/) | [![alt text][github]](https://github.com/melonproject/) | [![alt text][whitepaper]](https://github.com/melonproject/paper/blob/master/melonprotocol.pdf) |   | (operating) | melonport protocol | 2 |
+| Melon DEX | | [![alt text][github]](https://github.com/melonproject/cross-chain-exchange-prototype) | | | (developing - prototype) | melonport protocol | |
 | 	Mercatox | 	[![alt text][web]](https://mercatox.com) |	| | | 	(developing)	| 	TBC	| 4	|
 | 	Mercury | [![alt text][web]](http://mercuryex.com)	| [![alt text][github]](https://github.com/mappum/mercury)	| | | 	(developing)	| 	TBC	| 	|
 | MinexDEX | [![alt text][web]](https://minexcoin.com/) | [![alt text][github]](https://github.com/minexcoin) |   |   | [(announced)](https://medium.com/minecoin-blog/mnx-upgrade-roadmap-2018-ed9b01c258cf) | atomic swap |   |
