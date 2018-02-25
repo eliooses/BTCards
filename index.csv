@@ -138,7 +138,7 @@ Prism, https://prism.exchange/, , , , (developing - invite-only beta), TBC,
 QTUM DEX, , , , , (announced), qtum protocol, 
 Radar Relay, https://app.radarrelay.com/, https://github.com/RadarRelay, , ACL-DCD, (operating - beta), 0x protocol, 
 Radex, https://exchange.rados.io/, https://github.com/rados-io/radex, , , (operating - alpha), saturn protocol, 
-Raiden, https://raiden.network/, , , , (released), raiden protocol, 2
+Raiden, https://raiden.network/, https://github.com/raiden-network/raiden/, https://raiden.network/101.html, , (released), raiden protocol, 2
 Raidex, https://www.raidex.io/, , , , (developing), raiden protocol, 
 Relayer Network, https://relayer.network/, , , , (developing), 0x protocol (modular trade networks), 
 Republic Protocol, https://republicprotocol.com/, , , , (operating), republic protocol, 2

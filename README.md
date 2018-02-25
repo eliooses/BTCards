@@ -147,7 +147,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | QTUM DEX |   |   |   |   | [(announced)](https://medium.com/@switcheo/switcheo-progress-update-4c6eb114741f) | qtum protocol |   |
 | 	Radar Relay	| 	[![alt text][web]](https://app.radarrelay.com/) | [![alt text][github]](https://github.com/RadarRelay)	| | `ACL` `DCD` | 	(operating - beta)	| 	0x protocol	| 	|
 | 	Radex	| 	[![alt text][web]](https://exchange.rados.io) | [![alt text][github]](https://github.com/rados-io/radex)	| | | 	(operating - alpha)	| 	saturn protocol	|	|
-| 	Raiden	| 	[![alt text][web]](https://raiden.network/) |	| | | 	(released)	| 	raiden protocol	| 2	|
+| 	Raiden	| 	[![alt text][web]](https://raiden.network/) |  [![alt text][github]](https://github.com/raiden-network/raiden/) | [![alt text][whitepaper]](https://raiden.network/101.html) | | 	(released)	| 	raiden protocol	| 2	|
 | 	Raidex	| 	[![alt text][web]](https://www.raidex.io/) |	| | | 	(developing)	| 	raiden protocol	|	|
 | 	Relayer Network	| 	[![alt text][web]](https://relayer.network/) |	| | | 	(developing)	| 	0x protocol (modular trade networks)	|	|
 | 	Republic Protocol	| [![alt text][web]](https://republicprotocol.com/) |	| | | 	(operating)	| 	republic protocol	| 2	|
