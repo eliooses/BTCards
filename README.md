@@ -6,7 +6,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-|	Exchange	| URL	| REPO | Whitepaper/Docs | DEX GRADE | 	Status	| 	Protocol	| Reference | Asset(s) | Blockchain(s) |  | Notes |
+|	Exchange	| URL	| REPO | Whitepaper/Docs | DEX GRADE | 	Status	| 	Protocol	| Reference | Asset(s) | DLT | ORG Type | Notes |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|------------- | ------------- | ------------- | ------------- |
 | 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) | [![alt text][github]](https://github.com/SetProtocol/set-protocol-contracts)	| [![alt text][whitepaper]](https://whitepaper.setprotocol.com/) | | 	(released)	| 	{Set} protocol	| 2	| | | | |
 | 	0x	| 	[![alt text][web]](https://0xproject.com) | [![alt text][github]](https://github.com/0xProject)	| [![alt text][whitepaper]](https://0xproject.com/pdfs/0x_white_paper.pdf) | | 	(operating)	| 	0x protocol	| 2	| | | | |
