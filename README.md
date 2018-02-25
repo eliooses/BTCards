@@ -62,6 +62,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | DEX |   | [![alt text][github]](https://github.com/ltfschoen/dex) |   |   | (developing) | 0x protocol |   |
 | DEXY | [![alt text][web]](https://www.dexy.exchange/) | [![alt text][github]](https://github.com/DexyProject) |   | `DOB` | (developing) | decentralized exchange protocol |   |
 | Dexy |   | [![alt text][github]](https://github.com/bokkypoobah/Dexy) |   |   | (developing) | TBC |   |
+| Dharma | [![alt text][web]](https://dharma.io/) | [![alt text][github]](https://github.com/dharmaprotocol) | [![alt text][whitepaper]](https://whitepaper.dharma.io/) |   | (developing) | TBC | 2 |
 | 	Digitex Futures	| 	[![alt text][web]](https://digitexfutures.com/) | [![alt text][github]](https://github.com/DigitexFutures)	| [![alt text][whitepaper]](https://www.digitexfutures.com/whitepaper/Digitex-Whitepaper.v.1.1.pdf) | | 	(developing)	| 	digitex protocol	| 9	|
 | Distributed Exchage |   | [![alt text][github]](https://github.com/p2pdex/DEX) | [![alt text][whitepaper]](https://github.com/p2pdex/DEX/blob/master/DEX%20Client%20original%20Description.doc?raw=true) | | (dead) | TBC |   |
 | DSE |   | [![alt text][github]](https://github.com/manki11/DSE_Hackrupt) |   | `FULLY`  | (developing) | TBC | 11 |
@@ -187,7 +188,7 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 | 	Wyvern	| 	[![alt text][web]](https://exchange.projectwyvern.com/) |	[![alt text][github]](https://github.com/ProjectWyvern/wyvern-ethereum) | [![alt text][whitepaper]](https://github.com/ProjectWyvern/wyvern-protocol/raw/master/build/whitepaper.pdf) | | 	(operating - alpha)	| wyvern protocol	| 	|
 | WixExchange | [![alt text][web]](https://crowdwiz.io/) | [![alt text][github]](https://github.com/CrowdWiz-io/) | [![alt text][whitepaper]](https://crowdwiz.io/docs/whitepaper-en-1507561917.pdf) | `DD` `DG` | (developing) | TBC |   |
 | 	xChainge	| 	[![alt text][web]](https://xchain.io/) |	| | | 	(operating)	| 	counterparty protocol	| 	|
-| 	YouDEX	| 	[![alt text][web]](http://youdex.io/) | [![alt text][github]](https://github.com/YouDex/dex)	| [![alt text][whitepaper]](http://youdex.io/white-paper/) | | 	(developing)	| 	CDX protocol | 	|
+| 	YouDEX	| 	[![alt text][web]](http://youdex.io/) | [![alt text][github]](https://github.com/YouDex/dex)	| [![alt text][whitepaper]](http://youdex.io/white-paper/) | | 	(developing)	| 	[CDX protocol](https://github.com/YouDex/cdx) | 	|
 | YouStock | [![alt text][web]](http://youstock.io/) | [![alt text][github]](https://github.com/YouStock) | [![alt text][whitepaper]](https://medium.com/youstock/) | `DS` | (developing) | atomic swap protocol | 11 |
 | zDEX | [![alt text][web]](https://pivx.org/) | [![alt text][github]](https://github.com/PIVX-Project/PIVX/) |   |   | [(announced)](https://steemit.com/cryptocurrency/@pivx/have-you-heard-of-zdex) | zerocoin protocol | 10 |
 | 	Zero Exchange	| 	[![alt text][web]](http://www.zero.exchange/) |	| | | 	(operating with issues)	| 	0x protocol	|	|
@@ -195,6 +196,10 @@ A comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, token
 |   Zip Exchange | [![alt text][web]](https://zip.exchange/) | | | | (developing) | 0x protocol |	|
 
 ## **REFERENCES**: 
+
+TBA: To be analyzed.
+
+TBO: To be obtained.
 
 1, TBC: To be confirmed.
 
@@ -240,11 +245,55 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
 
 ## PROTOCOLS
 
-For further info of the protocols for decentralized exchanges, please checkout [this awesome list](https://github.com/evbots/dex-protocols) of [Evan Botello](https://github.com/evbots/): [https://github.com/evbots/dex-protocols](https://github.com/evbots/dex-protocols)
+This is a list of protocols for peer-to-peer exchange of cryptographic assets without a central entity. The architecture of these protocols can be quite different from one another. In some cases, they are built as smart contracts that anyone can use. In other cases, they are closed, but still implemented as smart contracts that are publicly verifiable. Other projects have chosen to create their own blockchain in order to build a protocol for exchange.
+
+| Protocol  | Asset(s) | Blockchain(s) | Status | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [0x](https://www.0xproject.com/)  | ERC20 Tokens  | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of ERC20 with off-chain relayers. |
+| [Bancor](https://www.bancor.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Open protocol. On-chain exchange and pricing. |
+| [Bitshares](https://bitshares.org/) | Bitshares, Bitshares SmartCoins[3] | Bitshares | Live on Bitshares mainnet | Open protocol. Bitshares created a DEX on top of their blockchain. Other DEX's for Bitshares also exist. |
+| [CDX](https://github.com/YouDex/cdx) | N/A | Ethereum, Youdex Sidechain | Proposed | Not clear from white paper what assets will be supported. |
+| [Counterparty](https://counterparty.io/) | Bitcoin, Counterparty Tokens | Bitcoin | Live on Bitcoin mainnet | Open protocol. Counterparty extends Bitcoin by adding metadata to Bitcoin transactions. |
+| [DEAL](https://aphelion.org/wp.html) | NEO Assets[6] | NEO | Under development | Closed protocol[6]. Implemented as smart contracts on the NEO blockchain. |
+| [Dharma](https://dharma.io/) | ERC20 Tokens, Dharma Debt Token | Ethereum | Under development | Open protocol. Debt contracts. |
+| [Dydx](https://dydx.exchange/) | ERC20 Tokens, Dydx Derivatives (Option, Short Sell) | Ethereum | Under development | Open protocol. Derivatives contracts, uses 0x. |
+| [Enigma](https://www.enigma.co/) | All[2] | All[2] | Proposed | The Engima team is working on many projects. A protocol for decentralized exchanged was proposed in one of their papers. |
+| [Komodo](https://www.komodoplatform.com/) | N/A | Komodo | Under development | Closed protocol. Leverages cross chain atomic swaps[4]. |
+| [Kyber Network](https://kyber.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Closed protocol. Kyber is two things: a product for exchanging, and smart contracts used by that exchange. Only Kyber can use the contracts. |
+| [Lendroid](https://lendroid.com/) | ERC20 Tokens | Ethereum | Under development | Open protocol. Margin Loans. |
+| [Melon](https://melonport.com/) | ERC20 Tokens, Melon Fund Shares[5] | Ethereum | Live on Ethereum mainnet | Open protocol. A protocol for creating an investment fund that holds an arbitrary number of underlying ERC20 tokens. |
+| [OmiseGo](https://omisego.network/) | All[1] | All[1] | Under development | Open protocol. A blockchain with built-in support for decentralized exchange. |
+| [Raiden Network](https://raiden.network/) | ERC20 Tokens | Ethereum | Under development | Off-chain ERC20 token exchange. Similar to Lightning Network for Bitcoin. |
+| [Ripple](https://ripple.com/) | XRP, Ripple Issued Currencies | Ripple | Live on Ripple mainnet | Open protocol. Ripple has builtin transaction types such as `Offer Create`[8] that allow anyone to trustlessly exchange Ripple based assets. |
+| [Saturn](https://rados.io/saturn-protocol-saturn-dao-updates-for-radex-and-rados/) | ERC20 Tokens, ERC223 Tokens | Ethereum | Under development | Open protocol. The team building this already built a dex called Radex, that uses a closed protocol. Saturn is a generalization of Radex protocol. |
+| [Set](https://setprotocol.com/) | ERC20 Tokens, Set Tokens | Ethereum | Under development | Open protocol. Token abstraction. |
+| [Snowglobe](https://auroradao.com/faq/) | ERC20 Tokens | Ethereum | Under development | Open protocol. Shared order book and liquidity. |
+| [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) | Stellar Assets | Stellar | Live on Stellar mainnet | Open protocol. The Stellar blockchain scripting language has builtins for decentralized exchange[7].  |
+| [Swap](https://swap.tech/faq/)  | ERC20 Tokens  | Ethereum | Under development | Closed protocol. Plans to become an open protocol. |
+| [WandX](https://www.wandx.co/) | ERC20 Tokens, ERC20 Token Baskets | Ethereum | Under development | Closed protocol. |
+| [Wyvern](https://projectwyvern.com/)  | Nonfungible Ethereum assets  | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of nonfungible Ethereum assets with off-chain orderbooks. |
+
+---
+[1] The OmiseGo white paper claims “this high-performant distributed network enforces exchange across as-set classes, from fiat-backed issuers to fully decentralized blockchain tokens (ERC-20 style and native cryptocurrencies).”
+
+[2] The Enigma Catalyst [white paper](https://www.enigma.co/enigma_catalyst.pdf) proposes an architecture for cross-chain atomic swaps using layer 2 solutions (also known as state channels). As far as I can tell, this is not currently being developed by the Enigma team.
+
+[3] Bitshares claims that you can trade collateralized SmartCoins on the Bitshares blockchain. Bitshares claims to hold the collateral for these SmartCoins.
+
+[4] https://blog.komodoplatform.com/everything-you-need-to-know-about-atomic-swaps-and-how-komodo-is-advancing-the-technology-cadaec50da7c
+
+[5] Investors send funds to the "fund manager" and then receive a proportional number of the fund's shares in return.
+
+[6] A company called [Aphelion](https://aphelion.org/) is developing this protocol in order to build their own DEX on top of it. I could not determine from the white paper if they are planning to open this protocol up to others or not. It is unclear from the whitepaper just how many assets this protocol will support.
+
+[7] "Manage Offer" is an example of a function native to Stellar's scripting language https://www.stellar.org/developers/guides/concepts/list-of-operations.html#manage-offer
+
+[8] https://ripple.com/build/transactions/#offercreate
 
 ## **SOURCES**: 
 
  - [@oseselio](https://twitter.com/oseselio) research for "Mercados Descentralizados | #dsociety" book project.
+ - [Protocols for Decentralized Exchange](https://github.com/evbots/dex-protocols) by [Evan Botello](https://github.com/evbots/): [https://github.com/evbots/dex-protocols](https://github.com/evbots/dex-protocols)
  - ["State of Decentralized Exchanges, 2018"](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79) by [@NathanSexer](https://twitter.com/NathanSexer): [https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79)
 
 ## **About this list**:
