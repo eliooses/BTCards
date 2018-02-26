@@ -93,7 +93,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Ethos 	| [![alt text][web]](https://www.ethos.io/) |   | [![alt text][whitepaper]](http://www.ethos.io/Ethos_Whitepaper.pdf) | `DCD` `DS` | (developing) | multi protocol (0x - atomic swap) | 6 | | | | |
 | 	EthRoox	| 	[![alt text][web]](https://etheroox.com/) |	| | | 	(operating with issues)	| 	TBC	| 	| | | | |
 | 	ExchangeN	| 	[![alt text][web]](http://www.exchangen.com/) |	| | | 	(operating with issues)	| 	TBC	| 	| | | | |
-| 	Exchange Union	| 	[![alt text][web]](https://www.exchangeunion.com) | [![alt text][github]](https://github.com/exchangeunion)	| [![alt text][whitepaper]](https://api.exchangeunion.com/pdf/en/ExchangeUnion-WhitePaper.pdf) | `DS` `DOB` `DD` | 	(developing)	| 	cross-exchange protocol	| 	| | | | |
+| 	Exchange Union	| 	[![alt text][web]](https://www.exchangeunion.com) | [![alt text][github]](https://github.com/exchangeunion)	| [![alt text][whitepaper]](https://api.exchangeunion.com/pdf/en/ExchangeUnion-WhitePaper.pdf) | `DS` `DOB` `DD` `OPRO` | 	(developing)	| 	exchange union protocol	| 	| All | All | | |
 | Expread | [![alt text][web]](http://expread.io/) |   | [![alt text][whitepaper]](http://expread.io/home/EXPREAD_WhitePaper_Version2.1-final.compressed.pdf) |   | (developing) | payment channels protocol |   | | | | |
 | FairX | [![alt text][web]](https://fairx.io/) | [![alt text][github]](https://github.com/fairxio/) | [![alt text][whitepaper]](https://github.com/fairxio/docs) |   | (developing) | stellar consensus protocol | 6 | | | | |
 | 	Flipper0x	| 	[![alt text][web]](https://flipper0x.io/) |	| | | 	(developing)	| 	0x protocol	| 	| | | | |
