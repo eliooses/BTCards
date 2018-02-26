@@ -1,6 +1,11 @@
 # CONTRIBUTING:
 
-**Please consider donate**: 0x81404BE6B9d46554ADAbCc7599967cF157720d31 (I have a big stomach to maintain. 🍺 🍔 🍩).
+**Please consider donate**:
+
+eth: 0x81404BE6B9d46554ADAbCc7599967cF157720d31
+btc: 1HUwxzaNoo1Qdw9Sh5esHhAf5FXFZ7tk8N
+
+(I have a really big stomach to maintain. 🍺 🍔 🍩).
 
 Do you notice anything that can be added, corrected, or otherwise improved? Create an [issue](https://github.com/distribuyed/index/issues) or [pull request](https://github.com/distribuyed/index/pulls) to suggest changes to this file.
 
