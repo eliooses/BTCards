@@ -277,7 +277,7 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 ## Disclaimer
 
-While the maintainer(s) of this repo do their best to keep this list free of any software that could be considered harmful to users, inclusion on this list does not constitute an endorsement by the author(s) or maintainer(s) of this repo. Do your own due diligence before downloading and installing any software to ensure you can trust it and understand the implications of its use.
+> While the maintainer(s) of this repo do their best to keep this list free of any software that could be considered harmful to users, inclusion on this list does not constitute an endorsement by the author(s) or maintainer(s) of this repo. Do your own due diligence before downloading and installing any software to ensure you can trust it and understand the implications of its use.
 
 # **#DEX in social networks**:
 
