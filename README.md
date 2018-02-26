@@ -295,3 +295,11 @@ While the maintainer(s) of this repo do their best to keep this list free of any
 ## Platforms for Smart Contracts:
 
 [List of awesome platforms for smart contracts](https://github.com/Overtorment/awesome-smart-contracts)
+
+[github]: https://i.imgur.com/uJEpwQj.png "GitHub"
+
+[web]: https://i.imgur.com/yr4086M.png "Website"
+
+[whitepaper]: https://i.imgur.com/CQKjGai.png "Whitepaper"
+
+[header]: https://i.imgur.com/xYyP8lZ.jpg "inDEX"
