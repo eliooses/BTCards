@@ -6,7 +6,7 @@ A comprehensive list of decentralized exchanges (DEX).
 
 This is a list of decentralized exchanges of cryptographic assets (cryptocurrencies, tokens, derivatives, futures...) and their protocols, without a central entity. The architecture of these and their protocols can be quite different from one another. In some cases, they are built projects entirely open source. In other cases, they are closed in some aspects, but still implemented open or decentralized tools or mechanisms like smart contracts that are publicly verifiable. Other projects have chosen to create their own distributed ledger technology (DTL) in order to build a protocol for exchange.
 
-Please, consider [contributing](#CONTRIBUTING) and/or **donate**:
+Please, consider [contributing](https://github.com/distribuyed/index/blob/master/CONTRIBUTING.md) and/or **donate**:
 
 0x81404BE6B9d46554ADAbCc7599967cF157720d31 (I have a big stomach to maintain. 🍺 🍔 🍩).
 
