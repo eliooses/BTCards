@@ -8,8 +8,9 @@ This is a list of decentralized exchanges of cryptographic assets (cryptocurrenc
 
 Please, consider [contributing](https://github.com/distribuyed/index/blob/master/CONTRIBUTING.md) and/or **donate**:
 
-eth: 0x81404BE6B9d46554ADAbCc7599967cF157720d31
-btc: 1HUwxzaNoo1Qdw9Sh5esHhAf5FXFZ7tk8N
+**eth**: 0x81404BE6B9d46554ADAbCc7599967cF157720d31
+
+**btc**: 1HUwxzaNoo1Qdw9Sh5esHhAf5FXFZ7tk8N
 
 (I have a really big stomach to maintain. 🍺 🍔 🍩).
 
