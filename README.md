@@ -76,7 +76,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | Distributed Exchage |   | [![alt text][github]](https://github.com/p2pdex/DEX) | [![alt text][whitepaper]](https://github.com/p2pdex/DEX/blob/master/DEX%20Client%20original%20Description.doc?raw=true) | | (dead) | TBC |   | | | | |
 | DSE |   | [![alt text][github]](https://github.com/manki11/DSE_Hackrupt) |   | `FULLY`  | (developing) | TBC | 11 | | | | |
 | 	DTX	| 	 | [![alt text][github]](https://github.com/zeriontech/DTX)	| | | 	(developing)	| 	TBC	| 	| | | | |
-| DUBIex |   | [![alt text][web]](https://dubiex.com/) | [![alt text][github]](https://github.com/nionis/dubiex) |   | (operating) | TBC |   |   |   |   |   |
+| DUBIex |  [![alt text][web]](https://dubiex.com/) | [![alt text][github]](https://github.com/nionis/dubiex/) |  |   | (operating) | TBC |   |   |   |   |   |
 | 	DutchX	| 	 | [![alt text][github]](https://github.com/gnosis/dutch-exchange)	| | | 	(developing)	| 	dutch auction principle protocol	| 	| | | | |
 | 	dYdX	| [![alt text][web]](https://dydx.exchange/) | | [![alt text][whitepaper]](https://whitepaper.dydx.exchange/) | | 	(developing)	| 	dYdX protocol	| 5	| ERC20 Tokens - Dydx Derivatives (Option - Short Sell) | Ethereum | | |
 | 	EasyTrade	| 	[![alt text][web]](https://easytrade.io/) |	| | | 	(operating)	| 	0x protocol	|	| | | | |
