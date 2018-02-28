@@ -76,6 +76,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | Distributed Exchage |   | [![alt text][github]](https://github.com/p2pdex/DEX) | [![alt text][whitepaper]](https://github.com/p2pdex/DEX/blob/master/DEX%20Client%20original%20Description.doc?raw=true) | | (dead) | TBC |   | | | | |
 | DSE |   | [![alt text][github]](https://github.com/manki11/DSE_Hackrupt) |   | `FULLY`  | (developing) | TBC | 11 | | | | |
 | 	DTX	| 	 | [![alt text][github]](https://github.com/zeriontech/DTX)	| | | 	(developing)	| 	TBC	| 	| | | | |
+| DUBIex |   | [![alt text][web]](https://dubiex.com/) | [![alt text][github]](https://github.com/nionis/dubiex) |   | (operating) | TBC |   |   |   |   |   |
 | 	DutchX	| 	 | [![alt text][github]](https://github.com/gnosis/dutch-exchange)	| | | 	(developing)	| 	dutch auction principle protocol	| 	| | | | |
 | 	dYdX	| [![alt text][web]](https://dydx.exchange/) | | [![alt text][whitepaper]](https://whitepaper.dydx.exchange/) | | 	(developing)	| 	dYdX protocol	| 5	| ERC20 Tokens - Dydx Derivatives (Option - Short Sell) | Ethereum | | |
 | 	EasyTrade	| 	[![alt text][web]](https://easytrade.io/) |	| | | 	(operating)	| 	0x protocol	|	| | | | |
@@ -107,7 +108,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	gnosis-exchange	| | [![alt text][github]](https://github.com/gnosis/gnosis-exchange)	| | | 	(developing)	| 	TBC	| 	| | | | |
 | 	Graphene	| 	[![alt text][web]](http://docs.bitshares.eu//index.html) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 2	| | | | |
 | 	Heat	| 	[![alt text][web]](https://heatwallet.com) |	| | | 	(operating)	| 	asset-to-asset protocol	| 	| | | | |
-| 	Herdius	| 	[![alt text][web]](https://herdius.com/) |	| | | 	(developing - ICO expected in Q1 2018)	| 	cross-chain protocol	| 	| | | | |
+| 	Herdius	| 	[![alt text][web]](https://herdius.com/) | [![alt text][web]](https://github.com/herdius)	| [![alt text][whitepaper]](https://herdius.com/whitepaper/Herdius%20Lightpaper.pdf) | | 	(developing)	| 	cross-chain protocol	| 	| | | | |
 | 	Hydra	| 	[![alt text][web]](http://libertaria.world/) |	| | | 	(developing - whitepaper)	| 	hydra protocol	| 2	| | | | |
 | 	Hodl Hodl	| 	[![alt text][web]](https://hodlhodl.com/) |	| | `DCD` `DSTT` | 	(operating)	|  | 3 | | | | |
 | 	Hodl⚡️co	| 	[![alt text][web]](http://www.hodlco.io) |	| | | 	(developing)	| 	TBC | 6	| | | | |
