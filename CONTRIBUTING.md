@@ -1,4 +1,8 @@
+[![alt text][header]](https://github.com/distribuyed/index)
+
 # CONTRIBUTING:
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 **Please consider donate**:
 
