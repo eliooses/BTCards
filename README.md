@@ -25,6 +25,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | ALTTEX | [![alt text][web]](https://alttex.io/) | [![alt text][github]](https://github.com/alttex/Alt-exchange) | [![alt text][whitepaper]](https://alttex.io/WhitePaper_Eng.pdf) |   | (developing) | 0x protocol |   | | | | |
 | 	Amadeus Relay	| 	[![alt text][web]](http://amadeusrelay.org/) | [![alt text][github]](https://github.com/AmadeusRelay)	| | | 	(developing)	| 	0x protocol	| 	| | | | |
 | 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) | [![alt text][github]](https://github.com/aphtoken/)	| [![alt text][whitepaper]](https://aphelion.org/wp.html) | | 	(developing - launch Q1 2018)	| 	deal protocol	| 	| | | | |
+| Aqueduct | [![alt text][web]](https://aqueduct.ercdex.com) | [![alt text][github]](https://github.com/ercdex/aqueduct) | [![alt text][whitepaper]](https://aqueduct.ercdex.com/rest.html) |   | (released) | aqueduct protocol | 2 |   |   |   |   |
 | 	Arbidex	| 	[![alt text][web]](http://arbidex.ch) | [![alt text][github]](https://github.com/Arbidex)	| [![alt text][whitepaper]](https://arbidex.uk.com/assets/wp_en.pdf) | | 	(developing - launch Q4 2018)	| 	TBC	| 	| | | | |
 | 	ATLANT DEX	| 	[![alt text][web]](https://trade.atlant.io) | [![alt text][github]](https://github.com/AtlantPlatform/atlant-dex)	| [![alt text][whitepaper]](https://atlant.io/assets/documents/en/Atlant_WP_publish.pdf) | | 	(Token Launch)	| 	atlant protocol	| 	| | | | |
 | 	atomicDEX	| | [![alt text][github]](https://github.com/ca333/atomicDEX) | | | 	(developing)	| TBC | 	| | | | |
