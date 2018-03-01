@@ -116,6 +116,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	IDEX	| 	[![alt text][web]](https://idex.market/) |	| | | 	(operating)	| 	snowglobe protocol	| 	| | | | |
 | 	IDT Exchange	| 	[![alt text][web]](https://trade.idtexchange.com/) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
 | 	Inbest Network	| 	[![alt text][web]](https://www.inbest.network/) |	| | | 	(ICO)	| 	inbest protocol	| 4	| | | | |
+| Infinity | [![alt text][web]](https://www.hycon.io/) | [![alt text][github]](https://github.com/Team-Hycon) | [![alt text][whitepaper]](https://www.hycon.io/doc/whitepaper_en.pdf) |   | (developing) | spectre protocol |   |   |   |   |   |
 | 	Javvy	| 	[![alt text][web]](https://javvy.com/) | [![alt text][github]](https://github.com/javvycrypto)	| [![alt text][whitepaper]](https://javvy.com/wp-content/uploads/2017/09/javvy_crypto-solution-white-paper.pdf) | | 	(developing)	| 	TBC	| 	| | | | |
 | 	JOYSO	| 	[![alt text][web]](https://joyso.io/) |	| | | 	(ICO)	| 	hex protocol	| 3	| | | | |
 | Komodo | [![alt text][web]](https://www.komodoplatform.com/) | [![alt text][github]](https://github.com/KomodoPlatform) | [![alt text][whitepaper]](https://www.komodoplatform.com/en/whitepaper/2018-02-14-Komodo-White-Paper-Full.pdf) |   | (developing) | komodo protocol | 2 | N/A | Komodo | | |
@@ -164,7 +165,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Raiden	| 	[![alt text][web]](https://raiden.network/) |  [![alt text][github]](https://github.com/raiden-network/raiden/) | [![alt text][whitepaper]](https://raiden.network/101.html) | | 	(developing)	| 	raiden protocol	| 2	| ERC20 Tokens | Ethereum | | |
 | 	Raidex	| 	[![alt text][web]](https://www.raidex.io/) |	| | | 	(developing)	| 	raiden protocol	|	| | | | |
 | 	Relayer Network	| 	[![alt text][web]](https://relayer.network/) |	| | | 	(developing)	| 	0x protocol (modular trade networks)	|	| | | | |
-| 	Republic Protocol	| [![alt text][web]](https://republicprotocol.com/) | [![alt text][github]](https://github.com/republicprotocol/)	| [![alt text][whitepaper]](https://republicprotocol.github.io/whitepaper/republic-whitepaper.pdf) | | 	(operating)	| 	republic protocol	| 2	| | | | |
+| 	Republic Protocol	| [![alt text][web]](https://republicprotocol.com/) | [![alt text][github]](https://github.com/republicprotocol/)	| [![alt text][whitepaper]](https://republicprotocol.github.io/whitepaper/republic-whitepaper.pdf) | | 	(released)	| 	republic protocol	| 2	| | | | |
 | 	RigoBlock	| [![alt text][web]](https://rigoblock.com/) |	| | | 	(operating with issues)	| 	rigoblock protocol	| | | | | |
 |   Ripple | [![alt text][web]](https://ripple.com) | [![alt text][github]](https://github.com/ripple/) | [![alt text][whitepaper]](http://whitepaperdatabase.com/ripple-xrp-whitepaper/) | | (released) | ripple protocol | 2	| XRP - Ripple Issued Currencies | Ripple | | |
 |   Rippex | [![alt text][web]](https://rippex.net/carteira-ripple.php) | | | `DC` | (operating) | ripple protocol | 7 | | | | |
