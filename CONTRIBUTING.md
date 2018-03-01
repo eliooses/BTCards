@@ -17,18 +17,18 @@ Do you notice anything that can be added, corrected, or otherwise improved? Crea
 
 If you are considering contributing editing the list, here are some tools for you to use:
 
-**MARKDOWN RESOURCES**:
-
-[Markdown Editor: https://dillinger.io/](https://dillinger.io/)
-
-[Table magic converter, md to csv & csv to md: http://stevecat.net/table-magic/](http://stevecat.net/table-magic/)
-
 **Netiquette**:
 
  - Please don´t use commas on the .MD.
  - Update the README.md and the index.csv file too, please.
  - Make an individual pull request for each suggestion.
  - Check your spelling and grammar.
+
+**MARKDOWN RESOURCES**:
+
+[Markdown Editor: https://dillinger.io/](https://dillinger.io/)
+
+[Table magic converter, md to csv & csv to md: http://stevecat.net/table-magic/](http://stevecat.net/table-magic/)
 
 To render the icons on the MD table please use:
 
