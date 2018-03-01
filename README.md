@@ -77,6 +77,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Digitex Futures	| 	[![alt text][web]](https://digitexfutures.com/) | [![alt text][github]](https://github.com/DigitexFutures)	| [![alt text][whitepaper]](https://www.digitexfutures.com/whitepaper/Digitex-Whitepaper.v.1.1.pdf) | | 	(developing)	| 	digitex protocol	| 9	| | | | |
 | Distributed Exchage |   | [![alt text][github]](https://github.com/p2pdex/DEX) | [![alt text][whitepaper]](https://github.com/p2pdex/DEX/blob/master/DEX%20Client%20original%20Description.doc?raw=true) | | (dead) | TBC |   | | | | |
 | DSE |   | [![alt text][github]](https://github.com/manki11/DSE_Hackrupt) |   | `FULLY`  | (developing) | TBC | 11 | | | | |
+| DTE | [![alt text][web]](https://tomw1808.github.io/distributed_exchange_truffle_class_3/index.html) | [![alt text][github]](https://github.com/tomw1808/distributed_exchange_truffle_class_3) |   | `FULLY` | (prototype) | TBC |   |   |   |   |   |
 | 	DTX	| 	 | [![alt text][github]](https://github.com/zeriontech/DTX)	| | | 	(developing)	| 	TBC	| 	| | | | |
 | DUBIex |  [![alt text][web]](https://dubiex.com/) | [![alt text][github]](https://github.com/nionis/dubiex/) |  |   | (operating) | TBC |   |   |   |   |   |
 | 	DutchX	| 	 | [![alt text][github]](https://github.com/gnosis/dutch-exchange)	| | | 	(developing)	| 	dutch auction principle protocol	| 	| | | | |
