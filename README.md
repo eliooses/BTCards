@@ -164,7 +164,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Raiden	| 	[![alt text][web]](https://raiden.network/) |  [![alt text][github]](https://github.com/raiden-network/raiden/) | [![alt text][whitepaper]](https://raiden.network/101.html) | | 	(developing)	| 	raiden protocol	| 2	| ERC20 Tokens | Ethereum | | |
 | 	Raidex	| 	[![alt text][web]](https://www.raidex.io/) |	| | | 	(developing)	| 	raiden protocol	|	| | | | |
 | 	Relayer Network	| 	[![alt text][web]](https://relayer.network/) |	| | | 	(developing)	| 	0x protocol (modular trade networks)	|	| | | | |
-| 	Republic Protocol	| [![alt text][web]](https://republicprotocol.com/) |	| | | 	(operating)	| 	republic protocol	| 2	| | | | |
+| 	Republic Protocol	| [![alt text][web]](https://republicprotocol.com/) | [![alt text][github]](https://github.com/republicprotocol/)	| [![alt text][whitepaper]](https://republicprotocol.github.io/whitepaper/republic-whitepaper.pdf) | | 	(operating)	| 	republic protocol	| 2	| | | | |
 | 	RigoBlock	| [![alt text][web]](https://rigoblock.com/) |	| | | 	(operating with issues)	| 	rigoblock protocol	| | | | | |
 |   Ripple | [![alt text][web]](https://ripple.com) | [![alt text][github]](https://github.com/ripple/) | [![alt text][whitepaper]](http://whitepaperdatabase.com/ripple-xrp-whitepaper/) | | (released) | ripple protocol | 2	| XRP - Ripple Issued Currencies | Ripple | | |
 |   Rippex | [![alt text][web]](https://rippex.net/carteira-ripple.php) | | | `DC` | (operating) | ripple protocol | 7 | | | | |

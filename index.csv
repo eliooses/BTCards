@@ -148,7 +148,7 @@ Radex, https://exchange.rados.io/, https://github.com/rados-io/radex, , , (opera
 Raiden, https://raiden.network/, https://github.com/raiden-network/raiden/, https://raiden.network/101.html, , (developing), raiden protocol, 2, ERC20 Tokens, Ethereum, , 
 Raidex, https://www.raidex.io/, , , , (developing), raiden protocol, , , , , 
 Relayer Network, https://relayer.network/, , , , (developing), 0x protocol (modular trade networks), , , , , 
-Republic Protocol, https://republicprotocol.com/, , , , (operating), republic protocol, 2, , , , 
+Republic Protocol, https://republicprotocol.com/, https://github.com/republicprotocol/, https://republicprotocol.github.io/whitepaper/republic-whitepaper.pdf, , (released), republic protocol, 2, , , , 
 RigoBlock, https://rigoblock.com/, , , , (operating with issues), rigoblock protocol, , , , , 
 Ripple, https://ripple.com/, https://github.com/ripple/, http://whitepaperdatabase.com/ripple-xrp-whitepaper/, , (released), ripple protocol, 2, XRP - Ripple Issued Currencies, Ripple, , 
 Rippex, https://rippex.net/carteira-ripple.php, , , DC, (operating), ripple protocol, 7, , , , 
