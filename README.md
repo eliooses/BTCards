@@ -72,6 +72,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | DEX |   | [![alt text][github]](https://github.com/ltfschoen/dex) |   |   | (developing) | 0x protocol |   | | | | |
 | DEXY | [![alt text][web]](https://www.dexy.exchange/) | [![alt text][github]](https://github.com/DexyProject) |   | `DOB` | (developing) | decentralized exchange protocol |   | | | | |
 | Dexy |   | [![alt text][github]](https://github.com/bokkypoobah/Dexy) |   |   | (developing) | TBC |   | | | | |
+| DEW | [![alt text][web]](https://t3.dew.one/) |   |   |   | (developing) | TBC | 4 | ERC20 Tokens | Ethereum |   |   |
 | Dharma | [![alt text][web]](https://dharma.io/) | [![alt text][github]](https://github.com/dharmaprotocol) | [![alt text][whitepaper]](https://whitepaper.dharma.io/) |   | (developing) | TBC | 2 | ERC20 Tokens - Dharma Debt Token | Ethereum | | |
 | 	Digitex Futures	| 	[![alt text][web]](https://digitexfutures.com/) | [![alt text][github]](https://github.com/DigitexFutures)	| [![alt text][whitepaper]](https://www.digitexfutures.com/whitepaper/Digitex-Whitepaper.v.1.1.pdf) | | 	(developing)	| 	digitex protocol	| 9	| | | | |
 | Distributed Exchage |   | [![alt text][github]](https://github.com/p2pdex/DEX) | [![alt text][whitepaper]](https://github.com/p2pdex/DEX/blob/master/DEX%20Client%20original%20Description.doc?raw=true) | | (dead) | TBC |   | | | | |
