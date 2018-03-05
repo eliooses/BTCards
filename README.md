@@ -127,7 +127,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	LAtoken	| 	[![alt text][web]](http://www.latoken.com/) |	| | | 	(operating)	| 	spectre protocol (DAG)	| 	| | | | |
 | 	Legolas Exchange	| 	[![alt text][web]](https://legolas.exchange/) |	| | | 	(developing - ICO Q1 2018)	| 	legolas protocol	| 3	| | | | |
 | 	Lendroid	| 	[![alt text][web]](https://lendroid.com/) | [![alt text][github]](https://github.com/lendroidproject)	| [![alt text][whitepaper]](https://lendroid.com/assets/whitepaper-margin-trading.pdf) | | 	(developing)	| 	lendroid protocol |	| ERC20 Tokens | Ethereum | | |
-| 	Leverj	| 	[![alt text][web]](https://leverj.io/) |	| | | 	(developing)	| 	leverj protocol |	5 | | | | |
+| 	Leverj	| 	[![alt text][web]](https://leverj.io/) | [![alt text][github]](https://github.com/leverj)	| [![alt text][whitepaper]](https://leverj.io/whitepaper.pdf) | | 	(developing)	| 	leverj protocol |	5 | | | | |
 | 	LinkerCoin	| 	[![alt text][web]](https://www.linkercoin.com/) | [![alt text][github]](https://github.com/linkercoinfoundation/Linker-Coin-Project)	| [![alt text][whitepaper]](https://docs.wixstatic.com/ugd/4e7588_4bd05b0a780f42849f44280af1a51189.pdf) | | 	(developing)	| 	linker protocol |	 | | | | |
 | LocalCoinSwap | [![alt text][web]](https://www.localcoinswap.com/) | [![alt text][github]](https://github.com/LocalCoinSwap) | [![alt text][whitepaper]](https://www.localcoinswap.com/LocalCoinSwap_whitepaper_v1.0.pdf) |   | (developing) | lcs protocol |   |   |   |   |   |
 | 	Loopring	| 	[![alt text][web]](https://loopring.org) |	| [![alt text][whitepaper]](https://github.com/Loopring/whitepaper/raw/master/en_whitepaper.pdf) | | 	(developing - launch Q2 2018)	| 	loopring protocol	| 2	| | | | |
