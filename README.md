@@ -199,7 +199,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Trade.io | 	[![alt text][web]](https://trade.io/) |	| [![alt text][whitepaper]](https://trade.io/whitepaper/ES.pdf) | | 	(developing)	| raiden protocol	| 	| | | | |
 | 	TrueBit | 	[![alt text][web]](https://truebit.io/) |	[![alt text][github]](https://github.com/TrueBitFoundation) | [![alt text][whitepaper]](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf) | | 	(developing)	| truebit protocol	| 2	| | | | |
 | txbit.io | [![alt text][web]](http://txbit.io/) |   |   |   | [(announced)](https://twitter.com/SolarisCoin/status/963538742047838209) | xevan protocol |   | | | | |
-| UberDelta |  [![alt text][web]](https://www.uberdelta.com/) | [![alt text][github]](https://github.com/UberDelta/uberdelta.github.io) | | ´FULLY´ | (operating) | TBC | | | | | |
+| UberDelta |  [![alt text][web]](https://www.uberdelta.com/) | [![alt text][github]](https://github.com/UberDelta/uberdelta.github.io) | | `FULLY` | (operating) | TBC | | | | | |
 | 	UbiTok.io | [![alt text][web]](https://ubitok.io/) |	| | | 	(operating)	| on-chain protocol	| 	| | | | |
 | ValueCash | [![alt text][web]](https://www.valuecash.com/) |   | [![alt text][whitepaper]](https://www.valuecash.com/public/assets/files/Whitepaper.pdf) |   | (developing) | proof of trade protocol | 4 | | | | |
 | 	VariabL	| 	[![alt text][web]](https://variabl.io) |	| | | 	(open alpha)	| 	variabl protocol	| 5	| | | | |
