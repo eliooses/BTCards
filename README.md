@@ -34,6 +34,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	b0x	| 	[![alt text][web]](https://b0x.network/) | [![alt text][github]](https://github.com/b0xNetwork) | [![alt text][whitepaper]](https://b0x.network/pdfs/b0x_white_paper.pdf) | | 	(developing - TGE expected Q2 2018)	| 	b0x protocol (margin lending/trading and oracle marketplace)	| 	| | | | |
 | 	Bancor	| 	[![alt text][web]](https://app.bancor.network/discover) | [![alt text][github]](https://github.com/bancorprotocol/)	| [![alt text][whitepaper]](https://about.bancor.network/Whitepaper) | | 	(live)	| 	bancor protocol	| 	| ERC20 Tokens | Ethereum | | |
 | 	BarterDEX	| [![alt text][web]](http://barterdex.com)	 | [![alt text][github]](https://github.com/KomodoPlatform/BarterDEX)	| [![alt text][whitepaper]](https://www.komodoplatform.com/en/technology/whitepaper/2018-02-03-Komodo-White-Paper-Full.pdf) | `FULLY` | 	(operating)	| 	barterdex protocol	| 	| | | | |
+| 	Bibox DEX	| 	[![alt text][web]](https://www.bibox.com/) | [![alt text][github]](https://github.com/Biboxcom)	| | | 	[(announced)](https://steemit.com/bibox/@geonardlc/bibox-ai-driven-decentralized-digital-asset-exchange-platform)	| 	TBC	| 12 | | | | |
 | 	Binkd	| 	[![alt text][web]](https://www.binkd.com/) | [![alt text][github]](https://github.com/binkd)	| [![alt text][whitepaper]](https://www.binkd.com/pdfs/Binkd-White-Paper.pdf) | | 	(developing)	| 	0x protocol	| 3	| | | | |
 | Bisq | [![alt text][web]](https://bisq.network/) | [![alt text][github]](https://github.com/bisq-network) | [![alt text][whitepaper]](https://github.com/bisq-network/docs/blob/master/exchange/whitepaper.adoc) | `FULLY` | (operating) | Bisq protocol | 6 | | | | |
 | 	BitPoint	| 	[![alt text][web]](http://bitpoint.network/) | [![alt text][github]](https://github.com/BitPointNetwork)	| | | 	(operating)	| 	0x protocol	| 6	| | | | |
@@ -250,6 +251,8 @@ TBC: To be confirmed.
 10: Decentralized exchange like a feature of wallet client.
 
 11: Decentralized stocks exchange.
+
+12: Centralized exchange, full decentralization adoption announced.
 
 ## **DEX GRADE**:
 
