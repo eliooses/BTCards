@@ -218,7 +218,9 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | zDEX | [![alt text][web]](https://pivx.org/) | [![alt text][github]](https://github.com/PIVX-Project/PIVX/) |   |   | [(announced)](https://steemit.com/cryptocurrency/@pivx/have-you-heard-of-zdex) | zerocoin protocol | 10 | | | | |
 | 	Zero Exchange	| 	[![alt text][web]](http://www.zero.exchange/) |	| | | 	(operating with issues)	| 	0x protocol	|	| | | | |
 | Zeus | [![alt text][web]](https://zeus.exchange/) |   | [![alt text][whitepaper]](https://zeus.exchange/zeus/ZEUS%20EXCHANGE%20EXECUTIVE%20SUMMARY%2027%20NOV%202017.pdf)   |   | (developing) | nem protocol | 3 | | | | |
+| ZigZag | [![alt text][web]](http://zigzag.bitlum.io/) | [![alt text][github]](https://github.com/bitlum) | [![alt text][whitepaper]](https://medium.com/bitlum/zigzag-alpha-release-12b7c56e53b2) | | (developing) | lightning network protocol | ⚡️ | | | | |
 |   Zip Exchange | [![alt text][web]](https://zip.exchange/) | | | | (developing) | 0x protocol |	| | | | |
+
 
 ## **REFERENCES**: 
 
@@ -253,6 +255,8 @@ TBC: To be confirmed.
 11: Decentralized stocks exchange.
 
 12: Centralized exchange, full decentralization adoption announced.
+
+⚡️: Lightning Network exchange.
 
 ## **DEX GRADE**:
 
