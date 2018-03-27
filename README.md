@@ -185,7 +185,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | Snowglobe | [![alt text][web]](https://auroradao.com/faq/) |   |   |   | (developing) | snowglobe protocol | 2 | ERC20 Tokens | Ethereum | | |
 | Stellar | [![alt text][web]](https://www.stellar.org/developers/guides/concepts/exchange.html) | [![alt text][github]](https://github.com/stellar/stellar-protocol) | [![alt text][whitepaper]](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) |   | (live) | stellar consensus protocol | 2 | Stellar Assets | Stellar | | |
 | Stellarport | [![alt text][web]](https://stellarport.io/) |   |   |   | (operating) | stellar consensus protocol |   | | | | |
-| Stellarswap | [![alt text][web]](https://stellarswap.space/) |   |   |   | (operating) | stellar consensus protocol |   | | | | |
+| Stellarswap | [![alt text][web]](https://stellarswap.space/) | [![alt text][github]](https://github.com/jonasess/Stellarswap) |   |   | (operating) | stellar consensus protocol |   | | | | |
 | 	Stellar Term	| 	[![alt text][web]](https://stellarterm.com/) |	| | | 	(operating)	| 	stellar consensus protocol	| 	| | | | |
 | STeX | [![alt text][web]](https://stex.exchange/) | [![alt text][github]](https://github.com/stex-exchange/) | [![alt text][whitepaper]](https://stex.exchange/media/pdf/whitepaper.pdf) |   | (developing) | a2a protocol | 3 5 9 | | | | |
 | 	Streamity	| 	[![alt text][web]](https://streamity.org/) | [![alt text][github]](https://github.com/streamity/)	| [![alt text][whitepaper]](https://streamity.org/uploads/docs/en/Whitepaper_Streamity_en.pdf) | | 	(developing)	| TBC	| 3	| | | | |
