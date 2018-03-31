@@ -148,7 +148,8 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	NextExchange	| 	[![alt text][web]](https://next.exchange/) | [![alt text][github]](https://github.com/NextExchange)	| [![alt text][whitepaper]](https://next.exchange/whitepaper) | | 	(developing)	| 	0x	| 	| | | | |
 | 	NVO	| 	[![alt text][web]](https://nvo.io/) |	| | | 	(developing - launch Q1 2018)	| 	nvo protocol	|	| | | | |
 | 	Nxt	| 	[![alt text][web]](https://nxtplatform.org) |	| | | 	(operating)	| 	TBC	| 5	| | | | |
-| 	Oasis DEX	| 	[![alt text][web]](https://oasisdex.com) |	| | `FULLY` | 	(operating - alpha)	| 	on-chain protocol	| 	| | | | |
+| 	Oasis DEX	| 	[![alt text][web]](https://oasisdex.com) | [![alt text][github]](https://github.com/OasisDEX)	| [![alt text][whitepaper]](https://developer.makerdao.com/) | `FULLY` | 	(operating - alpha)	| 	on-chain protocol	| 	| | | | |
+| Oasis Direct | [![alt text][web]](https://oasis.direct/) | [![alt text][github]](https://github.com/OasisDEX) | [![alt text][whitepaper]](https://developer.makerdao.com/) | `FULLY` | (operating) | on-chain protocol |   |   |   |   |   |
 | 	Omega One	| 	[![alt text][web]](https://omega.one/) |	| | | 	(ICO)	| 	TBC	| 	| | | | |
 | 	OmiseGO	| 	[![alt text][web]](https://omisego.network/) |	| | | 	(developing)	| 	omisego protocol	| 2 | All | All| | |
 | 	Omni DEX	| 	[![alt text][web]](http://omniexplorer.info/dex.aspx) |	| | | 	(operating)	| 	TBC	| 	| | | | |
