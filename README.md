@@ -157,7 +157,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	openANX	| 	[![alt text][web]](https://www.openanx.org/en/) |	| | | 	(developing)	| 	openanx protocol	| 	| | | | |
 | 	Open Collectors Network	| [![alt text][web]](https://opencollectors.network/) | [![alt text][github]](https://github.com/cosmingrigore/OpenCollectorsNetwork)	| [![alt text][whitepaper]](https://opencollectors.network/layout/OpenCollectorsNetwork) | | 	(developing - prototype)	| 	TBC	| 8	| | | | |
 | 	OpenLedger DEX	| 	[![alt text][web]](https://openledger.io/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	| | | | |
-| 	Open Relay	| 	[![alt text][web]](https://openrelay.xyz/) |	| | | 	(developing - private alpha)	| 	0x protocol	| 	| | | | |
+| 	Open Relay	| 	[![alt text][web]](https://openrelay.xyz/) | | | `FULLY` `RELAY` | (developing - private alpha) | 0x protocol | | | | | |
 | Open Trading Network | [![alt text][web]](https://otn.org/) | [![alt text][github]](https://github.com/OpenTradingNetworkFoundation) | [![alt text][whitepaper]](https://otn.org/assets/resources/Open-Trading-Network-white-paper_en.pdf) |   | (developing) | otn protocol |   |   |   |   |   |
 | 	Orderbook	| 	[![alt text][web]](https://www.orderbook.io) | [![alt text][github]](https://github.com/Orderbookio)	| [![alt text][whitepaper]](https://ico.orderbook.io/files/orderbook_WP.pdf)  | | 	(released)	| 	ethereum protocol	| 	| | | | |
 | 	Paradex	| 	[![alt text][web]](https://app.paradex.io/) | [![alt text][github]](https://github.com/ParadexRelayer)	| | | 	(operating - beta)	| 	0x protocol	| 	| | | | |
