@@ -187,6 +187,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	| | | | |
 | 	Smart-Exchange	| 	|	| [![alt text][whitepaper]](https://debris.gitbooks.io/ethchange/content/) | | 	(developing - whitepaper)	| icap protocol | 	| | | | |
 | Snowglobe | [![alt text][web]](https://auroradao.com/faq/) |   |   |   | (developing) | snowglobe protocol | 2 | ERC20 Tokens | Ethereum | | |
+| Star Bit DEX | [![alt text][web]](https://starbitdex.com/) |   |   | `FULLY` `RELAY` | (developing) | 0x protocol |   |   |   |   |   |
 | Stellar | [![alt text][web]](https://www.stellar.org/developers/guides/concepts/exchange.html) | [![alt text][github]](https://github.com/stellar/stellar-protocol) | [![alt text][whitepaper]](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) |   | (live) | stellar consensus protocol | 2 | Stellar Assets | Stellar | | |
 | Stellarport | [![alt text][web]](https://stellarport.io/) |   |   |   | (operating) | stellar consensus protocol |   | | | | |
 | Stellarswap | [![alt text][web]](https://stellarswap.space/) | [![alt text][github]](https://github.com/jonasess/Stellarswap) |   |   | (operating) | stellar consensus protocol |   | | | | |
