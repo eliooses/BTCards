@@ -183,6 +183,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Saturn	| [![alt text][web]](https://saturn.network/)  | [![alt text][github]](https://github.com/rados-io)	| [![alt text][whitepaper]](https://whitepaper.saturn.network/) |  | 	(released)	| 	saturn protocol	| 2	| ERC20 Tokens - ERC223 Tokens | Ethereum | | |
 | 	SDEX	| 	[![alt text][web]](https://www.stellar.org/blog/2018-Stellar-Roadmap/) | | | | 	(developing)	| 	stellar consensus protocol	| 	| | | | |
 | 	Settle	| 	[![alt text][web]](https://settle.network/) | [![alt text][github]](https://github.com/spolu/settle/) | | | 	(developing)	| 	settle protocol	| 2	| | | | |
+| Shark Relay | [![alt text][web]](https://app.sharkrelay.com/) |   | [![alt text][whitepaper]](https://sharkrelay.com/#faq) | `FULLY` `RELAY` | (operating - kovan beta) | 0x protocol |   |   |   |   |   |
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	| | | | |
 | 	Smart-Exchange	| 	|	| [![alt text][whitepaper]](https://debris.gitbooks.io/ethchange/content/) | | 	(developing - whitepaper)	| icap protocol | 	| | | | |
 | Snowglobe | [![alt text][web]](https://auroradao.com/faq/) |   |   |   | (developing) | snowglobe protocol | 2 | ERC20 Tokens | Ethereum | | |
@@ -279,6 +280,7 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
  - **Decentralized Settlement**: `DSTT`
  - **Fully Decentralized**: `FULLY`
  - **Open Protocol**:   `OPRO`
+ - **Relayer**: `RELAY`
 
 If you know in details or are you the owner/dev of any DEX, please fill the column with all the codes that correspond creating an [issue](https://github.com/distribuyed/index/issues) or [pull request](https://github.com/distribuyed/index/pulls) to suggest changes to this file.
 
