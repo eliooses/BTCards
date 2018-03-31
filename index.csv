@@ -171,7 +171,7 @@ Shark Relay, https://app.sharkrelay.com/, , https://sharkrelay.com/#faq, FULLY-R
 SingularX, https://ex.singularx.com/, , , , (operating), TBC, , , , , 
 Smart-Exchange, , , https://debris.gitbooks.io/ethchange/content/, , (developing - whitepaper), icap protocol, , , , , 
 Snowglobe, https://auroradao.com/faq/, , , , (developing), snowglobe protocol, 2, ERC20 Tokens, Ethereum, , 
-Star Bit DEX, https://starbitdex.com/, , , FULLY-RELAY, (developing), 0x protocol, , , , , 
+Star Bit DEX, https://starbitdex.com/, https://github.com/TsungLi-Wang/Relayer, , FULLY-RELAY, (developing), 0x protocol, , , , , 
 Stellar, https://www.stellar.org/developers/guides/concepts/exchange.html, https://github.com/stellar/stellar-protocol, https://www.stellar.org/papers/stellar-consensus-protocol.pdf, , (developing), stellar consensus protocol, 2, Stellar Assets, Stellar, , 
 Stellarport, https://stellarport.io/, , , , (operating), stellar consensus protocol, , , , , 
 Stellarswap, https://stellarswap.space/, https://github.com/jonasess/Stellarswap, , , (operating), stellar consensus protocol, , , , , 
