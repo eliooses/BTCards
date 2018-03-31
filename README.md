@@ -86,7 +86,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | DUBIex |  [![alt text][web]](https://dubiex.com/) | [![alt text][github]](https://github.com/nionis/dubiex/) |  |   | (operating) | TBC |   |   |   |   |   |
 | 	DutchX	| 	 | [![alt text][github]](https://github.com/gnosis/dutch-exchange)	| | | 	(developing)	| 	dutch auction principle protocol	| 	| | | | |
 | 	dYdX	| [![alt text][web]](https://dydx.exchange/) | | [![alt text][whitepaper]](https://whitepaper.dydx.exchange/) | | 	(developing)	| 	dYdX protocol	| 5	| ERC20 Tokens - Dydx Derivatives (Option - Short Sell) | Ethereum | | |
-| 	EasyTrade	| 	[![alt text][web]](https://easytrade.io/) |	| | | 	(operating)	| 	0x protocol	|	| | | | |
+| 	EasyTrade	| 	[![alt text][web]](https://easytrade.io/) |	| | `FULLY` | 	(operating)	| 	0x protocol	|	| | | | |
 | Eidoo | [![alt text][web]](https://eidoo.io/) | [![alt text][github]](https://github.com/eidoo) | [![alt text][whitepaper]](https://eidoo.io/white-paper/) | `DCD` | (operating) | multi protocol | 3 | | | | |
 | 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) | [![alt text][github]](https://github.com/enigmampc/)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_full.pdf) | | 	(proposed)	| 	enigma protocol	| 2	| All | All | | |
 | 	EOSfinex	| 	[![alt text][web]](https://eosfinex.com/) |	| | | 	(developing)	| 	eos protocol	| 	| | | | |
