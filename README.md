@@ -71,6 +71,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Dether	| 	[![alt text][web]](https://dether.io/) | [![alt text][github]](https://github.com/dethertech)	| [![alt text][whitepaper]](https://whitepaper.dether.io/) | | 	(developing)	| 	TBC	| 6	| | | | |
 | Deviant DEX | [![alt text][web]](http://deviantcoin.io/) | [![alt text][github]](https://github.com/Deviantcoin) |   |   | [(announced)](https://twitter.com/DeviantCoin/status/962108577157562368/) | TBC |   | | | | |
 | DEX |   | [![alt text][github]](https://github.com/ltfschoen/dex) |   |   | (developing) | 0x protocol |   | | | | |
+| Dexex | [![alt text][web]](https://www.dexlab.io/) | [![alt text][github]](https://github.com/dexlab-io) |   |   | (developing) | 0x protocol |   |   |   |   |   |
 | dex-simple |   | [![alt text][github]](https://github.com/treverson/dex-simple) |   |   | (prototype) | TBC |   |   |   |   |   |
 | 	Dextroid	| 	[![alt text][web]](https://www.dextroid.io/) |	| | | 	(operating - beta)	| 	0x protocol	| 	| | | | |
 | DEXY | [![alt text][web]](https://www.dexy.exchange/) | [![alt text][github]](https://github.com/DexyProject) |   | `DOB` | (developing) | decentralized exchange protocol |   | | | | |
