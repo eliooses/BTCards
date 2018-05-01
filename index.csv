@@ -167,7 +167,7 @@ SAFEX, , https://github.com/dallyshalla/safex-while/, , , (released), safex prot
 Saturn, https://saturn.network/,  https://github.com/rados-io, https://whitepaper.saturn.network/, , (released), saturn protocol, 2, ERC20 Tokens - ERC223 Tokens, Ethereum, , 
 SDEX, https://www.stellar.org/blog/2018-Stellar-Roadmap/, , , , (dev), stellar consensus protocol, , , , , 
 Settle, https://settle.network/, https://github.com/spolu/settle/, , , (dev), settle protocol, 2, , , , 
-Shark Relay, https://app.sharkrelay.com/, , https://sharkrelay.com/#faq, FULLY-RELAY, (operating - kovan beta), 0x protocol, , , , , 
+Shark Relay, https://app.sharkrelay.com/, , https://sharkrelay.com/#faq, FULLY-RELAY, (operating - beta), 0x protocol, , , , , 
 SingularX, https://ex.singularx.com/, , , , (operating), TBC, , , , , 
 Smart-Exchange, , , https://debris.gitbooks.io/ethchange/content/, , (dev - whitepaper), icap protocol, , , , , 
 Snowglobe, https://auroradao.com/faq/, , , , (dev), snowglobe protocol, 2, ERC20 Tokens, Ethereum, , 
