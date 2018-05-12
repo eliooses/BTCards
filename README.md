@@ -32,7 +32,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | ATUM | [![alt text][web]](https://atumchain.com/) |   |   |   | (dev) | cross-chain (NEM) |   | | | | |
 | 	B&C Exchange	| 	[![alt text][web]](https://bcexchange.org) | [![alt text][github]](https://bitbucket.org/JordanLeePeershares/bcexchange/src) | [![alt text][whitepaper]](https://bcexchange.org/assets/Blocks_&_Chains_Decentralized_Exchange.pdf) | | 	(operating)	| 	bcexchange protocol	| 	| | | | |
 | 	b0x	| 	[![alt text][web]](https://b0x.network/) | [![alt text][github]](https://github.com/b0xNetwork) | [![alt text][whitepaper]](https://b0x.network/pdfs/b0x_white_paper.pdf) | | 	(dev - TGE expected Q2 2018)	| 	b0x protocol (margin lending/trading and oracle marketplace)	| 	| | | | |
-| 	Bamboo Relay	| 	[![alt text][web]](http://bamboorelay.com/)| | | 	(dev)	| 	0x protocol	| 	| | | | |
+| 	Bamboo Relay	| 	[![alt text][web]](http://bamboorelay.com/)| | | 	(operating)	| 	0x protocol	| 	| ERC20 Tokens | Ethereum | | |
 | 	Bancor	| 	[![alt text][web]](https://app.bancor.network/discover) | [![alt text][github]](https://github.com/bancorprotocol/)	| [![alt text][whitepaper]](https://about.bancor.network/Whitepaper) | | 	(live)	| 	bancor protocol	| 	| ERC20 Tokens | Ethereum | | |
 | 	BarterDEX	| [![alt text][web]](http://barterdex.com)	 | [![alt text][github]](https://github.com/KomodoPlatform/BarterDEX)	| [![alt text][whitepaper]](https://www.komodoplatform.com/en/technology/whitepaper/2018-02-03-Komodo-White-Paper-Full.pdf) | `FULLY` | 	(operating)	| 	barterdex protocol	| 	| | | | |
 | 	Bibox DEX	| 	[![alt text][web]](https://www.bibox.com/) | [![alt text][github]](https://github.com/Biboxcom)	| | | 	[(announced)](https://steemit.com/bibox/@geonardlc/bibox-ai-driven-decentralized-digital-asset-exchange-platform)	| 	TBC	| 12 | | | | |
@@ -187,6 +187,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	SDEX	| 	[![alt text][web]](https://www.stellar.org/blog/2018-Stellar-Roadmap/) | | | | 	(dev)	| 	stellar consensus protocol	| 	| | | | |
 | 	Settle	| 	[![alt text][web]](https://settle.network/) | [![alt text][github]](https://github.com/spolu/settle/) | | | 	(dev)	| 	settle protocol	| 2	| | | | |
 | Shark Relay | [![alt text][web]](https://app.sharkrelay.com/) |   | [![alt text][whitepaper]](https://sharkrelay.com/#faq) | `FULLY` `RELAY` | (operating - beta) | 0x protocol |   |   |   |   |   |
+| Simpledex | [![alt text][web]](https://simpledex.io/exchange) |	| | | 	(dev)	| 	0x protocol	|	| ERC20 Tokens | Ethereum | | |
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	| | | | |
 | 	Smart-Exchange	| 	|	| [![alt text][whitepaper]](https://debris.gitbooks.io/ethchange/content/) | | 	(dev - whitepaper)	| icap protocol | 	| | | | |
 | Snowglobe | [![alt text][web]](https://auroradao.com/faq/) |   |   |   | (dev) | snowglobe protocol | 2 | ERC20 Tokens | Ethereum | | |
