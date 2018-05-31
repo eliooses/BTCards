@@ -93,9 +93,11 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) | [![alt text][github]](https://github.com/enigmampc/)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_full.pdf) | | 	(proposed)	| 	enigma protocol	| 2	| All | All | | |
 | 	EOSfinex	| 	[![alt text][web]](https://eosfinex.com/) |	| | | 	(dev)	| 	eos protocol	| 	| | | | |
 | 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
-| 	Ethen Market	| 	[![alt text][web]](https://ethen.market) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
+| 	Ethen Market	| 	[![alt text][web]](https://ethen.market) |	| | | 	(operating)	| 	0x protocol	| 	| | | | Maker fee 0%
+Taker fee 0.25% minimum order size is 0.001 ETH |
 | 	Etherc	| 	[![alt text][web]](https://etherc.io/) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
-| 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) |	| | | 	(operating)	| 	on-chain protocol	| 	| | | | |
+| 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) |	| | | 	(operating)	| 	on-chain protocol	| 	| | | | Maker fee 0%
+Taker fee 0.3% |
 | 	EtherEx	| 	[![alt text][web]](http://etherex.github.io/etherex) | [![alt text][github]](https://github.com/etherex/etherex)	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	EtherFlyer	| 	[![alt text][web]](https://www.etherflyer.com/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	EtheRoox	| 	[![alt text][web]](http://etheroox.com) | [![alt text][github]](https://github.com/ynzheng/etheroox.github.io)	| | | 	(dev)	| 	TBC	| 	| | | | |
@@ -109,7 +111,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | Expread | [![alt text][web]](http://expread.io/) |   | [![alt text][whitepaper]](http://expread.io/home/EXPREAD_WhitePaper_Version2.1-final.compressed.pdf) |   | (dev) | payment channels protocol |   | | | | |
 | FairX | [![alt text][web]](https://fairx.io/) | [![alt text][github]](https://github.com/fairxio/) | [![alt text][whitepaper]](https://github.com/fairxio/docs) |   | (dev) | stellar consensus protocol | 6 | | | | |
 | 	Flipper0x	| 	[![alt text][web]](https://flipper0x.io/) |	| | | 	(dev)	| 	0x protocol	| 	| | | | |
-| 	Forkdelta	| 	[![alt text][web]](https://forkdelta.github.io) |	[![alt text][github]](https://github.com/forkdelta/) | | | 	(operating)	| 	on-chain protocol	| 	| | | | |
+| 	Forkdelta	| 	[![alt text][web]](https://forkdelta.github.io) |	[![alt text][github]](https://github.com/forkdelta/) | | | 	(operating)	| 	on-chain protocol	| 	| | | | Maker fee 0% Taker fee 0.3% |
 | 	Freedom Dex	| 	[![alt text][web]](https://freedomdex.io/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	Freedom Ledger	| 	[![alt text][web]](https://www.freedomledger.com/) |	| | | 	(dev)	| 	bitshares protocol (DPOS)	| 	| | | | |
 | Fusion | [![alt text][web]](https://fusion.org/) | [![alt text][github]](https://github.com/FUSIONFoundation/) | [![alt text][whitepaper]](https://fusion.org/files/FUSION%20Whitepaper%20V1.0.3.pdf) |   | (dev) | fusion protocol | 2 | | | | |
