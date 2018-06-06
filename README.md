@@ -305,7 +305,11 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 ## **About this list**:
 
- - [#inDEX PR @ Medium](https://medium.com/@oseselio/index-a-comprehensive-list-of-decentralized-exchanges-cf4985c79d7e) 
+ - [#inDEX PR @ Medium](https://medium.com/@oseselio/index-a-comprehensive-list-of-decentralized-exchanges-cf4985c79d7e)
+ 
+## **Index News**:
+
+ - [#inDEX PR @ NewsBTC](https://www.newsbtc.com/2018/06/05/dozens-decentralized-exchanges-making-mark-cryptocurrency-industry)
 
 ## License
 
