@@ -58,7 +58,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Counterparty DEX | 	[![alt text][web]](https://wallet.counterwallet.io/#pages/exchange.html) | [![alt text][github]](https://github.com/CounterpartyXCP/)	| | | 	(operating)	| 	counterparty protocol	|	| Bitcoin - Counterparty Tokens | Bitcoin | | |
 | 	CoX | 	 | [![alt text][github]](https://github.com/SmartChainX/CoX-SmartContracts)	| | | 	(dev)	| 	cox protocol	|	| | | | |
 | 	Crypto Bridge	| 	[![alt text][web]](https://wallet.crypto-bridge.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	| | | | |
-| 	CryptoDerivatives	| 	[![alt text][web]](https://cryptoderivatives.market) | [![alt text][github]](https://github.com/bokkypoobah/TokenTrader)	| | | 	(operating)	| 	TBC 	| 	| | | | |
+| 	CryptoDerivatives	| 	[![alt text][web]](https://cryptoderivatives.market) | [![alt text][github]](https://github.com/bokkypoobah/TokenTrader)	| | | 	(operating)	| 	on-chain 	| 	| | Ethereum | | |
 | 	Cybex	| 	[![alt text][web]](https://dex.cybex.io/) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 	| | | | |
 |  DC-Ex	| 	[![alt text][web]](https://www.dc-ex.com/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	DDEX	| 	[![alt text][web]](https://ddex.io/trade/) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
