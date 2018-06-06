@@ -178,6 +178,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Radex	| 	[![alt text][web]](https://exchange.rados.io) | [![alt text][github]](https://github.com/rados-io/radex)	| | | 	(operating - alpha)	| 	saturn protocol	|	| | | | |
 | 	Raiden	| 	[![alt text][web]](https://raiden.network/) |  [![alt text][github]](https://github.com/raiden-network/raiden/) | [![alt text][whitepaper]](https://raiden.network/101.html) | | 	(dev)	| 	raiden protocol	| 2	| ERC20 Tokens | Ethereum | | |
 | 	Raidex	| 	[![alt text][web]](https://www.raidex.io/) |	| | | 	(dev)	| 	raiden protocol	|	| | | | |
+| 	Rektex	| 	[![alt text][web]](https://rektex.github.io/) | [![alt text][github]](https://github.com/Rektex)	| | | 	(operating)	| 	on-chain protocol	| 	| | | | |
 | 	Relayer Network	| 	[![alt text][web]](https://relayer.network/) |	| | | 	(dev)	| 	0x protocol (modular trade networks)	|	| | | | |
 | 	Republic Protocol	| [![alt text][web]](https://republicprotocol.com/) | [![alt text][github]](https://github.com/republicprotocol/)	| [![alt text][whitepaper]](https://republicprotocol.github.io/whitepaper/republic-whitepaper.pdf) | | 	(released)	| 	republic protocol	| 2	| | | | |
 | 	RigoBlock	| [![alt text][web]](https://rigoblock.com/) |	| | | 	(operating with issues)	| 	rigoblock protocol	| | | | | |
