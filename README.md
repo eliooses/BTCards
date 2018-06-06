@@ -91,6 +91,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) | [![alt text][github]](https://github.com/enigmampc/)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_full.pdf) | | 	(proposed)	| 	enigma protocol	| 2	| All | All | | |
 | 	EOSfinex	| 	[![alt text][web]](https://eosfinex.com/) |	| | | 	(dev)	| 	eos protocol	| 	| | | | |
 | 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
+| 	ETHERC	| 	[![alt text][web]](https://etherc.io/) | [![alt text][github]](https://github.com/ETHERCIO)	| [![alt text][whitepaper]](https://medium.com/@etherc_io/) | `FULLY` | 	(operating)	| 	on-chain protocol	| 	| | | | |
 | 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) |	| | | 	(operating)	| 	on-chain protocol	| 	| | | | |
 | 	EtherEx	| 	[![alt text][web]](http://etherex.github.io/etherex) | [![alt text][github]](https://github.com/etherex/etherex)	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	EtherFlyer	| 	[![alt text][web]](https://www.etherflyer.com/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
