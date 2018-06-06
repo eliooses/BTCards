@@ -65,7 +65,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	DEAL	| 	 |	| [![alt text][whitepaper]](https://aphelion.org/wp.html) | | 	(dev)	| 	deal protocol	| 2	| NEO Assets | NEO | | |
 | 	Decred	| 	[![alt text][web]](https://www.decred.org/) | [![alt text][github]](https://github.com/decred/atomicswap/)	| [![alt text][whitepaper]](https://github.com/decred/atomicswap/blob/master/README.md) | | (operating)	| 	decred cross-chain atomic swapping protocol	| 	| | | | |
 | 	Deex	| 	[![alt text][web]](https://deex.exchange/) |	| | | 	(dev)	| 	bitshares protocol (Graphene)	| 	| | | | |
-| 	DECENT EX	| 	[![alt text][web]](https://decent.exchange/) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
+| 	DECENT EX	| 	[![alt text][web]](https://decent.exchange/) |	| | | 	(operating - beta)	| 	0x protocol	| 	| | Ethereum | | |
 | Decentral Exchange | [![alt text][web]](http://decentral.exchange/) | [![alt text][github]](https://github.com/decentral-exchange/decentral-exchange.github.io) |   |   | (dead) | TBC |   | | | | |
 | 	DecentralizedEXchange	| | [![alt text][github]](https://github.com/Dexaran/DecentralizedEXchange) | | | 	(dev)	| 	TBC	| 	| | | | |
 | 	DECENTREX	| 	[![alt text][web]](https://decentrex.com/) |	| | | 	(will be shutdown on 30 December 2017)	| 	on-chain protocol	| 	| | | | |
