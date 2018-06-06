@@ -95,7 +95,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
 | 	Ethen Market	| 	[![alt text][web]](https://ethen.market) | [![alt text][github]](https://github.com/ethenmarket)	| | `FULLY` | (operating)	| 	0x protocol	| 	| | Ethereum | | |
 | 	ETHERC	| 	[![alt text][web]](https://etherc.io/) | [![alt text][github]](https://github.com/ETHERCIO)	| [![alt text][whitepaper]](https://medium.com/@etherc_io/) | `FULLY` | 	(operating)	| 	on-chain protocol	| 	| | | | |
-| 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) |	| | | 	(operating)	| 	on-chain protocol	| 	| | | | |
+| 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) | [![alt text][github]](https://github.com/etherdelta/etherdelta.github.io)	| | `FULLY` | 	(operating)	| 	on-chain protocol	| Ethereum	| | | | |
 | 	EtherEx	| 	[![alt text][web]](http://etherex.github.io/etherex) | [![alt text][github]](https://github.com/etherex/etherex)	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	EtherFlyer	| 	[![alt text][web]](https://www.etherflyer.com/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	EtheRoox	| 	[![alt text][web]](http://etheroox.com) | [![alt text][github]](https://github.com/ynzheng/etheroox.github.io)	| | | 	(dev)	| 	TBC	| 	| | | | |
