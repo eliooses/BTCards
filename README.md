@@ -11,7 +11,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
  - **eth**: 0x81404BE6B9d46554ADAbCc7599967cF157720d31
  - **btc**: 1HUwxzaNoo1Qdw9Sh5esHhAf5FXFZ7tk8N
  
-Many thanks to all the contributors, especially to @amisolution for all their contributions.
+Many thanks to all the contributors, especially to [@amisolution](https://github.com/amisolution/) for all their contributions.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
