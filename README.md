@@ -110,6 +110,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | FairX | [![alt text][web]](https://fairx.io/) | [![alt text][github]](https://github.com/fairxio/) | [![alt text][whitepaper]](https://github.com/fairxio/docs) |   | (dev) | stellar consensus protocol | 6 | | | | |
 | 	Flipper0x	| 	[![alt text][web]](https://flipper0x.io/) |	| | | 	(dev)	| 	0x protocol	| 	| | | | |
 | 	Forkdelta	| 	[![alt text][web]](https://forkdelta.github.io) |	[![alt text][github]](https://github.com/forkdelta/) | | | 	(operating)	| 	on-chain protocol	| 	| | | | |
+| 	Freedom Dex	| 	[![alt text][web]](https://freedomdex.io/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	Freedom Ledger	| 	[![alt text][web]](https://www.freedomledger.com/) |	| | | 	(dev)	| 	bitshares protocol (DPOS)	| 	| | | | |
 | Fusion | [![alt text][web]](https://fusion.org/) | [![alt text][github]](https://github.com/FUSIONFoundation/) | [![alt text][whitepaper]](https://fusion.org/files/FUSION%20Whitepaper%20V1.0.3.pdf) |   | (dev) | fusion protocol | 2 | | | | |
 | 	GDEX	| 	[![alt text][web]](https://www.gdex.io/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	| | | | |
