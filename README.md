@@ -168,6 +168,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Prime |	[![alt text][web]](https://getprime.org/) | [![alt text][github]](https://github.com/hitchhiker/prime) | | |	(dev - pre-alpha) |	TBC |	 | | | | |
 | 	Prism	| 	[![alt text][web]](https://prism.exchange) |	| | | 	(dev - invite-only beta)	| 	TBC	| 	| | | | |
 | QTUM DEX |   |   |   |   | [(announced)](https://medium.com/@switcheo/switcheo-progress-update-4c6eb114741f) | qtum protocol |   | | | | |
+| QUANTA	| 	[![alt text][web]](https://quantadex.com/) |	| [![alt text][whitepaper]](https://quantadex.com/whitepaper) | `FULLY` | 	(dev)	| 	TBC	| 	| | | | |
 | 	Radar Relay	| 	[![alt text][web]](https://app.radarrelay.com/) | [![alt text][github]](https://github.com/RadarRelay)	| | `ACL` `DCD` | 	(operating - beta)	| 	0x protocol	| 	| | | | |
 | 	Radex	| 	[![alt text][web]](https://exchange.rados.io) | [![alt text][github]](https://github.com/rados-io/radex)	| | | 	(operating - alpha)	| 	saturn protocol	|	| | | | |
 | 	Raiden	| 	[![alt text][web]](https://raiden.network/) |  [![alt text][github]](https://github.com/raiden-network/raiden/) | [![alt text][whitepaper]](https://raiden.network/101.html) | | 	(dev)	| 	raiden protocol	| 2	| ERC20 Tokens | Ethereum | | |
