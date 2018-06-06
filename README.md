@@ -65,7 +65,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	DEAL	| 	 |	| [![alt text][whitepaper]](https://aphelion.org/wp.html) | | 	(dev)	| 	deal protocol	| 2	| NEO Assets | NEO | | |
 | 	Decred	| 	[![alt text][web]](https://www.decred.org/) | [![alt text][github]](https://github.com/decred/atomicswap/)	| [![alt text][whitepaper]](https://github.com/decred/atomicswap/blob/master/README.md) | | (operating)	| 	decred cross-chain atomic swapping protocol	| 	| | | | |
 | 	Deex	| 	[![alt text][web]](https://deex.exchange/) |	| | | 	(dev)	| 	bitshares protocol (Graphene)	| 	| | | | |
-| 	DECENT EX	| 	[![alt text][web]](https://decent.exchange/) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
+| 	DECENT EX	| 	[![alt text][web]](https://decent.exchange/) |	| | | 	(dev)	| 	0x protocol	| 	| | | | |
 | Decentral Exchange | [![alt text][web]](http://decentral.exchange/) | [![alt text][github]](https://github.com/decentral-exchange/decentral-exchange.github.io) |   |   | (dead) | TBC |   | | | | |
 | 	DecentralizedEXchange	| | [![alt text][github]](https://github.com/Dexaran/DecentralizedEXchange) | | | 	(dev)	| 	TBC	| 	| | | | |
 | 	DECENTREX	| 	[![alt text][web]](https://decentrex.com/) |	| | | 	(will be shutdown on 30 December 2017)	| 	on-chain protocol	| 	| | | | |
@@ -95,7 +95,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
 | 	Ethen Market	| 	[![alt text][web]](https://ethen.market) |	| | | 	(operating)	| 	0x protocol	| 	| | Ethereum | | Taker fee 0.25% minimum order size is 0.001 ETH |
 | 	Etherc	| 	[![alt text][web]](https://etherc.io/) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
-| 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) |	| | | 	(operating)	| 	on-chain protocol	| 	| | Ethereum | | Taker fee 0.3% |
+| 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) |	[![alt text][github]](https://github.com/etherdelta/etherdelta.github.io) | | | 	(operating)	| 	on-chain protocol	| 	| | Ethereum | | Taker fee 0.3% |
 | 	EtherEx	| 	[![alt text][web]](http://etherex.github.io/etherex) | [![alt text][github]](https://github.com/etherex/etherex)	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	EtherFlyer	| 	[![alt text][web]](https://www.etherflyer.com/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	EtheRoox	| 	[![alt text][web]](http://etheroox.com) | [![alt text][github]](https://github.com/ynzheng/etheroox.github.io)	| | | 	(dev)	| 	TBC	| 	| | | | |
