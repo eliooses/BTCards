@@ -58,14 +58,14 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	Counterparty DEX | 	[![alt text][web]](https://wallet.counterwallet.io/#pages/exchange.html) | [![alt text][github]](https://github.com/CounterpartyXCP/)	| | | 	(operating)	| 	counterparty protocol	|	| Bitcoin - Counterparty Tokens | Bitcoin | | |
 | 	CoX | 	 | [![alt text][github]](https://github.com/SmartChainX/CoX-SmartContracts)	| | | 	(dev)	| 	cox protocol	|	| | | | |
 | 	Crypto Bridge	| 	[![alt text][web]](https://wallet.crypto-bridge.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	| | | | |
-| 	CryptoDerivatives	| 	[![alt text][web]](https://cryptoderivatives.market) | [![alt text][github]](https://github.com/bokkypoobah/TokenTrader)	| | | 	(operating)	| 	TBC 	| 	| | | | |
+| 	CryptoDerivatives	| 	[![alt text][web]](https://cryptoderivatives.market) | [![alt text][github]](https://github.com/bokkypoobah/TokenTrader)	| | | 	(operating)	| 	on-chain 	| 	| | Ethereum | | |
 | 	Cybex	| 	[![alt text][web]](https://dex.cybex.io/) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 	| | | | |
 |  DC-Ex	| 	[![alt text][web]](https://www.dc-ex.com/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	DDEX	| 	[![alt text][web]](https://ddex.io/trade/) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
 | 	DEAL	| 	 |	| [![alt text][whitepaper]](https://aphelion.org/wp.html) | | 	(dev)	| 	deal protocol	| 2	| NEO Assets | NEO | | |
 | 	Decred	| 	[![alt text][web]](https://www.decred.org/) | [![alt text][github]](https://github.com/decred/atomicswap/)	| [![alt text][whitepaper]](https://github.com/decred/atomicswap/blob/master/README.md) | | (operating)	| 	decred cross-chain atomic swapping protocol	| 	| | | | |
 | 	Deex	| 	[![alt text][web]](https://deex.exchange/) |	| | | 	(dev)	| 	bitshares protocol (Graphene)	| 	| | | | |
-| 	DECENT EX	| 	[![alt text][web]](https://decent.exchange/) |	| | | 	(dev)	| 	0x protocol	| 	| | | | |
+| 	DECENT EX	| 	[![alt text][web]](https://decent.exchange/) |	| | | 	(operating - beta)	| 	0x protocol	| 	| | Ethereum | | |
 | Decentral Exchange | [![alt text][web]](http://decentral.exchange/) | [![alt text][github]](https://github.com/decentral-exchange/decentral-exchange.github.io) |   |   | (dead) | TBC |   | | | | |
 | 	DecentralizedEXchange	| | [![alt text][github]](https://github.com/Dexaran/DecentralizedEXchange) | | | 	(dev)	| 	TBC	| 	| | | | |
 | 	DECENTREX	| 	[![alt text][web]](https://decentrex.com/) |	| | | 	(will be shutdown on 30 December 2017)	| 	on-chain protocol	| 	| | | | |
@@ -128,7 +128,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	IDT Exchange	| 	[![alt text][web]](https://trade.idtexchange.com/) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
 | 	Inbest Network	| 	[![alt text][web]](https://www.inbest.network/) |	| | | 	(ICO)	| 	inbest protocol	| 4	| | | | |
 | Infinity | [![alt text][web]](https://www.hycon.io/) | [![alt text][github]](https://github.com/Team-Hycon) | [![alt text][whitepaper]](https://www.hycon.io/doc/whitepaper_en.pdf) |   | (dev) | spectre protocol |   |   |   |   |   |
-| Instex | [![alt text][web]](https://app.instex.io/)|	| | | 	(dev)	| 	0x protocol	| 	| | | | |
+| Instex | [![alt text][web]](https://app.instex.io/)|	| | | (operating)	| 	0x protocol	| 	| | Ethereum | | |
 | 	Javvy	| 	[![alt text][web]](https://javvy.com/) | [![alt text][github]](https://github.com/javvycrypto)	| [![alt text][whitepaper]](https://javvy.com/wp-content/uploads/2017/09/javvy_crypto-solution-white-paper.pdf) | | 	(dev)	| 	TBC	| 	| | | | |
 | 	JOYSO	| 	[![alt text][web]](https://joyso.io/) |	| | | 	(ICO)	| 	hex protocol	| 3	| | | | |
 | Komodo | [![alt text][web]](https://www.komodoplatform.com/) | [![alt text][github]](https://github.com/KomodoPlatform) | [![alt text][whitepaper]](https://www.komodoplatform.com/en/whitepaper/2018-02-14-Komodo-White-Paper-Full.pdf) |   | (dev) | komodo protocol | 2 | N/A | Komodo | | |
