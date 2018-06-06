@@ -192,6 +192,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	SDEX	| 	[![alt text][web]](https://www.stellar.org/blog/2018-Stellar-Roadmap/) | | | | 	(dev)	| 	stellar consensus protocol	| 	| | | | |
 | 	Settle	| 	[![alt text][web]](https://settle.network/) | [![alt text][github]](https://github.com/spolu/settle/) | | | 	(dev)	| 	settle protocol	| 2	| | | | |
 | Shark Relay | [![alt text][web]](https://app.sharkrelay.com/) |   | [![alt text][whitepaper]](https://sharkrelay.com/#faq) | `FULLY` `RELAY` | (operating - beta) | 0x protocol |   |   |   |   |   |
+| SimpleDEX | [![alt text][web]](https://simpledex.io/exchange) |	| | | 	(dev)	| 	0x protocol	|	| ERC20 Tokens | Ethereum | | |
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	| | | | |
 | 	Smart-Exchange	| 	|	| [![alt text][whitepaper]](https://debris.gitbooks.io/ethchange/content/) | | 	(dev - whitepaper)	| icap protocol | 	| | | | |
 | Snowglobe | [![alt text][web]](https://auroradao.com/faq/) |   |   |   | (dev) | snowglobe protocol | 2 | ERC20 Tokens | Ethereum | | |
