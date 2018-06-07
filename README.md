@@ -326,13 +326,17 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 # **DECENTRALIZATION RESOURCES**: 
 
-## DEX Trackers Statistics
-
-[https://etherscan.io/stat/dextracker](https://etherscan.io/stat/dextracker)
-
-## DEX ORDER BOOKS LISTING
+## DEX Order Books:
 
 [https://etherscan.io/orderbooks](https://etherscan.io/orderbooks)
+
+## DEX Order Tracker:
+
+[https://etherscan.io/dextracker](https://etherscan.io/dextracker)
+
+## DEX Trackers Statistics:
+
+[https://etherscan.io/stat/dextracker](https://etherscan.io/stat/dextracker)
 
 ## Protocols for Decentralized Exchange
 
