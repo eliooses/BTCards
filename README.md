@@ -326,6 +326,14 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 # **DECENTRALIZATION RESOURCES**: 
 
+## DEX Trackers Statistics
+
+[https://etherscan.io/stat/dextracker](https://etherscan.io/stat/dextracker)
+
+## DEX ORDER BOOKS LISTING
+
+[https://etherscan.io/orderbooks](https://etherscan.io/orderbooks)
+
 ## Protocols for Decentralized Exchange
 
 [List of protocols for peer-to-peer exchange of cryptographic assets without a central entity: ](https://github.com/evbots/dex-protocols)
