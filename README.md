@@ -95,7 +95,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) | [![alt text][github]](https://github.com/enigmampc/)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_full.pdf) | | 	(proposed)	| 	enigma protocol	| 2	| All | All | | |
 | 	EOSfinex	| 	[![alt text][web]](https://eosfinex.com/) |	| | | 	(dev)	| 	eos protocol	| 	| | | | |
 | 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
-| 	Ethen Market	| 	[![alt text][web]](https://ethen.market) | [![alt text][github]](https://github.com/ethenmarket)	| | `FULLY` | (operating)	| 	on-chain protocol	| 3	| ERC20 Tokens | Ethereum | | |
+| 	Ethen Market	| 	[![alt text][web]](https://ethen.market) | [![alt text][github]](https://github.com/ethenmarket)	| | | (operating)	| 	on-chain protocol	| 3	| ERC20 Tokens | Ethereum | | |
 | 	ETHERC	| 	[![alt text][web]](https://etherc.io/) | [![alt text][github]](https://github.com/ETHERCIO)	| [![alt text][whitepaper]](https://medium.com/@etherc_io/) | `FULLY` | 	(operating)	| 	on-chain protocol	| 	| | | | |
 | 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) | [![alt text][github]](https://github.com/etherdelta/etherdelta.github.io)	| | `FULLY` | 	(operating)	| 	on-chain protocol	| Ethereum	| | | | |
 | 	EtherEx	| 	[![alt text][web]](http://etherex.github.io/etherex) | [![alt text][github]](https://github.com/etherex/etherex)	| | | 	(operating)	| 	TBC	| 	| | | | |
