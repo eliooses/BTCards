@@ -212,6 +212,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Tettix | [![alt text][web]](https://tettix.io/) | [![alt text][github]](https://github.com/Tettix/) | [![alt text][whitepaper]](https://medium.com/@TettixDev/details-of-tettix-e5c9f310fa41) | `FULLY` | (dead) | tettix mechanism protocol |   | | | | |
 | 	The 0cean	| 	[![alt text][web]](https://the0cean.com/) |	| | | 	(private beta)	| 	0x protocol	| 	| | | | |
 | 	The World Exchange	| 	[![alt text][web]](https://www.theworldexchange.net/) | [![alt text][github]](https://github.com/pftq/TheWorldExchange/)	| | | 	(operating)	| 	ripple protocol	| 	| | | | |
+| 	Tokena | 	[![alt text][web]](https://tokena.co/) |	| | | 	(dev)	| TBC	| 	| | EOS | | |
 | Token Changer | [![alt text][web]](http://tokenchanger.io/) |   | [![alt text][whitepaper]](https://medium.com/tokenchanger/token-changer-whitepaper-18c0e7227c25) |   | (dev) | multi protocol |   | | | | |
 | Token Jar | [![alt text][web]](https://tokenjar.io/) |   |   | `FULLY` | (operating - kovan test) | 0x protocol |   |   |   |   |   |
 | Tokenlon | [![alt text][web]](https://tokenlon.token.im/tokenlon) | [![alt text][github]](https://github.com/consenlabs/tokenlon-sdk)  |   | `FULLY` | (operating) | 0x protocol & Kyber.Network protocol |   |   |   |   |   |
