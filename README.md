@@ -157,6 +157,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | MinexDEX | [![alt text][web]](https://minexcoin.com/) | [![alt text][github]](https://github.com/minexcoin) |   |   | [(announced)](https://medium.com/minecoin-blog/mnx-upgrade-roadmap-2018-ed9b01c258cf) | atomic swap |   | | | | |
 | 	Mobidex	| 	[![alt text][web]](http://mobidex.io/) |	| | | 	(dev - private alpha)	| 	0x protocol	| 	| | | | |
 | 	Mothership	| 	[![alt text][web]](https://mothership.cx/) |	| | | 	(dev)	| 	TBC	| 	| | | | |
+| 	MoonDEX	| 	[![alt text][web]](http://moondex.org/) | [![alt text][github]](https://github.com/Moondex)	| | | 	(dev)	| 	TBC	| 	| | | | |
 | 	MyEtherSwap	| 	[![alt text][web]](https://www.myetherswap.com/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	NEX	| 	[![alt text][web]](https://neonexchange.org/) |	| | | 	(dev - launch Q3 2018)	| 	off-chain protocol	| 	| | | | |
 | 	NextExchange	| 	[![alt text][web]](https://next.exchange/) | [![alt text][github]](https://github.com/NextExchange)	| [![alt text][whitepaper]](https://next.exchange/whitepaper) | | 	(dev)	| 	0x	| 	| | | | |
