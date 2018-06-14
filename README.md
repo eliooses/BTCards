@@ -109,6 +109,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Ethfinex	| 	[![alt text][web]](https://www.ethfinex.com/) |	| | | 	(private beta)	| 	multi protocol	| 4	| | | | |
 | 	Ethos 	| [![alt text][web]](https://www.ethos.io/) |   | [![alt text][whitepaper]](http://www.ethos.io/Ethos_Whitepaper.pdf) | `DCD` `DS` | (dev) | multi protocol (0x - atomic swap) | 6 | | | | |
 | 	EthRoox	| 	[![alt text][web]](https://etheroox.com/) |	| | | 	(operating with issues)	| 	TBC	| 	| | | | |
+| 	everbloom	| 	[![alt text][web]](http://everbloom.co/) |	| | | 	(dev)	| 	multi-protocol	| 	| | Ethereum | | |
 | 	ExchangeN	| 	[![alt text][web]](http://www.exchangen.com/) |	| | | 	(operating with issues)	| 	TBC	| 	| | | | |
 | 	Exchange Union	| 	[![alt text][web]](https://www.exchangeunion.com) | [![alt text][github]](https://github.com/exchangeunion)	| [![alt text][whitepaper]](https://api.exchangeunion.com/pdf/en/ExchangeUnion-WhitePaper.pdf) | `DS` `DOB` `DD` `OPRO` | 	(dev)	| 	exchange union protocol	| 	| All | All | | |
 | Expread | [![alt text][web]](http://expread.io/) |   | [![alt text][whitepaper]](http://expread.io/home/EXPREAD_WhitePaper_Version2.1-final.compressed.pdf) |   | (dev) | payment channels protocol |   | | | | |
