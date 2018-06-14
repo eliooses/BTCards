@@ -126,6 +126,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Heat	| 	[![alt text][web]](https://heatwallet.com) |	| | | 	(operating)	| 	asset-to-asset protocol	| 	| | | | |
 | 	Herdius	| 	[![alt text][web]](https://herdius.com/) | [![alt text][web]](https://github.com/herdius)	| [![alt text][whitepaper]](https://herdius.com/whitepaper/Herdius%20Lightpaper.pdf) | | 	(dev)	| 	cross-chain protocol	| 	| | | | |
 | 	Hydra	| 	[![alt text][web]](http://libertaria.world/) |	| | | 	(dev - whitepaper)	| 	hydra protocol	| 2	| | | | |
+| 	Hyperdex	| 	[![alt text][web]](https://github.com/lukechilds/hyperdex) |	| | | 	(dev - private testing phase)	| 	barterdex protocol	| 	| | | | |
 | 	Hodl Hodl	| 	[![alt text][web]](https://hodlhodl.com/) |	| | `DCD` `DSTT` | 	(operating)	|  | 3 | | | | |
 | 	Hodl⚡️co	| 	[![alt text][web]](http://www.hodlco.io) |	| | | 	(dev)	| 	TBC | 6	| | | | |
 | 	IDEX	| 	[![alt text][web]](https://idex.market/) |	| | | 	(operating)	| 	snowglobe protocol	| 	| | | | |
