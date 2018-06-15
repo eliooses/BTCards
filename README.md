@@ -27,6 +27,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | ALTTEX | [![alt text][web]](https://alttex.io/) | [![alt text][github]](https://github.com/alttex/Alt-exchange) | [![alt text][whitepaper]](https://alttex.io/WhitePaper_Eng.pdf) |   | (dev) | 0x protocol |   | | | | |
 | 	Amadeus Relay	| 	[![alt text][web]](http://amadeusrelay.org/) | [![alt text][github]](https://github.com/AmadeusRelay)	| | | 	(dev)	| 	0x protocol	| 	| | | | |
 | 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) | [![alt text][github]](https://github.com/aphtoken/)	| [![alt text][whitepaper]](https://aphelion.org/wp.html) | | 	(dev - launch Q1 2018)	| 	deal protocol	| 	| | | | |
+| 	Angel 0x	| 	[![alt text][web]](https://angel0x.com/) |	| | | 	(dev)	| 	0x protocol	| 	| | | | |
 | Aqueduct | [![alt text][web]](https://aqueduct.ercdex.com) | [![alt text][github]](https://github.com/ercdex/aqueduct) | [![alt text][whitepaper]](https://aqueduct.ercdex.com/rest.html) |   | (released) | aqueduct protocol | 2 |   |   |   |   |
 | 	Arbidex	| 	[![alt text][web]](http://arbidex.ch) | [![alt text][github]](https://github.com/Arbidex)	| [![alt text][whitepaper]](https://arbidex.uk.com/assets/wp_en.pdf) | | 	(dev - launch Q4 2018)	| 	TBC	| 	| | | | |
 | 	ATLANT DEX	| 	[![alt text][web]](https://trade.atlant.io) | [![alt text][github]](https://github.com/AtlantPlatform/atlant-dex)	| [![alt text][whitepaper]](https://atlant.io/assets/documents/en/Atlant_WP_publish.pdf) | | 	(Token Launch)	| 	atlant protocol	| 	| | | | |
@@ -345,10 +346,12 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 ## DEX Order Tracker:
 
 [https://etherscan.io/dextracker](https://etherscan.io/dextracker)
+[https://0xtracker.com/trades](https://0xtracker.com/trades)
 
 ## DEX Trackers Statistics:
 
 [https://etherscan.io/stat/dextracker](https://etherscan.io/stat/dextracker)
+[https://0xtracker.com](https://0xtracker.com/relays)
 
 ## Protocols for Decentralized Exchange
 
