@@ -80,6 +80,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | DEXON dex |  [![alt text][web]](https://dexon.io/) | [![alt text][github]](https://github.com/dexon-foundation) |  [![alt text][whitepaper]](https://storage.googleapis.com/dexon-website/DEXON%20Consensus%20Algorithm%2020180530%20Draft%203.pdf) |   | (dev) | TBC |   |   | DEXON | Dexon Foundation |   |
 | dex-simple |   | [![alt text][github]](https://github.com/treverson/dex-simple) |   |   | (prototype) | TBC |   |   |   |   |   |
 | Dexternal |  [![alt text][web]](https://dexternal.com/) |  |  |  | (dev) | TBC |   |   | Ethereum |   |   |
+| DEx.top |  [![alt text][web]](https://dex.top/) | [![alt text][github]](https://github.com/dexDev/DEx.top) | [![alt text][whitepaper]](https://d36en8nmg6d5az.cloudfront.net/DEx.top+Technical+White+Paper+20180422.pdf)  |  | (dev) | replayed-on-chain protocol |   |   |  |   |   |
 | 	Dextroid	| 	[![alt text][web]](https://www.dextroid.io/) |	| | | 	(operating - beta)	| 	0x protocol	| 	| | | | |
 | DEXY | [![alt text][web]](https://www.dexy.exchange/) | [![alt text][github]](https://github.com/DexyProject) |   | `DOB` | (dev) | decentralized exchange protocol |   | | | | |
 | Dexy |   | [![alt text][github]](https://github.com/bokkypoobah/Dexy) |   |   | (dev) | TBC |   | | | | |
