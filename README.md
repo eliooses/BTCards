@@ -130,6 +130,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Graphene	| 	[![alt text][web]](http://docs.bitshares.eu//index.html) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 2	| | | | |
 | 	Heat	| 	[![alt text][web]](https://heatwallet.com) |	| | | 	(operating)	| 	asset-to-asset protocol	| 	| | | | |
 | 	Herdius	| 	[![alt text][web]](https://herdius.com/) | [![alt text][web]](https://github.com/herdius)	| [![alt text][whitepaper]](https://herdius.com/whitepaper/Herdius%20Lightpaper.pdf) | | 	(dev)	| 	cross-chain protocol	| 	| | | | |
+| Huobi DEX |  |  |   |   | [(announced)](https://www.nasdaq.com/article/huobi-chain-project-plots-course-toward-a-decentralized-financial-platform-cm974007) | TBC |   |   | Huobi Chain |   |   | 
 | 	Hydra	| 	[![alt text][web]](http://libertaria.world/) |	| | | 	(dev - whitepaper)	| 	hydra protocol	| 2	| | | | |
 | 	HyperDEX	| 	[![alt text][web]](https://github.com/lukechilds/hyperdex) |	| | | 	(dev - private testing phase)	| 	barterdex protocol	| 	| | | | |
 | 	Hodl Hodl	| 	[![alt text][web]](https://hodlhodl.com/) |	| | `DCD` `DSTT` | 	(operating)	|  | 3 | | | | |
