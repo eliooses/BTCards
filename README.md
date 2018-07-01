@@ -147,6 +147,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Komodo | [![alt text][web]](https://www.komodoplatform.com/) | [![alt text][github]](https://github.com/KomodoPlatform) | [![alt text][whitepaper]](https://www.komodoplatform.com/en/whitepaper/2018-02-14-Komodo-White-Paper-Full.pdf) |   | (dev) | komodo protocol | 2 | N/A | Komodo | | |
 | 	KyberNetwork	| 	[![alt text][web]](https://kyber.network) | [![alt text][github]](https://github.com/kyberNetwork/)	| | | 	(live)	| 	kyber protocol	| 	| ERC20 Tokens | Ethereum | | |
 | 	LAtoken	| 	[![alt text][web]](http://www.latoken.com/) |	| | | 	(operating)	| 	spectre protocol (DAG)	| 	| | | | |
+|   LedgerDex |   [![alt text][web]](https://www.ledgerdex.com/) | [![alt text][github]](https://github.com/ledgerdex)  | | |   (operating - beta)  |   0x protocol |   | | | | |
 | 	Legolas Exchange	| 	[![alt text][web]](https://legolas.exchange/) |	| | | 	(dev - ICO Q1 2018)	| 	legolas protocol	| 3	| | | | |
 | 	Lendroid	| 	[![alt text][web]](https://lendroid.com/) | [![alt text][github]](https://github.com/lendroidproject)	| [![alt text][whitepaper]](https://lendroid.com/assets/whitepaper-margin-trading.pdf) | | 	(dev)	| 	lendroid protocol |	| ERC20 Tokens | Ethereum | | |
 | 	Leverj	| 	[![alt text][web]](https://leverj.io/) | [![alt text][github]](https://github.com/leverj)	| [![alt text][whitepaper]](https://leverj.io/whitepaper.pdf) | | 	(dev)	| 	leverj protocol |	5 | | | | |
