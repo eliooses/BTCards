@@ -176,6 +176,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Omega One	| 	[![alt text][web]](https://omega.one/) |	| | | 	(ICO)	| 	TBC	| 	| | | | |
 | 	OmiseGO	| 	[![alt text][web]](https://omisego.network/) |	| | | 	(dev)	| 	omisego protocol	| 2 | All | All| | |
 | 	Omni DEX	| 	[![alt text][web]](http://omniexplorer.info/dex.aspx) |	| | | 	(operating)	| 	TBC	| 	| | | | |
+| 	OneChain DEX	| 	[![alt text][web]](http://onechain.one) | [![alt text][github]](https://github.com/onechainone)	| [![alt text][whitepaper]](https://cdn1.haoduobi.cn/offcial_assets/onechain-white%20paper-en.pdf) | | 	(dev)	| 	TBC	| 	| | EOS | | |
 | 	openANX	| 	[![alt text][web]](https://www.openanx.org/en/) |	| | | 	(dev)	| 	openanx protocol	| 	| | | | |
 | 	Open Collectors Network	| [![alt text][web]](https://opencollectors.network/) | [![alt text][github]](https://github.com/cosmingrigore/OpenCollectorsNetwork)	| [![alt text][whitepaper]](https://opencollectors.network/layout/OpenCollectorsNetwork) | | 	(dev - prototype)	| 	TBC	| 8	| | | | |
 | 	OpenLedger DEX	| 	[![alt text][web]](https://openledger.io/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	| | | | |
