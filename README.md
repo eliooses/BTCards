@@ -247,7 +247,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Wanchain	| 	[![alt text][web]](https://wanchain.org/) | [![alt text][github]](https://github.com/wanchain)	| [![alt text][whitepaper]](https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf) | | 	(dev)	| 	wanchain protocol (cross-chain)	| 2	| | | | |
 | 	WandX	| 	[![alt text][web]](https://exchange.wandx.co/) | [![alt text][github]](https://github.com/WandXDapp)	| [![alt text][whitepaper]](https://www.wandx.co/whitepaper.html) | | 	(dev)	| 	wandx protocol	| 1 	| ERC20 Tokens - ERC20 Token Baskets | Ethereum | | |
 | 	Waves	| 	[![alt text][web]](https://waveswallet.io) |	| | | 	(operating)	| 	waves protocol (Matcher)	| 	| | | | |
-| 	weiDex	| 	[![alt text][web]](https://weidex.market/) |	| [![alt text][whitepaper]](https://weidex.market/images/whitepaper.pdf) | | 	(dev)	| 	TBC	| 	| | | | |
+| 	weiDex	| 	[![alt text][web]](https://weidex.market/) |	| [![alt text][whitepaper]](https://weidex.market/images/whitepaper.pdf) | `FULLY` | 	(dev)	| 	TBC	| 	| | | | |
 | 	Wyvern	| 	[![alt text][web]](https://exchange.projectwyvern.com/) |	[![alt text][github]](https://github.com/ProjectWyvern/wyvern-ethereum) | [![alt text][whitepaper]](https://github.com/ProjectWyvern/wyvern-protocol/raw/master/build/whitepaper.pdf) | | 	(operating - alpha)	| wyvern protocol	| 1 | non-fungible Ethereum assets  | Ethereum | | |
 | WixExchange | [![alt text][web]](https://crowdwiz.io/) | [![alt text][github]](https://github.com/CrowdWiz-io/) | [![alt text][whitepaper]](https://crowdwiz.io/docs/whitepaper-en-1507561917.pdf) | `DD` `DG` | (dev) | TBC |   | | | | |
 | 	xChainge	| 	[![alt text][web]](https://xchain.io/) |	| | | 	(operating)	| 	counterparty protocol	| 	| | | | |
