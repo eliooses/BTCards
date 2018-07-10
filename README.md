@@ -107,6 +107,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) | [![alt text][github]](https://github.com/etherdelta/etherdelta.github.io)	| | `FULLY` | 	(operating)	| 	on-chain protocol	| Ethereum	| | | | |
 | 	EtherEx	| 	[![alt text][web]](http://etherex.github.io/etherex) | [![alt text][github]](https://github.com/etherex/etherex)	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	EtherFlyer	| 	[![alt text][web]](https://www.etherflyer.com/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
+| 	EtherMium	| 	[![alt text][web]](https://ethermium.com/) |	| | | 	(operating)	| 	TBC	| 	| ERC20 Tokens | Ethereum | | |
 | 	EtheRoox	| 	[![alt text][web]](http://etheroox.com) | [![alt text][github]](https://github.com/ynzheng/etheroox.github.io)	| | | 	(dev)	| 	TBC	| 	| | | | |
 | 	Ether Wager	| 	[![alt text][web]](http://eth-wager.surge.sh/) |	| | | 	(operating)	| 	oraclize protocol	| 	| | | | |
 | Ethex | [![alt text][web]](https://ethex.market/) | [![alt text][github]](https://github.com/Ethex) |   |   | (beta) | TBC |   | | | | |
