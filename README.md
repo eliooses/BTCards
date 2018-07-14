@@ -386,3 +386,6 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 [whitepaper]: https://i.imgur.com/CQKjGai.png "Whitepaper"
 
 [header]: https://i.imgur.com/xYyP8lZ.jpg "inDEX"
+
+> > “I definitely hope centralized exchanges go burn in hell as much as possible”
+> > *Vitalik Buterin*
