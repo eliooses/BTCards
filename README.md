@@ -145,6 +145,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Infinity | [![alt text][web]](https://www.hycon.io/) | [![alt text][github]](https://github.com/Team-Hycon) | [![alt text][whitepaper]](https://www.hycon.io/doc/whitepaper_en.pdf) |   | (dev) | spectre protocol |   |   |   |   |   |
 | INSTEX | [![alt text][web]](https://app.instex.io/)|	| | | (operating)	| 	0x protocol	| 	| | Ethereum | | |
 | Interstellar | [![alt text][web]](https://interstellar.exchange/)|	| | `FULLY` | (operating)	| 	stellar protocol	| 	| | Stellar | | |
+| InziderX | [![alt text][web]](https://inziderx.io/)|	| [![alt text][whitepaper]](https://inziderx.io/docs/InziderX.io-Whitepaper.pdf) | | (dev)	| 	TBC	| 	| | | | |
 | 	Javvy	| 	[![alt text][web]](https://javvy.com/) | [![alt text][github]](https://github.com/javvycrypto)	| [![alt text][whitepaper]](https://javvy.com/wp-content/uploads/2017/09/javvy_crypto-solution-white-paper.pdf) | | 	(dev)	| 	TBC	| 	| | | | |
 | 	JOYSO	| 	[![alt text][web]](https://joyso.io/) |	| | | 	(ICO)	| 	hex protocol	| 3	| | | | |
 | Komodo | [![alt text][web]](https://www.komodoplatform.com/) | [![alt text][github]](https://github.com/KomodoPlatform) | [![alt text][whitepaper]](https://www.komodoplatform.com/en/whitepaper/2018-02-14-Komodo-White-Paper-Full.pdf) |   | (dev) | komodo protocol | 2 | N/A | Komodo | | |
