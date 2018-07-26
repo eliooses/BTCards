@@ -33,6 +33,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	ATLANT DEX	| 	[![alt text][web]](https://trade.atlant.io) | [![alt text][github]](https://github.com/AtlantPlatform/atlant-dex)	| [![alt text][whitepaper]](https://atlant.io/assets/documents/en/Atlant_WP_publish.pdf) | | 	(Token Launch)	| 	atlant protocol	| 	| | | | |
 | 	atomicDEX	| | [![alt text][github]](https://github.com/ca333/atomicDEX) | | | 	(dev)	| TBC | 	| | | | |
 | ATUM | [![alt text][web]](https://atumchain.com/) |   |   |   | (dev) | cross-chain (NEM) |   | | | | |
+| AXNET DEX | [![alt text][web]](https://dex.ax.net) | [![alt text][github]](https://github.com/AX-NET)  | [![alt text][whitepaper]](https://ax.net/docs/AXNETWhitepaper.pdf)  | `FULLY` | (dev) | EOS protocol |   | | | | |
 | 	B&C Exchange	| 	[![alt text][web]](https://bcexchange.org) | [![alt text][github]](https://bitbucket.org/JordanLeePeershares/bcexchange/src) | [![alt text][whitepaper]](https://bcexchange.org/assets/Blocks_&_Chains_Decentralized_Exchange.pdf) | | 	(operating)	| 	bcexchange protocol	| 	| | | | |
 | 	b0x	| 	[![alt text][web]](https://b0x.network/) | [![alt text][github]](https://github.com/b0xNetwork) | [![alt text][whitepaper]](https://b0x.network/pdfs/b0x_white_paper.pdf) | | 	(dev - TGE expected Q2 2018)	| 	b0x protocol (margin lending/trading and oracle marketplace)	| 	| | | | |
 | 	Bamboo Relay	| 	[![alt text][web]](http://bamboorelay.com/)  | | | |	(operating)	| 	0x protocol	| 	| ERC20 Tokens | Ethereum | | |
