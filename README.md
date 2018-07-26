@@ -342,6 +342,12 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
  - [#inDEX PR @ Bitcoin](https://news.bitcoin.com/decentralized-exchange-compendium-index-lists-over-200-dex-platforms)
 
  - [#inDEX PR @ NewsBTC](https://www.newsbtc.com/2018/06/05/dozens-decentralized-exchanges-making-mark-cryptocurrency-industry)
+ 
+- [#inDEX featured @ Blockchain in Beach](https://www.blockchainbeach.com/why-decentralized-exchanges-dex-are-the-future/)
+
+- [#inDEX featured @ Blockchain in Beach](https://www.blockchainbeach.com/why-decentralized-exchanges-dex-are-the-future/)
+
+- [#inDEX featured @ Andreessen Horowitz´s Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)
 
 ## License
 
