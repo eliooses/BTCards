@@ -31,6 +31,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Aqueduct | [![alt text][web]](https://aqueduct.ercdex.com) | [![alt text][github]](https://github.com/ercdex/aqueduct) | [![alt text][whitepaper]](https://aqueduct.ercdex.com/rest.html) |   | (released) | aqueduct protocol | 2 |   |   |   |   |
 | 	Arbidex	| 	[![alt text][web]](http://arbidex.ch) | [![alt text][github]](https://github.com/Arbidex)	| [![alt text][whitepaper]](https://arbidex.uk.com/assets/wp_en.pdf) | | 	(dev - launch Q4 2018)	| 	TBC	| 	| | | | |
 | 	ATLANT DEX	| 	[![alt text][web]](https://trade.atlant.io) | [![alt text][github]](https://github.com/AtlantPlatform/atlant-dex)	| [![alt text][whitepaper]](https://atlant.io/assets/documents/en/Atlant_WP_publish.pdf) | | 	(Token Launch)	| 	atlant protocol	| 	| | | | |
+| 	Atom DEX	| [![alt text][web]](https://bitcoinatom.io/) | [![alt text][github]](https://github.com/ca333/atomicDEX) | | | 	[(announced)](https://medium.com/@bitcoinatom/essential-components-for-the-atom-dex-have-been-released-7d51e9ca6f62)	| atomic swap | 	| | Bitcoin Atom | | |
 | 	atomicDEX	| | [![alt text][github]](https://github.com/ca333/atomicDEX) | | | 	(dev)	| TBC | 	| | | | |
 | ATUM | [![alt text][web]](https://atumchain.com/) |   |   |   | (dev) | cross-chain (NEM) |   | | | | |
 | AXNET DEX | [![alt text][web]](https://dex.ax.net) | [![alt text][github]](https://github.com/AX-NET)  | [![alt text][whitepaper]](https://ax.net/docs/AXNETWhitepaper.pdf)  | `FULLY` | (dev) | EOS protocol |   | | | | |
