@@ -103,6 +103,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Eidoo | [![alt text][web]](https://eidoo.io/) | [![alt text][github]](https://github.com/eidoo) | [![alt text][whitepaper]](https://eidoo.io/white-paper/) | `DCD` | (operating) | multi protocol | 3 | | | | |
 | 	Enclaves	| 	[![alt text][web]](https://enclaves.io) | [![alt text][github]](https://github.com/adamdossa)	| | | 	(operating)	| 	0x protocol	| 	| | Ethereum | | |
 | 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) | [![alt text][github]](https://github.com/enigmampc/)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_full.pdf) | | 	(proposed)	| 	enigma protocol	| 2	| All | All | | |
+| 	EOSDAQ	| 	[![alt text][web]](https://eosdaq.com/) |	| | | 	(dev)	| 	eos protocol	| 	| | EOS | | |
 | 	EOSfinex	| 	[![alt text][web]](https://eosfinex.com/) |	| | | 	(dev)	| 	eos protocol	| 	| | EOS | | |
 | 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
 | 	Ethen Market	| 	[![alt text][web]](https://ethen.market) | [![alt text][github]](https://github.com/ethenmarket)	| | | (operating)	| 	on-chain protocol	| 3	| ERC20 Tokens | Ethereum | | |
