@@ -118,9 +118,10 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Ethfinex	| 	[![alt text][web]](https://www.ethfinex.com/) |	| | | 	(private beta)	| 	multi protocol	| 4	| | | | |
 | 	Ethos 	| [![alt text][web]](https://www.ethos.io/) |   | [![alt text][whitepaper]](http://www.ethos.io/Ethos_Whitepaper.pdf) | `DCD` `DS` | (dev) | multi protocol (0x - atomic swap) | 6 | | | | |
 | 	EthRoox	| 	[![alt text][web]](https://etheroox.com/) |	| | | 	(operating with issues)	| 	TBC	| 	| | | | |
-| 	Everbloom	| 	[![alt text][web]](http://everbloom.co/) |	| [alt text][whitepaper]](https://docs.everbloom.co/) | `FULLY` | 	(operating)	| 	multi-protocol	| 	| ERC20 | Ethereum | | |
+| 	Everbloom	| 	[![alt text][web]](http://everbloom.co/) |	| [![alt text][whitepaper]](https://docs.everbloom.co/) | `FULLY` | 	(operating)	| 	multi-protocol	| 	| ERC20 | Ethereum | | |
 | 	ExchangeN	| 	[![alt text][web]](http://www.exchangen.com/) |	| | | 	(operating with issues)	| 	TBC	| 	| | | | |
 | 	Exchange Union	| 	[![alt text][web]](https://www.exchangeunion.com) | [![alt text][github]](https://github.com/exchangeunion)	| [![alt text][whitepaper]](https://api.exchangeunion.com/pdf/en/ExchangeUnion-WhitePaper.pdf) | `DS` `DOB` `DD` `OPRO` | 	(dev)	| 	exchange union protocol	| 	| All | All | | |
+| 	Exchangily	| 	[![alt text][web]](https://exchangily.com/) | [![alt text][github]](https://github.com/blockchaingate)	| [![alt text][whitepaper]](https://fabcoin.co/assets/pdfs/FAB-technical-wp-en.pdf) | `DOM` `FULLY` `DG` `OPRO` `RELAY` `ACL` | 	(dev)	| 	Fast Access Blockchain	| 	| | | | |
 | Expread | [![alt text][web]](http://expread.io/) |   | [![alt text][whitepaper]](http://expread.io/home/EXPREAD_WhitePaper_Version2.1-final.compressed.pdf) |   | (dev) | payment channels protocol |   | | | | |
 | FairX | [![alt text][web]](https://fairx.io/) | [![alt text][github]](https://github.com/fairxio/) | [![alt text][whitepaper]](https://github.com/fairxio/docs) |   | (dev) | stellar consensus protocol | 6 | | | | |
 | 	faast	| 	[![alt text][web]](https://faa.st/) | [![alt text][github]](https://github.com/go-faast)	| | `FULLY` | 	(dev)	| 	0x protocol	| 14	| | | | |
