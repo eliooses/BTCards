@@ -224,6 +224,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	| | | | |
 | 	Smart-Exchange	| 	|	| [![alt text][whitepaper]](https://debris.gitbooks.io/ethchange/content/) | | 	(dev - whitepaper)	| icap protocol | 	| | | | |
 | Snowglobe | [![alt text][web]](https://auroradao.com/faq/) |   |   |   | (dev) | snowglobe protocol | 2 | ERC20 Tokens | Ethereum | | |
+| Stakenet DEX | [![alt text][web]](https://stakenet.io/) | [![alt text][github]](https://github.com/X9Developers)  | [![alt text][whitepaper]](https://stakenet.io/Whitepaper_Stakenet_V3.0_EN.pdf)  | `FULLY` | (dev) | cross-chain protocol |   |   |   |   |   |
 | STAR BITEX | [![alt text][web]](https://www.starbitex.com/) | [![alt text][github]](https://github.com/TsungLi-Wang/Relayer)  |   | `FULLY` `RELAY` | (dev) | 0x protocol |   |   |   |   |   |
 | Stellar | [![alt text][web]](https://www.stellar.org/developers/guides/concepts/exchange.html) | [![alt text][github]](https://github.com/stellar/stellar-protocol) | [![alt text][whitepaper]](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) |   | (live) | stellar consensus protocol | 2 | Stellar Assets | Stellar | | |
 | Stellarport | [![alt text][web]](https://stellarport.io/) |   |   |   | (operating) | stellar consensus protocol |   | | | | |
