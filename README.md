@@ -352,7 +352,7 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
  
 - [#inDEX featured @ Blockchain in Beach](https://www.blockchainbeach.com/why-decentralized-exchanges-dex-are-the-future/)
 
-- [#inDEX featured @ Blockchain in Beach](https://www.blockchainbeach.com/why-decentralized-exchanges-dex-are-the-future/)
+- [#inDEX featured @ The Block Crypto](https://medium.com/the-block-crypto/block-by-block-cryptocurrency-exchanges-867862226e4a)
 
 - [#inDEX featured @ Andreessen Horowitz´s Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)
 
