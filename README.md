@@ -81,6 +81,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Deviant DEX | [![alt text][web]](http://deviantcoin.io/) | [![alt text][github]](https://github.com/Deviantcoin) |   |   | [(announced)](https://twitter.com/DeviantCoin/status/962108577157562368/) | TBC |   | | | | |
 | DEX |   | [![alt text][github]](https://github.com/ltfschoen/dex) |   |   | (dev) | 0x protocol |   | | | | |
 | Dexdex | [![alt text][web]](https://dexdex.io/) |  |   | `FULLY` | (dev) | 0x protocol |   | | | | |
+| DEXEOS | [![alt text][web]](https://dexeos.io/) |  |   | `FULLY` | (operating) | EOS |   | | EOS | WIZLAB  | |
 | Dexex | [![alt text][web]](https://www.dexlab.io/) | [![alt text][github]](https://github.com/dexlab-io) |   |   | (dev) | 0x protocol |   |   |   |   |   |
 | DEXON dex |  [![alt text][web]](https://dexon.io/) | [![alt text][github]](https://github.com/dexon-foundation) |  [![alt text][whitepaper]](https://storage.googleapis.com/dexon-website/DEXON%20Consensus%20Algorithm%2020180530%20Draft%203.pdf) |   | (dev) | TBC |   |   | DEXON | Dexon Foundation |   |
 | dex-simple |   | [![alt text][github]](https://github.com/treverson/dex-simple) |   |   | (prototype) | TBC |   |   |   |   |   |
