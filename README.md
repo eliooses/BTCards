@@ -174,7 +174,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Mercatox | 	[![alt text][web]](https://mercatox.com) |	| | | 	(dev)	| 	TBC	| 4	| | | | |
 | 	Mercury | [![alt text][web]](http://mercuryex.com)	| [![alt text][github]](https://github.com/mappum/mercury)	| | | 	(dev)	| 	TBC	| 	| | | | |
 | MinexDEX | [![alt text][web]](https://minexcoin.com/) | [![alt text][github]](https://github.com/minexcoin) |   |   | [(announced)](https://medium.com/minecoin-blog/mnx-upgrade-roadmap-2018-ed9b01c258cf) | atomic swap |   | | | | |
-| 	Mobidex	| 	[![alt text][web]](http://mobidex.io/) |	| | | 	(dev - private alpha)	| 	0x protocol	| 	| | | | |
+| 	Mobidex	| 	[![alt text][web]](http://mobidex.io/) |	| | | 	(beta)	| 	0x protocol	| 	| | | | |
 | 	Mothership	| 	[![alt text][web]](https://mothership.cx/) |	| | | 	(dev)	| 	TBC	| 	| | | | |
 | 	MoonDEX	| 	[![alt text][web]](http://moondex.org/) | [![alt text][github]](https://github.com/Moondex)	| | | 	(dev)	| 	TBC	| 	| | | | |
 | 	MyEtherSwap	| 	[![alt text][web]](https://www.myetherswap.com/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
