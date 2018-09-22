@@ -178,6 +178,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Mothership	| 	[![alt text][web]](https://mothership.cx/) |	| | | 	(dev)	| 	TBC	| 	| | | | |
 | 	MoonDEX	| 	[![alt text][web]](http://moondex.org/) | [![alt text][github]](https://github.com/Moondex)	| | | 	(dev)	| 	TBC	| 	| | | | |
 | 	MyEtherSwap	| 	[![alt text][web]](https://www.myetherswap.com/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
+| 	NebliDex	| 	[![alt text][web]](https://neblidex.xyz/) |	| [![alt text][whitepaper]](https://www.neblidex.xyz/neblidex_whitepaper.pdf) | | 	(operating)	| NTP1 / Cross chain protocol	| | | Neblio | | |
 | 	NEX	| 	[![alt text][web]](https://neonexchange.org/) |	| | | 	(dev - launch Q3 2018)	| 	off-chain protocol	| 	| | | | |
 | 	NIX	| 	[![alt text][web]](https://nixplatform.io/) | [![alt text][github]](https://github.com/nixplatform/)	| [![alt text][whitepaper]](https://nixplatform.io/docs/NIX-Platform-Whitepaper.pdf) | `FULLY` | 	(operating)	| 	ghost protocol	| | | cross-chain | | |
 | 	NextExchange	| 	[![alt text][web]](https://next.exchange/) | [![alt text][github]](https://github.com/NextExchange)	| [![alt text][whitepaper]](https://next.exchange/whitepaper) | | 	(dev)	| 	0x	| 	| | | | |
