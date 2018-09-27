@@ -208,6 +208,7 @@ SimpleDEX, https://simpledex.io/exchange, , , , dev, 0x protocol, , ERC20 Tokens
 SingularX, https://ex.singularx.com, , , , operating, TBC, , , , , ,
 Smart-Exchange, , , https://debris.gitbooks.io/ethchange/content, , dev - whitepaper, icap protocol, , , , , ,
 Snowglobe, https://auroradao.com/faq, , , , dev, snowglobe protocol,2, ERC20 Tokens, Ethereum, , ,
+Sparkswap, https://sparkswap.com/, https://github.com/sparkswap, https://sparkswap.com/docs/getting-started, FULLY, dev, atomic swap protocol, ⚡️, , , , , 
 Stakenet DEX, https://stakenet.io/, https://github.com/X9Developers, https://stakenet.io/Whitepaper_Stakenet_V3.0_EN.pdf, FULLY, dev, cross-chain protocol, , , , , ,
 STAR BITEX, https://www.starbitex.com, https://github.com/TsungLi-Wang/Relayer, , FULLY RELAY, dev, 0x protocol, , , , , , 
 Stellar, https://www.stellar.org/developers/guides/concepts/exchange.html, https://github.com/stellar/stellar-protocol, https://www.stellar.org/papers/stellar-consensus-protocol.pdf, , live, stellar consensus protocol,2, Stellar Assets, Stellar, , ,
