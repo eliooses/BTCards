@@ -379,15 +379,15 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 ## DEX Order Tracker:
 
-⋅⋅* [https://etherscan.io/dextracker](https://etherscan.io/dextracker)
-⋅⋅* [https://0xtracker.com/trades](https://0xtracker.com/trades)
-⋅⋅* [https://dex.watch/](https://dex.watch/)
++ [https://etherscan.io/dextracker](https://etherscan.io/dextracker)
++ [https://0xtracker.com/trades](https://0xtracker.com/trades)
++ [https://dex.watch/](https://dex.watch/)
 
 ## DEX Trackers Statistics:
 
-⋅⋅* [https://etherscan.io/stat/dextracker](https://etherscan.io/stat/dextracker)
-⋅⋅* [https://0xtracker.com](https://0xtracker.com/relays)
-⋅⋅* [https://dex.watch/](https://dex.watch/)
++ [https://etherscan.io/stat/dextracker](https://etherscan.io/stat/dextracker)
++ [https://0xtracker.com](https://0xtracker.com/relays)
++ [https://dex.watch/](https://dex.watch/)
 
 ## Protocols for Decentralized Exchange
 
