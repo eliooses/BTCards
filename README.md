@@ -23,6 +23,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	0xchange	| 	[![alt text][web]](https://0xchange.me/) | [![alt text][github]](https://github.com/0xchange/0xchange)	| [![alt text][whitepaper]](https://devpost.com/software/0xchange-me) | | 	(operating)	| 	0x protocol	| 	| | | | |
 | Aermos | [![alt text][web]](http://www.aermos.com) |   | [![alt text][whitepaper]](http://www.aermos.com/concept/) | `FULLY` | (dev) | TBC |   | | | | |
 | 	AirSwap	| 	[![alt text][web]](https://www.airswap.io/) |	[![alt text][github]](https://github.com/airswap) | [![alt text][whitepaper]](https://swap.tech/whitepaper/) | | 	(operating)	| 	swap protocol	|	| | | | |
+| 	Allbit	| 	[![alt text][web]](https://allbit.com/) |	| [![alt text][whitepaper]](https://static-allbit.s3.amazonaws.com/guide/APOT_White%20paper_v.0.9.3._181005_revised.pdf) | 	TBC	| 	(operating)	| 	Ethereum - Allbit Sidechain	| 3 | ERC20 Tokens | Ethereum | Ozys Co. Ltd. | |
 | 	Altcoin Exchange	| 	[![alt text][web]](https://www.altcoin.io/) | [![alt text][github]](https://github.com/AltCoinExchange/) | | | 	(dev)	| 	raiden protocol	|	| | | | |
 | ALTTEX | [![alt text][web]](https://alttex.io/) | [![alt text][github]](https://github.com/alttex/Alt-exchange) | [![alt text][whitepaper]](https://alttex.io/WhitePaper_Eng.pdf) |   | (dev) | 0x protocol |   | | | | |
 | 	Amadeus Relay	| 	[![alt text][web]](http://amadeusrelay.org/) | [![alt text][github]](https://github.com/AmadeusRelay)	| | | 	(dev)	| 	0x protocol	| 	| | | | |
