@@ -5,6 +5,7 @@ Exchange, URL, REPO, DOCS, DEX GRADE, Status, Protocol, Reference, Asset, DLT, O
 0xchange, https://0xchange.me, https://github.com/0xchange/0xchange, https://devpost.com/software/0xchange-me, , operating, 0x protocol, , , , , ,
 Aermos, http://www.aermos.com, , http://www.aermos.com/concept, FULLY, dev, TBC, , , , , ,
 AirSwap, https://www.airswap.io, https://github.com/airswap, https://swap.tech/whitepaper, , operating, swap protocol, , , , , ,
+Allbit, https://www.allbit.com,, https://static-allbit.s3.amazonaws.com/guide/APOT_White%20paper_v.0.9.3._181005_revised.pdf,, operating, Ethereum - Allbit Sidechain,3, ERC20 Tokens, Ethereum, Ozys Co. Ltd.,,
 Altcoin Exchange, https://www.altcoin.io, https://github.com/AltCoinExchange, , , dev, raiden protocol, , , , , ,
 ALTTEX, https://alttex.io, https://github.com/alttex/Alt-exchange, https://alttex.io/WhitePaper_Eng.pdf, , dev, 0x protocol, , , , , ,
 Amadeus Relay, http://amadeusrelay.org, https://github.com/AmadeusRelay, , , dev, 0x protocol, , , , , ,
