@@ -377,7 +377,8 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 ## DEX Order Books:
 
-[https://etherscan.io/orderbooks](https://etherscan.io/orderbooks)
++ [https://etherscan.io/orderbooks](https://etherscan.io/orderbooks)
++ [https://blockdx.co](https://blockdx.co)
 
 ## DEX Order Tracker:
 
