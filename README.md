@@ -361,6 +361,8 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 - [#inDEX featured @ Andreessen Horowitz´s Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)
 
+- [#inDEX featured @ Hackernoon](https://hackernoon.com/who-will-run-the-decentralized-exchange-of-the-future-59e9cd29b1ba)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
