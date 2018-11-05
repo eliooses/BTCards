@@ -363,6 +363,8 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 - [#inDEX featured @ Hackernoon](https://hackernoon.com/who-will-run-the-decentralized-exchange-of-the-future-59e9cd29b1ba)
 
+- [#inDEX featured @ Data Driven Investor](https://medium.com/datadriveninvestor/decentralized-exchanges-as-the-future-of-cryptocurrency-trading-part-i-fd5effcde251)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
