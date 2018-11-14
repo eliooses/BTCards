@@ -15,8 +15,6 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[**Develop a DEX, fuck the SEC!**](https://www.sec.gov/news/press-release/2018-258)
-
 |	Exchange	| URL	| REPO | DOCS | DEX GRADE | 	Status	| 	Protocol	| Reference | Asset | DLT | ORG |  |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) | [![alt text][github]](https://github.com/SetProtocol/set-protocol-contracts)	| [![alt text][whitepaper]](https://whitepaper.setprotocol.com/) | | 	(dev)	| 	{Set} protocol	| 2	| ERC20 Tokens - Set Tokens | Ethereum | | |
@@ -417,6 +415,9 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 [whitepaper]: https://i.imgur.com/CQKjGai.png "Whitepaper"
 
 [header]: https://i.imgur.com/xYyP8lZ.jpg "inDEX"
+
+> > “[**Develop a DEX, fuck the SEC!**](https://www.sec.gov/news/press-release/2018-258)”
+> > *Elio Osés*
 
 > > “I definitely hope centralized exchanges go burn in hell as much as possible”
 > > *Vitalik Buterin*
