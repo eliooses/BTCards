@@ -365,6 +365,8 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 - [#inDEX featured @ Data Driven Investor](https://medium.com/datadriveninvestor/decentralized-exchanges-as-the-future-of-cryptocurrency-trading-part-i-fd5effcde251)
 
+- [#inDEX featured @ SESAME OPEN](https://medium.com/sesameopen/the-paradox-of-decentralized-exchanges-many-projects-few-users-650b1b0c01c3)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
