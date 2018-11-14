@@ -15,6 +15,8 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+[**Develop a DEX, fuck the SEC!**](https://www.sec.gov/news/press-release/2018-258)
+
 |	Exchange	| URL	| REPO | DOCS | DEX GRADE | 	Status	| 	Protocol	| Reference | Asset | DLT | ORG |  |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) | [![alt text][github]](https://github.com/SetProtocol/set-protocol-contracts)	| [![alt text][whitepaper]](https://whitepaper.setprotocol.com/) | | 	(dev)	| 	{Set} protocol	| 2	| ERC20 Tokens - Set Tokens | Ethereum | | |
