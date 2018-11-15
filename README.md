@@ -257,6 +257,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | txbit.io | [![alt text][web]](http://txbit.io/) |   |   |   | [(announced)](https://twitter.com/SolarisCoin/status/963538742047838209) | xevan protocol |   | | | | |
 | UberDelta |  [![alt text][web]](https://www.uberdelta.com/) | [![alt text][github]](https://github.com/UberDelta/uberdelta.github.io) | | `FULLY` | (operating) | TBC | | | | | |
 | 	UbiTok.io | [![alt text][web]](https://ubitok.io/) |	| | | 	(operating)	| on-chain protocol	| 	| | | | |
+| 	Uniswap | [![alt text][web]](https://uniswap.exchange/) | [![alt text][github]](https://github.com/Uniswap)	| [![alt text][whitepaper]](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig) | | 	(operating)	| uniswap protocol	| | ERC20 Tokens | Ethereum | | |
 | ValueCash | [![alt text][web]](https://www.valuecash.com/) |   | [![alt text][whitepaper]](https://www.valuecash.com/public/assets/files/Whitepaper.pdf) |   | (dev) | proof of trade protocol | 4 | | | | |
 | 	VariabL	| 	[![alt text][web]](https://variabl.io) |	| | | 	(open alpha)	| 	variabl protocol	| 5	| | | | |
 | Velcron | [![alt text][web]](https://velcron.io/) |   |   |   | (dev) | state-channel protocol |   | | | | |
