@@ -175,6 +175,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Melon DEX | | [![alt text][github]](https://github.com/melonproject/cross-chain-exchange-prototype) | | | (dev - prototype) | melonport protocol | | | | | |
 | 	Mercatox | 	[![alt text][web]](https://mercatox.com) |	| | | 	(dev)	| 	TBC	| 4	| | | | |
 | 	Mercury | [![alt text][web]](http://mercuryex.com)	| [![alt text][github]](https://github.com/mappum/mercury)	| | | 	(dev)	| 	TBC	| 	| | | | |
+|	Metro DEX	| [![alt text][web]](https://metrodex.org/)	| [![alt text][github]](https://github.com/metrosoftware/metrodex) | [![alt text][whitepaper]](https://metrodex.org/metro_whitepaper.pdf) | | 	(dev)	| 	cross-chain	| | | | |  |
 | MinexDEX | [![alt text][web]](https://minexcoin.com/) | [![alt text][github]](https://github.com/minexcoin) |   |   | [(announced)](https://medium.com/minecoin-blog/mnx-upgrade-roadmap-2018-ed9b01c258cf) | atomic swap |   | | | | |
 | 	Mobidex	| 	[![alt text][web]](https://mobidex.io/) | [![alt text][github]](https://github.com/sigillabs/mobidex)	| | | 	(beta)	| 	0x protocol	| 	| | | | |
 | 	Mothership	| 	[![alt text][web]](https://mothership.cx/) |	| | | 	(dev)	| 	TBC	| 	| | | | |
