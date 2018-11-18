@@ -54,6 +54,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Blockchain.io	| 	[![alt text][web]](https://blockchain.io/) |	| [![alt text][whitepaper]](https://blockchain.io/wp-content/uploads/2018/02/Manifesto_blockchain_HD.pdf) | `DS` `DSTT` | 	(dev)	| 	cross-chain protocol	| 3	| | | | |
 | 	BLOCK DX	| 	[![alt text][web]](https://blocknet.co/) | [![alt text][github]](https://github.com/BlocknetDX/BlockDX/)	| [![alt text][whitepaper]](https://www.blocknet.co/wp-content/uploads/2018/04/whitepaper.pdf) | `FULLY` | 	(operating - beta)	| 	blocknet protocol + 0x protocol	| 	| | | | |
 | 	BlockEQ	| 	[![alt text][web]](https://www.blockeq.com/)  | [![alt text][github]](https://github.com/Block-Equity/) | | |	(operating)	| 	stellar protocol	| 	| | Stellar | | |
+|	Blockonix	| [![alt text][web]](https://blockonix.com)	| | [![alt text][whitepaper]](https://support.blockonix.com/hc/en-us/articles/360005080714-Blockonix-Whitepaper-Ver-1-0-0) | | 	| 	on-chain protocol	| | | Ethereum | |  |
 | 	Blockport	| 	[![alt text][web]](https://blockport.io/) | [![alt text][github]](https://github.com/Blockport)	| | | 	(dev)	| blockport protocol	| 3	| | | | |
 | 	BlockTrades	| 	[![alt text][web]](https://blocktrades.us) |	| | | 	(operating)	| 	counterparty protocol	| 	| | | | |
 | Braveno | [![alt text][web]](https://braveno.com/) | [![alt text][github]](https://github.com/Braveno) | [![alt text][whitepaper]](http://docs.braveno.com/) | `DSTT` | (operating) | TBC | 3 | | | | |
