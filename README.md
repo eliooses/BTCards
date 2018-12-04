@@ -13,7 +13,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
  
 Many thanks to all the contributors, especially to [@amisolution](https://github.com/amisolution/) for all their contributions.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 |	Exchange	| URL	| REPO | DOCS | DEX GRADE | 	Status	| 	Protocol	| Reference | Asset | DLT | ORG |  |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
