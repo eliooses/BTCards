@@ -355,9 +355,11 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
  
 ## **inDEX in the news**:
 
- - [#inDEX PR @ Bitcoin](https://news.bitcoin.com/decentralized-exchange-compendium-index-lists-over-200-dex-platforms)
+ - [#inDEX featured @ Bitcoin.com](https://news.bitcoin.com/decentralized-exchange-compendium-index-lists-over-200-dex-platforms)
+ 
+ - [#inDEX featured @ DECENTRALIZED TV](https://decentralized.tv/decentralized-exchanges-dex-will-be-the-future-when-they-can-get-their-sht-together/)
 
- - [#inDEX PR @ NewsBTC](https://www.newsbtc.com/2018/06/05/dozens-decentralized-exchanges-making-mark-cryptocurrency-industry)
+ - [#inDEX featured @ NewsBTC](https://www.newsbtc.com/2018/06/05/dozens-decentralized-exchanges-making-mark-cryptocurrency-industry)
  
 - [#inDEX featured @ Blockchain in Beach](https://www.blockchainbeach.com/why-decentralized-exchanges-dex-are-the-future/)
 
