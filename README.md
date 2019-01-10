@@ -101,7 +101,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | DTE | [![alt text][web]](https://tomw1808.github.io/distributed_exchange_truffle_class_3/index.html) | [![alt text][github]](https://github.com/tomw1808/distributed_exchange_truffle_class_3) |   | `FULLY` | (prototype) | TBC |   |   |   |   |   |
 | 	DTX	| 	 | [![alt text][github]](https://github.com/zeriontech/DTX)	| | | 	(dev)	| 	TBC	| 	| | | | |
 | DUBIex |  [![alt text][web]](https://dubiex.com/) | [![alt text][github]](https://github.com/nionis/dubiex/) |  |   | (operating) | TBC |   |   |   |   |   |
-| 	DutchX	| 	 | [![alt text][github]](https://github.com/gnosis/dutch-exchange)	| | | 	(dev)	| 	dutch auction principle protocol	| 	| | | | |
+| 	DutchX	| [![alt text][web]](https://gnosis.pm/)	 | [![alt text][github]](https://github.com/gnosis/dutch-exchange)	| [![alt text][whitepaper]](https://dutchx.readthedocs.io) | `FULLY` | 	(live)	| 	dutch auction principle protocol	| 	| ERC20 Tokens | Ethereum | Gnosis  | |
 | 	dYdX	| [![alt text][web]](https://dydx.exchange/) | | [![alt text][whitepaper]](https://whitepaper.dydx.exchange/) | | 	(dev)	| 	dYdX protocol	| 5	| ERC20 Tokens - Dydx Derivatives (Option - Short Sell) | Ethereum | | |
 | 	EasyTrade	| 	[![alt text][web]](https://easytrade.io/) |	| | `FULLY` | 	(operating)	| 	0x protocol	|	| | | | |
 | Eidoo | [![alt text][web]](https://eidoo.io/) | [![alt text][github]](https://github.com/eidoo) | [![alt text][whitepaper]](https://eidoo.io/white-paper/) | `DCD` | (operating) | multi protocol | 3 | | | | |
