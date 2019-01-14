@@ -141,7 +141,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	gnodex	| | [![alt text][github]](https://github.com/gnosis/gnodex)	| | | 	(dev)	| 	off-chain protocol	| 	| | | | |
 | 	gnosis-exchange	| | [![alt text][github]](https://github.com/gnosis/gnosis-exchange)	| | | 	(dev)	| 	TBC	| 	| | | | |
 | 	Graphene	| 	[![alt text][web]](http://docs.bitshares.eu//index.html) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 2	| | | | |
-| 	Heat	| 	[![alt text][web]](https://heatwallet.com) |	| | | 	(operating)	| 	asset-to-asset protocol	| 	| | | | |
+| 	Heat	| 	[![alt text][web]](https://heatwallet.com) |	[![alt text][github]](https://github.com/Heat-Ledger-Ltd/) | [![alt text][whitepaper]](https://https://heatledger.com/HEATWhitepaper.pdf) | | 	(operating)	| 	asset-to-asset protocol	| 	| | | | |
 | 	Herdius	| 	[![alt text][web]](https://herdius.com/) | [![alt text][web]](https://github.com/herdius)	| [![alt text][whitepaper]](https://herdius.com/whitepaper/Herdius%20Lightpaper.pdf) | | 	(dev)	| 	cross-chain protocol	| 	| | | | |
 | Huobi DEX |  |  |   |   | [(announced)](https://www.nasdaq.com/article/huobi-chain-project-plots-course-toward-a-decentralized-financial-platform-cm974007) | TBC |   |   | Huobi Chain |   |   | 
 | 	Hydra	| 	[![alt text][web]](http://libertaria.world/) |	| | | 	(dev - whitepaper)	| 	hydra protocol	| 2	| | | | |
