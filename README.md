@@ -52,7 +52,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	BitShares	| 	[![alt text][web]](https://wallet.bitshares.org/) | [![alt text][github]](https://github.com/bitshares)	| [![alt text][whitepaper]](http://docs.bitshares.org/bitshares/papers/) | `ACL` `DCD` `DC` `DD` `DG` `FULLY`| 	(live)	| 	bitshares protocol (DPOS)	| 1,5,6 	| Bitshares, Bitshares SmartCoins, bitUSD, bitCNY, bitEUR | Graphene Technology|  | |
 | Blackhalo | [![alt text][web]](http://blackhalo.info/) | [![alt text][github]](https://github.com/dzimbeck/Halo) | [![alt text][whitepaper]](http://blackhalo.info/wp-content/uploads/2014/06/whitepaper_twosided.pdf) | `FULLY` | (operating - beta) | TBC |   | | | | |
 | 	Blockchain.io	| 	[![alt text][web]](https://blockchain.io/) |	| [![alt text][whitepaper]](https://blockchain.io/wp-content/uploads/2018/02/Manifesto_blockchain_HD.pdf) | `DS` `DSTT` | 	(dev)	| 	cross-chain protocol	| 3	| | | | |
-| 	BLOCK DX	| 	[![alt text][web]](https://blocknet.co/) | [![alt text][github]](https://github.com/BlocknetDX/BlockDX/)	| [![alt text][whitepaper]](https://www.blocknet.co/wp-content/uploads/2018/04/whitepaper.pdf) | `FULLY` | 	(operating - beta)	| 	blocknet protocol + 0x protocol	| 	| | | | |
+| 	Block DX	| 	[![alt text][web]](https://blocknet.co/block-dx/) | [![alt text][github]](https://github.com/BlocknetDX/blockdx-ui)	| [![alt text][whitepaper]](https://docs.blocknet.co/project/blocknet-whitepaper.pdf) | `FULLY` | 	(operating - beta)	| 	blocknet protocol	| 10	| All | N/A | None | |
 | 	BlockEQ	| 	[![alt text][web]](https://www.blockeq.com/)  | [![alt text][github]](https://github.com/Block-Equity/) | | |	(operating)	| 	stellar protocol	| 	| | Stellar | | |
 |	Blockonix	| [![alt text][web]](https://blockonix.com)	| | [![alt text][whitepaper]](https://support.blockonix.com/hc/en-us/articles/360005080714-Blockonix-Whitepaper-Ver-1-0-0) | | 	| 	on-chain protocol	| | | Ethereum | |  |
 | 	Blockport	| 	[![alt text][web]](https://blockport.io/) | [![alt text][github]](https://github.com/Blockport)	| | | 	(dev)	| blockport protocol	| 3	| | | | |
@@ -141,7 +141,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	gnodex	| | [![alt text][github]](https://github.com/gnosis/gnodex)	| | | 	(dev)	| 	off-chain protocol	| 	| | | | |
 | 	gnosis-exchange	| | [![alt text][github]](https://github.com/gnosis/gnosis-exchange)	| | | 	(dev)	| 	TBC	| 	| | | | |
 | 	Graphene	| 	[![alt text][web]](http://docs.bitshares.eu//index.html) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 2	| | | | |
-| 	Heat	| 	[![alt text][web]](https://heatwallet.com) |	[![alt text][github]](https://github.com/Heat-Ledger-Ltd/) | [![alt text][whitepaper]](https://https://heatledger.com/HEATWhitepaper.pdf) | | 	(operating)	| 	asset-to-asset protocol	| 	| | | | |
+| 	Heat	| 	[![alt text][web]](https://heatwallet.com) |	| | | 	(operating)	| 	asset-to-asset protocol	| 	| | | | |
 | 	Herdius	| 	[![alt text][web]](https://herdius.com/) | [![alt text][web]](https://github.com/herdius)	| [![alt text][whitepaper]](https://herdius.com/whitepaper/Herdius%20Lightpaper.pdf) | | 	(dev)	| 	cross-chain protocol	| 	| | | | |
 | Huobi DEX |  |  |   |   | [(announced)](https://www.nasdaq.com/article/huobi-chain-project-plots-course-toward-a-decentralized-financial-platform-cm974007) | TBC |   |   | Huobi Chain |   |   | 
 | 	Hydra	| 	[![alt text][web]](http://libertaria.world/) |	| | | 	(dev - whitepaper)	| 	hydra protocol	| 2	| | | | |
@@ -374,8 +374,6 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 - [#inDEX featured @ SESAME OPEN](https://medium.com/sesameopen/the-paradox-of-decentralized-exchanges-many-projects-few-users-650b1b0c01c3)
 
 - [#inDEX featured @ EthHub](https://docs.ethhub.io/built-on-ethereum/decentralized-exchanges)
-
-- [#inDEX featured @ Blockbar](https://www.blockbar.nl/bdex-on-rpi/)
 
 ## License
 
