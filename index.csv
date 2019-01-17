@@ -34,7 +34,7 @@ Bitox Exchange, https://bitox.io, https://github.com/bitox-exchange, , FULLY, de
 BitShares, https://wallet.bitshares.org/, https://github.com/bitshares, http://docs.bitshares.org/bitshares/papers/, ACL-DCD-DC-DD-DG-FULLY, live, bitshares protocol (DPOS), "1,5,6", "Bitshares, Bitshares SmartCoins, bitUSD, bitCNY, bitEUR", Graphene Technology, , ,
 Blackhalo, http://blackhalo.info, https://github.com/dzimbeck/Halo, http://blackhalo.info/wp-content/uploads/2014/06/whitepaper_twosided.pdf, FULLY, operating - beta, TBC, , , , , ,
 Blockchain.io, https://blockchain.io, , https://blockchain.io/wp-content/uploads/2018/02/Manifesto_blockchain_HD.pdf, DS DSTT, dev, cross-chain protocol,3, , , , ,
-BLOCK DX, https://blocknet.co, https://github.com/BlocknetDX/BlockDX, https://www.blocknet.co/wp-content/uploads/2018/04/whitepaper.pdf, FULLY, operating - beta, blocknet protocol + 0x protocol, , , , , ,
+Block DX, https://blocknet.co/block-dx/, https://github.com/BlocknetDX/blockdx-ui, https://docs.blocknet.co/project/blocknet-whitepaper.pdf, FULLY, operating - beta, blocknet protocol,10,All,N/A,None, , 
 BlockEQ, https://www.blockeq.com/, https://github.com/Block-Equity/, , , operating, stellar protocol, , , Stellar, , ,
 Blockonix, https://blockonix.com, , https://support.blockonix.com/hc/en-us/articles/360005080714-Blockonix-Whitepaper-Ver-1-0-0, , , on-chain protocol, , , Ethereum, , ,
 Blockport, https://blockport.io, https://github.com/Blockport, , , dev, blockport protocol,3, , , , ,
