@@ -375,6 +375,8 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 - [#inDEX featured @ EthHub](https://docs.ethhub.io/built-on-ethereum/decentralized-exchanges)
 
+- [#inDEX featured @ Blockbar](https://www.blockbar.nl/bdex-on-rpi/)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
