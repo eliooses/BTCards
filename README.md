@@ -402,6 +402,10 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 + [https://0xtracker.com/trades](https://0xtracker.com/trades)
 + [https://dex.watch/](https://dex.watch/)
 
+## DEX Price Aggreators:
+
++ [https://dex.ag/](https://dex.ag/)
+
 ## DEX Trackers Statistics:
 
 + [https://etherscan.io/stat/dextracker](https://etherscan.io/stat/dextracker)
