@@ -15,7 +15,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 
 Many thanks to all the contributors, especially to [@amisolution](https://github.com/amisolution/) for all their contributions.
 
-|	Exchange	| URL	| REPO | DOCS | DEX GRADE | 	Status	| 	Protocol	| Reference | Asset | DLT | ORG |  |
+|	Exchange	| URL	| REPO | DOCS | DEX GRADE | 	Status	| 	Protocol	| Reference | Asset | DLT | ORG | API  |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) | [![alt text][github]](https://github.com/SetProtocol/set-protocol-contracts)	| [![alt text][whitepaper]](https://www.setprotocol.com/pdf/set_protocol_whitepaper.pdf) | | 	(dev)	| 	{Set} protocol	| 2	| ERC20 Tokens - Set Tokens | Ethereum | | |
 | 	0x	| 	[![alt text][web]](https://0x.org/) | [![alt text][github]](https://github.com/0xProject)	| [![alt text][whitepaper]](https://0x.org/pdfs/0x_white_paper.pdf) | | 	(live)	| 	0x protocol	| 2	| ERC20 Tokens  | Ethereum |  | |
@@ -27,7 +27,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Altcoin Exchange	| 	[![alt text][web]](https://www.altcoin.io/) | [![alt text][github]](https://github.com/AltCoinExchange/) | | | 	(dev)	| 	raiden protocol	|	| | | | |
 | ALTTEX | [![alt text][web]](https://alttex.io/) | [![alt text][github]](https://github.com/alttex/Alt-exchange) | [![alt text][whitepaper]](https://alttex.io/WhitePaper_En.pdf) |   | (dev) | 0x protocol |   | | | | |
 | 	Amadeus Relay	| 	[![alt text][web]](https://amadeusrelay.org/) | [![alt text][github]](https://github.com/AmadeusRelay)	| | | 	(dev)	| 	0x protocol	| 	| | | | |
-| 	AMP	| 	[![alt text][web]](https://amp.exchange/) | [![alt text][github]](https://github.com/proofsuite)	| | | 	(operating)	| 	| 	| ERC-20 | Ethereum | PROOF Suite | |
+| 	AMP	| 	[![alt text][web]](https://amp.exchange/) | [![alt text][github]](https://github.com/proofsuite)	| | | 	(operating)	| 	| 3	| ERC-20 | Ethereum | PROOF Suite | |
 | 	Angel 0x	| 	[![alt text][web]](https://angel0x.com/) |	| | | 	(dead)	| 	0x protocol	| 	| | | | |
 | 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) | [![alt text][github]](https://github.com/aphtoken/)	| [![alt text][whitepaper]](https://aphelion.org/wp.html) | | 	(live)	| 	NEO protocol	| 	| | | | |
 | Aqueduct | [![alt text][web]](https://aqueduct.ercdex.com) | [![alt text][github]](https://github.com/ercdex/aqueduct) | [![alt text][whitepaper]](https://aqueduct.ercdex.com/rest.html) |   | (released) | aqueduct protocol | 2 |   |   |   |   |
