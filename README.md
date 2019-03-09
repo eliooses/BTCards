@@ -411,9 +411,10 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 + [https://0xtracker.com/trades](https://0xtracker.com/trades)
 + [https://dex.watch/](https://dex.watch/)
 
-## DEX Price Aggregators:
+## DEX price comparison tools:
 
 + [https://dex.ag/](https://dex.ag/)
++ [https://dexindex.io/](https://dexindex.io/)
 
 ## DEX Trackers Statistics:
 
