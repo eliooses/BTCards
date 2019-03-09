@@ -27,7 +27,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Altcoin Exchange	| 	[![alt text][web]](https://www.altcoin.io/) | [![alt text][github]](https://github.com/AltCoinExchange/) | | | 	(dev)	| 	raiden protocol	|	| | | | |
 | ALTTEX | [![alt text][web]](https://alttex.io/) | [![alt text][github]](https://github.com/alttex/Alt-exchange) | [![alt text][whitepaper]](https://alttex.io/WhitePaper_En.pdf) |   | (dev) | 0x protocol |   | | | | |
 | 	Amadeus Relay	| 	[![alt text][web]](https://amadeusrelay.org/) | [![alt text][github]](https://github.com/AmadeusRelay)	| | | 	(dev)	| 	0x protocol	| 	| | | | |
-| 	AMP	| 	[![alt text][web]](https://amp.exchange/) | [![alt text][github]](https://github.com/proofsuite)	| | | 	(operating)	| 	| 3	| ERC-20 | Ethereum | PROOF Suite | |
+| 	AMP	| 	[![alt text][web]](https://amp.exchange/) | [![alt text][github]](https://github.com/proofsuite)	| | | 	(operating)	| 	| 3	| ERC20 Tokens | Ethereum | PROOF Suite | |
 | 	Angel 0x	| 	[![alt text][web]](https://angel0x.com/) |	| | | 	(dead)	| 	0x protocol	| 	| | | | |
 | 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) | [![alt text][github]](https://github.com/aphtoken/)	| [![alt text][whitepaper]](https://aphelion.org/wp.html) | | 	(live)	| 	NEO protocol	| 	| | | | |
 | Aqueduct | [![alt text][web]](https://aqueduct.ercdex.com) | [![alt text][github]](https://github.com/ercdex/aqueduct) | [![alt text][whitepaper]](https://aqueduct.ercdex.com/rest.html) |   | (released) | aqueduct protocol | 2 |   |   |   |   |
@@ -106,11 +106,12 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	dYdX	| [![alt text][web]](https://dydx.exchange/) | | [![alt text][whitepaper]](https://whitepaper.dydx.exchange/) | | 	(dev)	| 	dYdX protocol	| 5	| ERC20 Tokens - Dydx Derivatives (Option - Short Sell) | Ethereum | | |
 | 	EasyTrade	| 	[![alt text][web]](https://easytrade.io/) |	| | `FULLY` | 	(operating)	| 	0x protocol	|	| | | | |
 | Eidoo | [![alt text][web]](https://eidoo.io/) | [![alt text][github]](https://github.com/eidoo) | [![alt text][whitepaper]](https://eidoo.io/white-paper/) | `DCD` | (operating) | multi protocol | 3 | | | | |
-| 	Enclaves	| 	[![alt text][web]](https://enclaves.io) | [![alt text][github]](https://github.com/adamdossa)	| | | 	(operating)	| 	0x protocol	| 	| | Ethereum | | |
+| 	Enclaves	| 	[![alt text][web]](https://enclaves.io/) | [![alt text][github]](https://github.com/adamdossa)	| | | 	(operating)	| 	0x protocol	| 	| | Ethereum | | |
 | 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) | [![alt text][github]](https://github.com/enigmampc/)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_full.pdf) | | 	(proposed)	| 	enigma protocol	| 2	| All | All | | |
 | 	EOSDAQ	| 	[![alt text][web]](https://eosdaq.com/) |	| | | 	(dev)	| 	eos protocol	| 	| | EOS | | |
 | 	EOSfinex	| 	[![alt text][web]](https://eosfinex.com/) |	| | | 	(dev)	| 	eos protocol	| 	| | EOS | | |
-| 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
+| 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com/) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
+|	Eth2Dai	| [![alt text][web]](https://eth2dai.com/)	| [![alt text][github]](https://github.com/OasisDEX/eth2dai) |  | `FULLY` | 	(operating)	| 	on-chain protocol	|  | ERC20 Tokens | Ethereum | Maker DAO |  |
 | 	Ethen Market	| 	[![alt text][web]](https://ethen.market) | [![alt text][github]](https://github.com/ethenmarket)	| | | (operating)	| 	on-chain protocol	| 3	| ERC20 Tokens | Ethereum | | |
 | 	ETHERC	| 	[![alt text][web]](https://etherc.io/) | [![alt text][github]](https://github.com/ETHERCIO)	| [![alt text][whitepaper]](https://medium.com/@etherc_io/) | `FULLY` | 	(operating)	| 	on-chain protocol	| 	| | | | |
 | 	EtherDelta	| 	[![alt text][web]](https://etherdelta.com) | [![alt text][github]](https://github.com/etherdelta/etherdelta.github.io)	| | `FULLY` | 	(operating)	| 	on-chain protocol	| Ethereum	| | | | |
@@ -189,8 +190,8 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	NextExchange	| 	[![alt text][web]](https://next.exchange/) | [![alt text][github]](https://github.com/NextExchange)	| [![alt text][whitepaper]](https://next.exchange/whitepaper) | | 	(dev)	| 	0x	| 	| | | | |
 | 	NVO	| 	[![alt text][web]](https://nvo.io/) |	| | | 	(dev - launch Q1 2018)	| 	nvo protocol	|	| | | | |
 | 	Nxt	| 	[![alt text][web]](https://nxtplatform.org) |	| | | 	(operating)	| 	TBC	| 5	| | | | |
-| 	Oasis DEX	| 	[![alt text][web]](https://oasisdex.com) | [![alt text][github]](https://github.com/OasisDEX)	| [![alt text][whitepaper]](https://developer.makerdao.com/) | `FULLY` | 	(operating - alpha)	| 	on-chain protocol	| 	| | | | |
-| Oasis Direct | [![alt text][web]](https://oasis.direct/) | [![alt text][github]](https://github.com/OasisDEX) | [![alt text][whitepaper]](https://developer.makerdao.com/) | `FULLY` | (operating) | on-chain protocol |   |   |   |   |   |
+| 	Oasis DEX	| 	[![alt text][web]](https://oasisdex.com) | [![alt text][github]](https://github.com/OasisDEX/oasis)	| [![alt text][whitepaper]](https://developer.makerdao.com/) | `FULLY` | 	(shutting down)	| 	on-chain protocol	| 	| ERC20 Tokens | Ethereum | Maker DAO | [![alt text][web]](https://developer.makerdao.com/oasis/api/1) |
+| Oasis Direct | [![alt text][web]](https://oasis.direct/) | [![alt text][github]](https://github.com/OasisDEX/oasis-direct) | [![alt text][whitepaper]](https://developer.makerdao.com/) | `FULLY` | (shutting down) | on-chain protocol |   | ERC20 Tokens | Ethereum  | Maker DAO  | [![alt text][web]](https://developer.makerdao.com/oasis/api/1)  |
 | 	Omega One	| 	[![alt text][web]](https://omega.one/) |	| | | 	(ICO)	| 	TBC	| 	| | | | |
 | 	OmiseGO	| 	[![alt text][web]](https://omisego.network/) |	| | | 	(dev)	| 	omisego protocol	| 2 | All | All| | |
 | 	Omni DEX	| 	[![alt text][web]](http://omniexplorer.info/dex.aspx) |	| | | 	(operating)	| 	TBC	| 	| | | | |
@@ -252,7 +253,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Token Changer | [![alt text][web]](http://tokenchanger.io/) |   | [![alt text][whitepaper]](https://medium.com/tokenchanger/token-changer-whitepaper-18c0e7227c25) |   | (dev) | multi protocol |   | | | | |
 | Token Jar | [![alt text][web]](https://tokenjar.io/) |   |   | `FULLY` | (operating - kovan test) | 0x protocol |   |   |   |   |   |
 | Tokenlon | [![alt text][web]](https://tokenlon.token.im/tokenlon) | [![alt text][github]](https://github.com/consenlabs/tokenlon-sdk)  |   | `FULLY` | (operating) | 0x protocol & Kyber.Network protocol |   |   |   |   |   |
-| Tokenmon | [![alt text][web]](https://tokenmom.com/) |   |  |  `FULLY` | (operating) |  | | ERC-20 | Ethereum | 토큰맘 | [![alt text][web]](https://docs.tokenmom.com/#introduction) |
+| Tokenmon | [![alt text][web]](https://tokenmom.com/) |   |  |  `FULLY` | (operating) |  | | ERC20 Tokens | Ethereum | 토큰맘 | [![alt text][web]](https://docs.tokenmom.com/#introduction) |
 | 	Tokens | 	[![alt text][web]](https://www.tokens.net/) |	| | | 	(dev)	| dynamic trading rights protocol	| 	| | | | |
 | 	Token Store | 	[![alt text][web]](https://token.store) |	| | | 	(operating)	| TBC	|	| | | | |
 | 	Trade.io | 	[![alt text][web]](https://trade.io/) |	| [![alt text][whitepaper]](https://trade.io/whitepaper/ES.pdf) | | 	(dev)	| raiden protocol	| 	| | | | |

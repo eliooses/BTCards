@@ -9,7 +9,7 @@ Allbit, https://www.allbit.com,, https://static-allbit.s3.amazonaws.com/guide/AP
 Altcoin Exchange, https://www.altcoin.io, https://github.com/AltCoinExchange, , , dev, raiden protocol, , , , , ,
 ALTTEX, https://alttex.io, https://github.com/alttex/Alt-exchange, https://alttex.io/WhitePaper_Eng.pdf, , dev, 0x protocol, , , , , ,
 Amadeus Relay, http://amadeusrelay.org, https://github.com/AmadeusRelay, , , dev, 0x protocol, , , , , ,
-AMP, https://amp.exchange/, https://github.com/proofsuite, , , operating, , 3, ERC-20, Ethereum, PROOF Suite, ,
+AMP, https://amp.exchange/, https://github.com/proofsuite, , , operating, , 3, ERC20 Tokens, Ethereum, PROOF Suite, ,
 Angel 0x, https://angel0x.com, , , , dev, 0x protocol, , , , , ,
 Aphelion, https://aphelion.org, https://github.com/aphtoken, https://aphelion.org/wp.html, , dev - launch Q1 2018, deal protocol, , , , , ,
 Aqueduct, https://aqueduct.ercdex.com, https://github.com/ercdex/aqueduct, https://aqueduct.ercdex.com/rest.html, , released, aqueduct protocol,2, , , , ,
@@ -93,6 +93,7 @@ Enigma, https://www.enigma.co, https://github.com/enigmampc, https://www.enigma.
 EOSDAQ, https://eosdaq.com/, , , , dev, eos protocol, , , EOS, , ,
 EOSfinex, https://eosfinex.com, , , , dev, eos protocol, , , EOS, , ,
 ERC dEX, https://app.ercdex.com, , , , operating, 0x protocol, , , , , ,
+Eth2Dai, https://eth2dai.com/, https://github.com/OasisDEX/eth2dai, , FULLY, operating, on-chain protocol, , ERC20 Tokens, Ethereum, Maker DAO, ,
 Ethen Market, https://ethen.market, https://github.com/ethenmarket, , , operating, on-chain protocol,3, ERC20 Tokens, Ethereum, , ,
 ETHERC, https://etherc.io, https://github.com/ETHERCIO, https://medium.com/@etherc_io, FULLY, operating, on-chain protocol, , , , , ,
 EtherDelta, https://etherdelta.com, https://github.com/etherdelta/etherdelta.github.io, , FULLY, operating, on-chain protocol, Ethereum, , , , ,
@@ -171,8 +172,8 @@ NIX, https://nixplatform.io/, https://github.com/nixplatform/, https://nixplatfo
 NextExchange, https://next.exchange, https://github.com/NextExchange, https://next.exchange/whitepaper, , dev, 0x, , , , , ,
 NVO, https://nvo.io, , , , dev - launch Q1 2018, nvo protocol, , , , , ,
 Nxt, https://nxtplatform.org, , , , operating, TBC,5, , , , ,
-Oasis DEX, https://oasisdex.com, https://github.com/OasisDEX, https://developer.makerdao.com, FULLY, operating - alpha, on-chain protocol, , , , , ,
-Oasis Direct, https://oasis.direct, https://github.com/OasisDEX, https://developer.makerdao.com, FULLY, operating, on-chain protocol, , , , , ,
+Oasis DEX, https://oasisdex.com/, https://github.com/OasisDEX/oasis, https://developer.makerdao.com/, FULLY, shutting down, on-chain protocol, , ERC20 Tokens, Ethereum, Maker DAO, https://developer.makerdao.com/oasis/api/1
+Oasis Direct, https://oasis.direct/, https://github.com/OasisDEX/oasis-direct, https://developer.makerdao.com/, FULLY, shutting down, on-chain protocol, , ERC20 Tokens, Ethereum, Maker DAO, https://developer.makerdao.com/oasis/api/1
 Omega One, https://omega.one, , , , ICO, TBC, , , , , ,
 OmiseGO, https://omisego.network, , , , dev, omisego protocol,2, All, All, , ,
 Omni DEX, http://omniexplorer.info/dex.aspx, , , , operating, TBC, , , , , ,
@@ -234,7 +235,7 @@ Tokena, https://tokena.co, , , , dev, TBC, , , EOS, , ,
 Token Changer, http://tokenchanger.io, , https://medium.com/tokenchanger/token-changer-whitepaper-18c0e7227c25, , dev, multi protocol, , , , , ,
 Token Jar, https://tokenjar.io, , , FULLY, operating - kovan test, 0x protocol, , , , , ,
 Tokenlon, https://tokenlon.token.im/tokenlon, https://github.com/consenlabs/tokenlon-sdk, , FULLY, operating, 0x protocol & Kyber.Network protocol, , , , , ,
-Tokenmon, https://tokenmom.com/, , , FULLY, operating, , , ERC-20, Ethereum, 토큰맘, https://docs.tokenmom.com/#introduction
+Tokenmon, https://tokenmom.com/, , , FULLY, operating, , , ERC20 Tokens, Ethereum, 토큰맘, https://docs.tokenmom.com/#introduction
 Tokens, https://www.tokens.net, , , , dev, dynamic trading rights protocol, , , , , ,
 Token Store, https://token.store, , , , operating, TBC, , , , , ,
 Trade.io, https://trade.io, , https://trade.io/whitepaper/ES.pdf, , dev, raiden protocol, , , , , ,
