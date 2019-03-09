@@ -6,12 +6,12 @@ A comprehensive list of decentralized exchanges (DEX).
 
 > This is a list of decentralized exchanges of cryptographic assets (cryptocurrencies, tokens, derivatives, futures...) and their protocols, without a central entity. The architecture of these and their protocols can be quite different from one another. In some cases, they are built projects entirely open source. In other cases, they are closed in some aspects, but still implemented open or decentralized tools or mechanisms like smart contracts that are publicly verifiable. Other projects have chosen to create their own distributed ledger technology (DTL) in order to build a protocol for exchange.
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
 Please, consider [contributing](https://github.com/distribuyed/index/blob/master/CONTRIBUTING.md) and/or **donate** (I have a really big stomach to maintain. 🍺 🍔 🍩):
 
  - **eth**: 0x81404BE6B9d46554ADAbCc7599967cF157720d31
  - **btc**: 1HUwxzaNoo1Qdw9Sh5esHhAf5FXFZ7tk8N
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Many thanks to all the contributors, especially to [@amisolution](https://github.com/amisolution/) for all their contributions.
 
@@ -132,6 +132,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 |	FairDEX	| [![alt text][web]](https://fairdex.net/)	|  | [![alt text][whitepaper]](https://dutchx.readthedocs.io/en/latest) |  | 	(operating)	| 	DutchX protocol	|  | ERC20 tokens | Ethereum | Gnosis | [![alt text][web]](https://dutchx.d.exchange/api/) |
 | FairX | [![alt text][web]](https://fairx.io/) | [![alt text][github]](https://github.com/fairxio/) | [![alt text][whitepaper]](https://github.com/fairxio/docs) |   | (dev) | stellar consensus protocol | 6 | | | | |
 | 	faast	| 	[![alt text][web]](https://faa.st/) | [![alt text][github]](https://github.com/go-faast)	| | `FULLY` | 	(dev)	| 	0x protocol	| 14	| | | | |
+|	Fetch	| [![alt text][web]](https://hellofetch.co/)	|  |  |  | 	(operating)	| | 4 |  |  | |  |
 | 	Fetch Trading	| 	[![alt text][web]](http://www.fetchtrading.com/) |	| | | 	(dev)	| 	0x protocol	| 	| | | | |
 | 	Flipper0x	| 	[![alt text][web]](https://flipper0x.io/) |	| | | 	(dev)	| 	0x protocol	| 	| | | | |
 | 	Forkdelta	| 	[![alt text][web]](https://forkdelta.github.io) |	[![alt text][github]](https://github.com/forkdelta/) | | | 	(operating)	| 	on-chain protocol	| 	| | | | |
