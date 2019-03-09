@@ -129,7 +129,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Exchange Union	| 	[![alt text][web]](https://www.exchangeunion.com) | [![alt text][github]](https://github.com/exchangeunion)	| [![alt text][whitepaper]](https://api.exchangeunion.com/pdf/en/ExchangeUnion-WhitePaper.pdf) | `DS` `DOB` `DD` `OPRO` | 	(dev)	| 	exchange union protocol	| 	| All | All | | |
 | 	Exchangily	| 	[![alt text][web]](https://exchangily.com/) | [![alt text][github]](https://github.com/blockchaingate)	| [![alt text][whitepaper]](https://exchangily.com/assets/pdfs/wp-en.pdf) | `DOM` `FULLY` `DG` `OPRO` `RELAY` `ACL` | 	(dev)	| 	Fast Access Blockchain protocol	| 	| All | Fast Access Blockchain (FAB) | | |
 | Expread | [![alt text][web]](http://expread.io/) |   | [![alt text][whitepaper]](http://expread.io/home/EXPREAD_WhitePaper_Version2.1-final.compressed.pdf) |   | (dev) | payment channels protocol |   | | | | |
-|	FairDEX	| [![alt text][web]](https://fairdex.net/)	|  | [![alt text][whitepaper]](https://dutchx.readthedocs.io/en/latest) |  | 	(operating)	| 	DutchX protocol	|  | ERC20 tokens | Ethereum | Gnosis |  |
+|	FairDEX	| [![alt text][web]](https://fairdex.net/)	|  | [![alt text][whitepaper]](https://dutchx.readthedocs.io/en/latest) |  | 	(operating)	| 	DutchX protocol	|  | ERC20 tokens | Ethereum | Gnosis | [![alt text][web]](https://dutchx.d.exchange/api/) |
 | FairX | [![alt text][web]](https://fairx.io/) | [![alt text][github]](https://github.com/fairxio/) | [![alt text][whitepaper]](https://github.com/fairxio/docs) |   | (dev) | stellar consensus protocol | 6 | | | | |
 | 	faast	| 	[![alt text][web]](https://faa.st/) | [![alt text][github]](https://github.com/go-faast)	| | `FULLY` | 	(dev)	| 	0x protocol	| 14	| | | | |
 | 	Fetch Trading	| 	[![alt text][web]](http://www.fetchtrading.com/) |	| | | 	(dev)	| 	0x protocol	| 	| | | | |
@@ -231,6 +231,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Shark Relay | [![alt text][web]](https://app.sharkrelay.com/) |   | [![alt text][whitepaper]](https://sharkrelay.com/#faq) | `FULLY` `RELAY` | (operating - beta) | 0x protocol |   |   |   |   |   |
 | SimpleDEX | [![alt text][web]](https://simpledex.io/exchange) |	| | | 	(dev)	| 	0x protocol	|	| ERC20 Tokens | Ethereum | | |
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	| | | | |
+|	Slow.trade	| [![alt text][web]](https://slow.trade/)	|  | [![alt text][whitepaper]](https://dutchx.readthedocs.io/en/latest) |  | 	(operating)	| 	DutchX protocol	|  | ERC20 tokens | Ethereum | Gnosis | [![alt text][web]](https://dutchx.d.exchange/api/)  |
 | 	Smart-Exchange	| 	|	| [![alt text][whitepaper]](https://debris.gitbooks.io/ethchange/content/) | | 	(dev - whitepaper)	| icap protocol | 	| | | | |
 | Snowglobe | [![alt text][web]](https://auroradao.com/faq/) |   |   |   | (dev) | snowglobe protocol | 2 | ERC20 Tokens | Ethereum | | |
 | Sparkswap | [![alt text][web]](https://sparkswap.com/) | [![alt text][github]](https://github.com/sparkswap)  | [![alt text][whitepaper]](https://sparkswap.com/docs/getting-started)  | `FULLY` | (dev) | atomic swap protocol | ⚡️ |   |   |   |   |
