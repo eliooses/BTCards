@@ -258,6 +258,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Tokenmon | [![alt text][web]](https://tokenmom.com/) |   |  |  `FULLY` | (operating) |  | | ERC20 Tokens | Ethereum | 토큰맘 | [![alt text][web]](https://docs.tokenmom.com/#introduction) |
 | 	Tokens | 	[![alt text][web]](https://www.tokens.net/) |	| | | 	(dev)	| dynamic trading rights protocol	| 	| | | | |
 | 	Token Store | 	[![alt text][web]](https://token.store) |	| | | 	(operating)	| TBC	|	| | | | |
+|	Totle	| [![alt text][web]](https://www.totle.com/)	| [![alt text][github]](https://github.com/TotlePlatform) | [![alt text][whitepaper]](https://www.totle.com/developers) | `FULLY` | 	(operating)	| 	multi protocol	| 15 |  |  | Totle Inc. | [![alt text][web]](https://www.totle.com/developers)  |
 | 	Trade.io | 	[![alt text][web]](https://trade.io/) |	| [![alt text][whitepaper]](https://trade.io/whitepaper/ES.pdf) | | 	(dev)	| raiden protocol	| 	| | | | |
 | 	TRON DEX | 	[![alt text][web]](http://trx.market) | [![alt text][github]](https://github.com/tronprotocol)	| | | 	(operating)	| tron protocol	| 	| | | | |
 | 	TrueBit | 	[![alt text][web]](https://truebit.io/) |	[![alt text][github]](https://github.com/TrueBitFoundation) | [![alt text][whitepaper]](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf) | | 	(dev)	| truebit protocol	| 2	| | | | |
@@ -325,6 +326,8 @@ TBC: To be confirmed.
 ⚡️: Lightning Network exchange.
 
 14: Instant Exchange
+
+15: DEX liquidity aggregator
 
 ## **DEX GRADE**:
 
