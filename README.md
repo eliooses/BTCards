@@ -12,7 +12,7 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 
  - **eth**: 0x81404BE6B9d46554ADAbCc7599967cF157720d31
  - **btc**: 1HUwxzaNoo1Qdw9Sh5esHhAf5FXFZ7tk8N
- 
+
 Many thanks to all the contributors, especially to [@amisolution](https://github.com/amisolution/) for all their contributions.
 
 |	Exchange	| URL	| REPO | DOCS | DEX GRADE | 	Status	| 	Protocol	| Reference | Asset | DLT | ORG |  |
@@ -27,6 +27,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Altcoin Exchange	| 	[![alt text][web]](https://www.altcoin.io/) | [![alt text][github]](https://github.com/AltCoinExchange/) | | | 	(dev)	| 	raiden protocol	|	| | | | |
 | ALTTEX | [![alt text][web]](https://alttex.io/) | [![alt text][github]](https://github.com/alttex/Alt-exchange) | [![alt text][whitepaper]](https://alttex.io/WhitePaper_En.pdf) |   | (dev) | 0x protocol |   | | | | |
 | 	Amadeus Relay	| 	[![alt text][web]](https://amadeusrelay.org/) | [![alt text][github]](https://github.com/AmadeusRelay)	| | | 	(dev)	| 	0x protocol	| 	| | | | |
+| 	AMP	| 	[![alt text][web]](https://amp.exchange/) | [![alt text][github]](https://github.com/proofsuite)	| | | 	(operating)	| 	| 	| ERC-20 | Ethereum | PROOF Suite | |
 | 	Angel 0x	| 	[![alt text][web]](https://angel0x.com/) |	| | | 	(dead)	| 	0x protocol	| 	| | | | |
 | 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) | [![alt text][github]](https://github.com/aphtoken/)	| [![alt text][whitepaper]](https://aphelion.org/wp.html) | | 	(live)	| 	NEO protocol	| 	| | | | |
 | Aqueduct | [![alt text][web]](https://aqueduct.ercdex.com) | [![alt text][github]](https://github.com/ercdex/aqueduct) | [![alt text][whitepaper]](https://aqueduct.ercdex.com/rest.html) |   | (released) | aqueduct protocol | 2 |   |   |   |   |
@@ -81,7 +82,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	DecentralizedEXchange	| | [![alt text][github]](https://github.com/Dexaran/DecentralizedEXchange) | | | 	(dev)	| 	TBC	| 	| | | | |
 | 	DECENTREX	| 	[![alt text][web]](https://decentrex.com/) |	| | | 	(dead)	| 	on-chain protocol	| 	| | | | |
 | 	Dether	| 	[![alt text][web]](https://dether.io/) | [![alt text][github]](https://github.com/dethertech)	| [![alt text][whitepaper]](https://whitepaper.dether.io/) | | 	(dev)	| 	TBC	| 6	| | | | |
-| Deviant DEX | [![alt text][web]](https://deviantcoin.io/) | [![alt text][github]](https://github.com/Deviantcoin) | [![alt text][whitepaper]](https://deviantcoin.io/whitepaper.pdf) |   | [(announced)](https://twitter.com/DeviantCoin/status/962108577157562368/) | TBC |   | | | | 
+| Deviant DEX | [![alt text][web]](https://deviantcoin.io/) | [![alt text][github]](https://github.com/Deviantcoin) | [![alt text][whitepaper]](https://deviantcoin.io/whitepaper.pdf) |   | [(announced)](https://twitter.com/DeviantCoin/status/962108577157562368/) | TBC |   | | | |
 | DEX |   | [![alt text][github]](https://github.com/ltfschoen/dex) |   |   | (dev) | 0x protocol |   | | | | |
 | Dexdex | [![alt text][web]](https://dexdex.io/) | [![alt text][github]](https://github.com/dexdexplatform) |   | `FULLY` | (dev) | 0x protocol |   | | | | |
 | DEXEOS | [![alt text][web]](https://dexeos.io/) | [![alt text][github]](https://github.com/DEXEOS) |   | `FULLY` | (operating) | EOS |   | | EOS | WIZLAB  | |
@@ -143,7 +144,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Graphene	| 	[![alt text][web]](http://docs.bitshares.eu//index.html) |	| | | 	(operating)	| 	bitshares protocol (Graphene)	| 2	| | | | |
 | 	Heat	| 	[![alt text][web]](https://heatwallet.com) |	[![alt text][github]](https://github.com/Heat-Ledger-Ltd/) | [![alt text][whitepaper]](https://https://heatledger.com/HEATWhitepaper.pdf) | | 	(operating)	| 	asset-to-asset protocol	| 	| | | | |
 | 	Herdius	| 	[![alt text][web]](https://herdius.com/) | [![alt text][web]](https://github.com/herdius)	| [![alt text][whitepaper]](https://herdius.com/whitepaper/Herdius%20Lightpaper.pdf) | | 	(dev)	| 	cross-chain protocol	| 	| | | | |
-| Huobi DEX |  |  |   |   | [(announced)](https://www.nasdaq.com/article/huobi-chain-project-plots-course-toward-a-decentralized-financial-platform-cm974007) | TBC |   |   | Huobi Chain |   |   | 
+| Huobi DEX |  |  |   |   | [(announced)](https://www.nasdaq.com/article/huobi-chain-project-plots-course-toward-a-decentralized-financial-platform-cm974007) | TBC |   |   | Huobi Chain |   |   |
 | 	Hydra	| 	[![alt text][web]](http://libertaria.world/) |	| | | 	(dev - whitepaper)	| 	hydra protocol	| 2	| | | | |
 | 	HyperDEX	| 	[![alt text][web]](https://github.com/lukechilds/hyperdex) |	| | | 	(dev - private testing phase)	| 	barterdex protocol	| 	| | | | |
 | 	Hodl Hodl	| 	[![alt text][web]](https://hodlhodl.com/) |	| | `DCD` `DSTT` | 	(operating)	|  | 3 | | | | |
@@ -283,7 +284,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 |   Zip Exchange | [![alt text][web]](https://zip.exchange/) | | | | (dev) | 0x protocol |	| | | | |
 
 
-## **REFERENCES**: 
+## **REFERENCES**:
 
 N/A: Not applicable
 
@@ -330,8 +331,8 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
  - **Accountless**: The project should be accesible without registration, KYC or AML policies. `ACL`
  - **Decentralized Capital Deposits (self-custodied)**: You should be able to trade directly out of your own wallet. `DCD`
  - **Decentralized Client**: The trades should be possibles through a downloadable client or build it from source. `DC`  
- - **Decentralized Development**: The project should be open source. `DD` 
- - **Decentralized DNS**: The project should be accessible through a decentralized domain name service (like [ENS](https://ens.domains/)). `DDNS` 
+ - **Decentralized Development**: The project should be open source. `DD`
+ - **Decentralized DNS**: The project should be accessible through a decentralized domain name service (like [ENS](https://ens.domains/)). `DDNS`
  - **Decentralized Governance**: The direction of the project should be governed by the project's service providers. `DG`
  - **Decentralized Order Books**: Orderbooks should be synced among various parties to prevent any malicious behavior in  a similar way that blockchain validation consensus is decentralized. `DOB`
  - **Decentralized Order Matching**: The matching of orders should be decentralized among different parties. `DOM`
@@ -343,7 +344,7 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
 
 If you know in details or are you the owner/dev of any DEX, please fill the column with all the codes that correspond creating an [issue](https://github.com/distribuyed/index/issues) or [pull request](https://github.com/distribuyed/index/pulls) to suggest changes to this file.
 
-## **SOURCES**: 
+## **SOURCES**:
 
  - [@oseselio](https://twitter.com/oseselio) research for "Mercados Descentralizados | #dsociety" book project.
  - [Protocols for Decentralized Exchange](https://github.com/evbots/dex-protocols) by [Evan Botello](https://github.com/evbots/): [https://github.com/evbots/dex-protocols](https://github.com/evbots/dex-protocols)
@@ -351,16 +352,16 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 ## **About this list**:
 
- - [#inDEX PR @ Medium](https://medium.com/@oseselio/index-a-comprehensive-list-of-decentralized-exchanges-cf4985c79d7e) 
- 
+ - [#inDEX PR @ Medium](https://medium.com/@oseselio/index-a-comprehensive-list-of-decentralized-exchanges-cf4985c79d7e)
+
 ## **inDEX in the news**:
 
  - [#inDEX featured @ Bitcoin.com](https://news.bitcoin.com/decentralized-exchange-compendium-index-lists-over-200-dex-platforms)
- 
+
  - [#inDEX featured @ DECENTRALIZED TV](https://decentralized.tv/decentralized-exchanges-dex-will-be-the-future-when-they-can-get-their-sht-together/)
 
  - [#inDEX featured @ NewsBTC](https://www.newsbtc.com/2018/06/05/dozens-decentralized-exchanges-making-mark-cryptocurrency-industry)
- 
+
 - [#inDEX featured @ Blockchain in Beach](https://www.blockchainbeach.com/why-decentralized-exchanges-dex-are-the-future/)
 
 - [#inDEX featured @ The Block Crypto](https://medium.com/the-block-crypto/block-by-block-cryptocurrency-exchanges-867862226e4a)
@@ -387,9 +388,9 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 # **#DEX in social networks**:
 
- - [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
+ - [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/)
 
-# **DECENTRALIZATION RESOURCES**: 
+# **DECENTRALIZATION RESOURCES**:
 
 ## DEX Order Books:
 
