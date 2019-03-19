@@ -204,6 +204,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Open Relay	| 	[![alt text][web]](https://openrelay.xyz/) | | | `FULLY` `RELAY` | (dev - private alpha) | 0x protocol | | | | | |
 | Open Trading Network | [![alt text][web]](https://otn.org/) | [![alt text][github]](https://github.com/OpenTradingNetworkFoundation) | [![alt text][whitepaper]](https://otn.org/assets/resources/Open-Trading-Network-white-paper_en.pdf) |   | (dev) | otn protocol |   |   |   |   |   |
 | 	Orderbook	| 	[![alt text][web]](https://www.orderbook.io) | [![alt text][github]](https://github.com/Orderbookio)	| [![alt text][whitepaper]](https://ico.orderbook.io/files/orderbook_WP.pdf)  | | 	(released)	| 	ethereum protocol	| 	| | | | |
+| 	Ordermatch	| 	[![alt text][web]](https://ordermatch.io) |	 |  |  | 	(live)	| 	0x protocol	| | | | | |
 | 	Paradex	| 	[![alt text][web]](https://app.paradex.io/) | [![alt text][github]](https://github.com/ParadexRelayer)	| | | 	(live - beta)	| 	0x protocol	| 	| | | | |
 | 	Paradigm	| 	[![alt text][web]](https://paradigm.market/) | [![alt text][github]](https://github.com/ParadigmFoundation)	| [![alt text][whitepaper]](https://paradigm.market/whitepaper.pdf) | `FULLY`  | 	(dev)	| 	paradigm protocol	| 	| | | | |
 | Plaak | [![alt text][web]](http://exchange.plaak.com/landing.php) | [![alt text][github]](https://github.com/zeked2013/PLAAK) | [![alt text][whitepaper]](http://plaak.com/docs/PLAAK-Whitepaper-V2-Freelance.pdf) | `DCD` | (dev) | TBC |   | | | | |
@@ -338,7 +339,7 @@ This is just a draft written by [Hanni Abu](https://github.com/HanniAbu), [Steve
 
  - **Accountless**: The project should be accesible without registration, KYC or AML policies. `ACL`
  - **Decentralized Capital Deposits (self-custodied)**: You should be able to trade directly out of your own wallet. `DCD`
- - **Decentralized Client**: The trades should be possibles through a downloadable client or build it from source. `DC`  
+ - **Decentralized Client**: The trades should be possibles through a downloadable client or build it from source. `DC`
  - **Decentralized Development**: The project should be open source. `DD`
  - **Decentralized DNS**: The project should be accessible through a decentralized domain name service (like [ENS](https://ens.domains/)). `DDNS`
  - **Decentralized Governance**: The direction of the project should be governed by the project's service providers. `DG`
